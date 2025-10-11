@@ -176,7 +176,7 @@ components:
         week_start:
           type: string
           format: date
-          example: "2024-04-01"
+          example: "2025-10-06"
           description: その週の開始日（月曜日）
         menus:
           type: array
@@ -229,7 +229,7 @@ paths:
           schema:
             type: string
             format: date
-          example: "2024-04-01"
+          example: "2025-10-06"
           description: その週の開始日（月曜日）の日付（YYYY-MM-DD形式）
       responses:
         '200':
