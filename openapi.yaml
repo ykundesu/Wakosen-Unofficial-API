@@ -5,7 +5,7 @@ info:
     和歌山高専アプリのためのクラスデータと食事メニューAPIです。<br>
     返されるデータはすべてCloudflare Pgaesから返される静的なものです。
     <h2>免責</h2>
-    ユーザーが作成したものであり、公式ではありません。<br>
+    これはユーザーが作成したものであり、公式ではありません。<br>
     含まれているデータには不正確なものが含まれている場合があります。<br>
     開発者はこのAPIを使用したことによる損害について一切の責任を負いません。<br>
     開発者はこのAPIが常に使用可能なことを保証しません。<br>
@@ -185,7 +185,7 @@ components:
           description: 1週間の食事メニュー配列
 
 paths:
-  /classes/{year_class}/{grade_semester}.json:
+  /v1/classes/{year_class}/{grade_semester}.json:
     get:
       summary: クラスデータを取得
       description: |
@@ -218,7 +218,7 @@ paths:
         '500':
           description: サーバー内部エラー
 
-  /meals/{week_start}.json:
+  /v1/meals/{week_start}.json:
     get:
       summary: 食事メニューを取得
       description: 指定された週の食事メニューを取得します

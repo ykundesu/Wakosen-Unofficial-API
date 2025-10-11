@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Swagger UI</title>
+  <link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist/swagger-ui.css"/>
+</head>
+<body>
+  <div id="swagger-ui"></div>
+  <script src="https://unpkg.com/swagger-ui-dist/swagger-ui-bundle.js"></script>
+  <script>
+    window.ui = SwaggerUIBundle({
+      url: "https://wakosen-app-api.yoking.dev/openapi.yaml",         // または外部URL
+      dom_id: "#swagger-ui",
+      deepLinking: true,
+      docExpansion: "none",          // "none" | "list" | "full"
+      displayOperationId: true,
+      filter: true,                  // 右上のフィルタ入力を表示
+      operationsSorter: "alpha",     // アルファベット順に並べる
+      tagsSorter: "alpha",
+      // validatorUrl: null,         // バリデータを無効にする場合
+    });
+  </script>
+</body>
+</html>
