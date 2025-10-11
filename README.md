@@ -8,4 +8,4 @@
 - 開発者は常に最新の情報が反映されていることを保証しません。
 ## OpenAPI スキーマ
 - [openapi.yaml](openapi.yaml)
-Swagger UI: [https://wakosen-app-api.yoking.dev/](https://wakosen-app-api.yoking.dev/)
+- Swagger UI: [https://wakosen-app-api.yoking.dev/](https://wakosen-app-api.yoking.dev/)
