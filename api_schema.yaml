@@ -1,0 +1,244 @@
+openapi: 3.0.3
+info:
+  title: Wakayama Kosen App(Unofficial) API
+  description: |
+    和歌山高専アプリのためのクラスデータと食事メニューAPIです。<br>
+    返されるデータはすべてCloudflare Pgaesから返される静的なものです。
+    <h2>免責</h2>
+    ユーザーが作成したものであり、公式ではありません。<br>
+    含まれているデータには不正確なものが含まれている場合があります。<br>
+    開発者はこのAPIを使用したことによる損害について一切の責任を負いません。<br>
+    開発者はこのAPIが常に使用可能なことを保証しません。<br>
+  version: 1.0.0
+  contact:
+    name: ykundesu
+    email: wakosen-app@yoking.dev
+
+servers:
+  - url: https://wakosen-app-api.yoking.dev
+    description: 本番環境サーバー
+  - url: http://localhost:8000
+    description: 開発環境サーバー
+
+components:
+  schemas:
+    ClassItem:
+      type: object
+      required:
+        - start
+        - end
+        - name
+      properties:
+        start:
+          type: string
+          format: time
+          example: "08:55"
+          description: 授業開始時間（HH:MM形式）
+        end:
+          type: string
+          format: time
+          example: "10:25"
+          description: 授業終了時間（HH:MM形式）
+        name:
+          type: string
+          example: "数学"
+          description: 授業名またはHRなどの名称
+        teacher:
+          type: string
+          nullable: true
+          example: "田中"
+          description: 担当教師名(NULLの場合あり)
+
+    ClassData:
+      type: object
+      required:
+        - day
+        - classes
+      properties:
+        day:
+          type: integer
+          minimum: 0
+          maximum: 4
+          example: 0
+          description: 曜日（0=月曜日, 1=火曜日, 2=水曜日, 3=木曜日, 4=金曜日）
+        classes:
+          type: array
+          items:
+            $ref: '#/components/schemas/ClassItem'
+          description: その日の授業配列
+
+    Nutrition:
+      type: object
+      properties:
+        energyKcal:
+          type: number
+          nullable: true
+          example: 617
+          description: エネルギー（kcal）
+        proteinG:
+          type: number
+          nullable: true
+          example: 21.1
+          description: タンパク質（g）
+        fatG:
+          type: number
+          nullable: true
+          example: 26.5
+          description: 脂質（g）
+        calciumMg:
+          type: number
+          nullable: true
+          example: 274
+          description: カルシウム（mg）
+        saltG:
+          type: number
+          nullable: true
+          example: 3.6
+          description: 食塩相当量（g）
+
+    Menu:
+      type: object
+      required:
+        - type
+        - mainType
+        - main
+        - subs
+      properties:
+        type:
+          type: string
+          enum: [A, B, カレー]
+          example: "A"
+          description: メニュータイプ（A定食、B定食、カレーなど）
+        mainType:
+          type: string
+          example: "ライス"
+          description: 主食タイプ
+        main:
+          type: string
+          example: "ウィンナー（2本）"
+          description: 主菜
+        subs:
+          type: array
+          items:
+            type: string
+          example: ["人参と玉子の炒め", "大根とわかめの味噌汁（減塩）", "牛乳"]
+          description: 副菜・飲み物などの配列
+        nutrition:
+          $ref: '#/components/schemas/Nutrition'
+          description: 栄養情報（利用可能な場合のみ）
+
+    DayMenu:
+      type: object
+      required:
+        - date
+        - breakfast
+        - lunch
+        - dinner
+      properties:
+        date:
+          type: string
+          format: date
+          example: "2025-10-06"
+          description: 日付（YYYY-MM-DD形式）
+        breakfast:
+          type: array
+          items:
+            $ref: '#/components/schemas/Menu'
+          description: 朝食メニュー
+        lunch:
+          type: array
+          items:
+            $ref: '#/components/schemas/Menu'
+          description: 昼食メニュー
+        dinner:
+          type: array
+          items:
+            $ref: '#/components/schemas/Menu'
+          description: 夕食メニュー
+
+    ClassesResponse:
+      type: object
+      required:
+        - data
+      properties:
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/ClassData'
+          description: 1週間のクラスデータ配列
+
+    MealsResponse:
+      type: object
+      required:
+        - week_start
+        - menus
+      properties:
+        week_start:
+          type: string
+          format: date
+          example: "2024-04-01"
+          description: その週の開始日（月曜日）
+        menus:
+          type: array
+          items:
+            $ref: '#/components/schemas/DayMenu'
+          description: 1週間の食事メニュー配列
+
+paths:
+  /classes/{year_class}/{grade_semester}.json:
+    get:
+      summary: クラスデータを取得
+      description: |
+        指定された年次クラスの授業データを取得します<br>
+        2023年度以降のデータのみ取得可能です。
+      parameters:
+        - name: year_class
+          in: path
+          required: true
+          schema:
+            type: string
+          example: "2024A"
+          description: "年次クラス（例: 2024A, 2024B, 2025Aなど）"
+        - name: grade_semester
+          in: path
+          required: true
+          schema:
+            type: string
+          example: "1_0"
+          description: "学年と学期の組み合わせ（例: 1_0=1年前期, 1_1=1年後期, 2_0=2年前期など）"
+      responses:
+        '200':
+          description: クラスデータが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ClassesResponse'
+        '404':
+          description: 指定されたクラスデータが見つからない場合
+        '500':
+          description: サーバー内部エラー
+
+  /meals/{week_start}.json:
+    get:
+      summary: 食事メニューを取得
+      description: 指定された週の食事メニューを取得します
+      parameters:
+        - name: week_start
+          in: path
+          required: true
+          schema:
+            type: string
+            format: date
+          example: "2024-04-01"
+          description: その週の開始日（月曜日）の日付（YYYY-MM-DD形式）
+      responses:
+        '200':
+          description: 食事メニューが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MealsResponse'
+        '404':
+          description: 指定された週の食事データが見つからない場合
+        '500':
+          description: サーバー内部エラー
