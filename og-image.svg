@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="和歌山高専アプリ API">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif">
+    <text x="60" y="200" font-size="55" fill="#93c5fd" opacity="0.9">WAKOSEN UNOFFICIAL API</text>
+    <text x="60" y="290" font-size="84" fill="#ffffff" font-weight="700">和歌山高専 非公式API</text>
+    <text x="60" y="360" font-size="40" fill="#cbd5e1">授業・寮食メニューの非公式API</text>
+    <rect x="60" y="400" rx="10" ry="10" width="740" height="80" fill="#334155" opacity="0.9"/>
+    <text x="90" y="455" font-size="36" fill="#e2e8f0">https://wakosen-app-api.yoking.dev/</text>
+  </g>
+  <g transform="translate(930,130)">
+    <circle cx="90" cy="90" r="90" fill="#38bdf8" opacity="0.2"/>
+    <circle cx="140" cy="40" r="40" fill="#22d3ee" opacity="0.25"/>
+    <circle cx="40" cy="180" r="60" fill="#60a5fa" opacity="0.2"/>
+  </g>
+</svg>
