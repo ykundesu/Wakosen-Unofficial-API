@@ -1,1 +1,60 @@
-{"data":[{"day":1,"classes":[{"start":"10:35","end":"12:05","name":"技術者倫理","teacher":"志村"},{"start":"12:55","end":"14:25","name":"特別研究Ⅱ","teacher":null}]},{"day":2,"classes":[{"start":"12:55","end":"14:25","name":"特別研究Ⅱ","teacher":null}]},{"day":3,"classes":[{"start":"10:35","end":"12:05","name":"環境マネジメント","teacher":"平野廣佑"},{"start":"12:55","end":"14:25","name":"特別研究Ⅱ","teacher":null}]},{"day":4,"classes":[{"start":"12:55","end":"14:25","name":"工学特別ゼミナール","teacher":null}]}]}
+{
+  "data": [
+    {
+      "day": 1,
+      "classes": [
+        {
+          "start": "10:35",
+          "end": "12:05",
+          "name": "技術者倫理",
+          "teacher": "志村"
+        },
+        {
+          "start": "12:55",
+          "end": "14:25",
+          "name": "特別研究Ⅱ",
+          "teacher": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "classes": [
+        {
+          "start": "12:55",
+          "end": "14:25",
+          "name": "特別研究Ⅱ",
+          "teacher": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "classes": [
+        {
+          "start": "10:35",
+          "end": "12:05",
+          "name": "環境マネジメント",
+          "teacher": "平野廣佑"
+        },
+        {
+          "start": "12:55",
+          "end": "14:25",
+          "name": "特別研究Ⅱ",
+          "teacher": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "classes": [
+        {
+          "start": "12:55",
+          "end": "14:25",
+          "name": "工学特別ゼミナール",
+          "teacher": null
+        }
+      ]
+    }
+  ]
+}
