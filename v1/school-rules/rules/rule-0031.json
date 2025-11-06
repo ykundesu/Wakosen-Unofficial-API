@@ -1,0 +1,106 @@
+{
+  "id": "rule-0031",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校第三者評価対応作業部会設置要項",
+  "order": 27,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/01/29f07e39ee016bb0724b6ff350c213ce.pdf",
+  "summary": "和歌山工業高等専門学校の第三者評価対応作業部会設置要項を定めた規則です",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0031-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0031-article-0001",
+          "label": "第1条",
+          "body": "この要項は、和歌山工業高等専門学校の自己点検·評価等に関する規則(以下「自己点検·評価規則」という。)第8条の規定に基づき、第三者評価対応作業部会(以下「作業部会」という。)に関し、必要な事項を定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0002",
+          "label": "第2条",
+          "body": "作業部会は、運営委員会からの要請に応じ、第三者評価に係る作業を行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0003",
+          "label": "第3条",
+          "body": "作業部会は、校長が必要と認めた者をもって組織する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0004",
+          "label": "第4条",
+          "body": "委員の任期は第三者評価が実施される年度末までとし、再任を妨げない。ただし、委員に欠員が生じた場合の後任委員の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0005",
+          "label": "第5条",
+          "body": "作業部会に部会長を置き、校長が任命した者をもって充てる。\n\n2 作業部会は、部会長が招集し、その議長となる。\n\n3 部会長に事故あるときは、部会長があらかじめ指名した委員がその職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0006",
+          "label": "第6条",
+          "body": "部会長が必要と認めた場合は、委員以外の者を作業部会に加えることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0007",
+          "label": "第7条",
+          "body": "部会長は、作業内容を立案するとともに進捗状況を把握する。\n\n2 作業部会が組織等に資料の提供を依頼する際は、資料の中身を明示したうえ組織等と相談し、提出期日を設定する。\n\n3 組織等は、作業部会が依頼する資料の提供について協力しなければならない。\n\n4 作業部会は、当該組織等において資料の不備が認められる場合は、自己点検·評価委員長に報告のうえ、当該組織等に対し改善を求めることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0008",
+          "label": "第8条",
+          "body": "作業部会に関する事務は、総務課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0031-article-0009",
+          "label": "第9条",
+          "body": "この要項に定めるもののほか、作業部会の運営に関して必要な事項は、部会長が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0031-section-02",
+      "title": "附 則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0031-article-0010",
+          "label": null,
+          "body": "この要項は、令和2年4月1日から施行する。\n\n附 則\n\nこの要項は、令和6年11月13日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0031-article-0011",
+      "label": null,
+      "body": "校長裁定<br>制定 令和2年3月31日<br>改正 令和6年11月13日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

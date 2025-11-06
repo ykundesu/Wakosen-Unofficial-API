@@ -1,0 +1,85 @@
+{
+  "id": "rule-0120",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校学外実習の履修に関する規則",
+  "order": 7,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/117gakugaijissyuu.pdf",
+  "summary": "和歌山工業高等専門学校の学外実習に関する規則の概要を示す文書です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0120-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0120-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校学外実習の履修に関し必要な事項を定めるもの\nとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0120-article-0002",
+          "label": "第2条",
+          "body": "学生が学外実習を履修する国若しくは地方公共団体の機関又は会社等の法人(以下\n「学外実習機関」という)。は、教務委員会の議を経て、校長が選定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0120-article-0003",
+          "label": "第3条",
+          "body": "学外実習を履修する学生(以下「学外実習学生」という)。は、学校所定の学外実習申\n込書を、校長を経て学外実習機関に提出しなければならない。\n\n2 前項の学外実習申込書は、校長が認めるときは、学外実習機関所定の学外実習申込書をも\nって替えることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0120-article-0004",
+          "label": "第4条",
+          "body": "学外実習学生は、学外実習機関の定める諸規則及び学外実習責任者の指示に従って学\n外実習を履修しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0120-section-02",
+      "title": "(学外実習報告書)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0120-article-0005",
+          "label": "第5条",
+          "body": "学外実習学生は、学外実習報告書を、学外実習責任者の認印を得て学級担任に提出し\nなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0120-article-0006",
+          "label": "第6条",
+          "body": "学外実習の時間は、学外実習機関において定める時間又は学外実習責任者の指定する\n時間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0120-article-0007",
+          "label": "第8条",
+          "body": "この規則の定めるもののほか、学外実習に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0120-article-0008",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校学外実習の履修に関する規則\n制 定 平成 4 年3月10日\n最近改正 平成26年4月16日\n\n附 則\nこの規則は、平成4年4月1日から施行する。\n\n附 則\nこの規則は、平成16年4月1日から施行する。\n\n附 則\nこの規則は、平成26年4月16日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

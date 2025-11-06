@@ -1,0 +1,169 @@
+{
+  "id": "rule-0088",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校情報セキュリティインシデント対応規程",
+  "order": 36,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/05/a2bff7356f514e3cefd1088b6f7d978a.pdf",
+  "summary": "和歌山工業高等専門学校の情報セキュリティインシデント対応規程で、W‑CSIRTの組織・業務・権限・体制を定め、インシデント発生時の迅速な対応と再発防止を目的とする。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0088-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0088-article-0001",
+          "label": "第1条",
+          "body": "この規程は、和歌山工業高等専門学校サイバーセキュリティ管理規則第26条第1項第<br>三号の規定に基づき、情報セキュリティインシデントの発生が予見される場合及び発生時に迅速<br>かつ円滑な対応を図り、その拡大及び再発を防止するために和歌山工業高等専門学校情報セキュ<br>リティインシデント対応チーム\\(以下「W‑CSIRT」という。\\)を設置し、必要な事項を定めるもの<br>とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-02",
+      "title": "(定義)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0088-article-0002",
+          "label": "第2条",
+          "body": "この規程において使用する用語は、独立行政法人国立高等専門学校機構サイバーセキュ<br>リティポリシー対策規則において使用する用語の例による。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-03",
+      "title": "(体制整備)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0088-article-0003",
+          "label": "第3条",
+          "body": "情報セキュリティ責任者は、W‑CSIRT の活動が円滑に行えるよう環境を整えるとともに、<br>必要に応じて活動内容について助言又は指導を行うものとする。\n2 情報セキュリティ副責任者及び情報セキュリティ管理者は、情報セキュリティインシデント<br>の発生に備え、W‑CSIRT と連携して、連絡、報告、情報集約及び被害拡大防止のための緊急対応<br>に必要な体制を整える。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-04",
+      "title": "(組織)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0088-article-0004",
+          "label": "第4条",
+          "body": "W‑CSIRT は、次に掲げる者をもって組織する。\n\nー 情報セキュリティ副責任者\\(事務部長\\)\n\n二 情報管理室\n\n三 前各号に掲げる者のほか、情報セキュリティ責任者が必要と認めた者\n\n\\(W‑CSIRT の統括\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0088-article-0005",
+          "label": "第5条",
+          "body": "情報セキュリティ責任者は、W‑CSIRT の業務を統括する。\n2 情報セキュリティ責任者が職務を遂行できないときは、あらかじめ指名する W‑CSIRT 構成員<br>がその業務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-05",
+      "title": "(業務)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0088-article-0006",
+          "label": "第6条",
+          "body": "W‑CSIRT は、情報セキュリティインシデント対応に係る次に掲げる業務を行う。\n\nー 情報セキュリティインシデントの通報及び報告の受付\n\n二 情報セキュリティインシデントに関する連絡調整\n\n三 情報セキュリティインシデントの調査\n\n四 部署等に対する被害の拡大防止を図るための応急措置の指示又は勧告\n\n五 情報セキュリティインシデントの発生原因の調査及び再発防止策の立案\n\n六 情報セキュリティ責任者及び高専 CSIRT への報告\n\n2 前項に掲げる業務を遂行するにあたり、全体フローは別表「情報セキュリティインシデント<br>\\(不正アクセス等\\)発生時の連絡及び対応」による。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-06",
+      "title": "(調査に対する権限)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0088-article-0007",
+          "label": "第7条",
+          "body": "W‑CSIRT は、情報セキュリティインシデント対応に必要となる情報収集のために、次に掲<br>げる調査を行う。\n\nー 情報セキュリティインシデント発生源及び関連する機器やシステムのパケット収集\n\n二 セキュリティイベントや各種ログの調査\n\n三 不正プログラム有無の調査\n\n四 ライセンス調査\n\n五 前各号に掲げる調査のほか、情報セキュリティ責任者が必要と認めた調査",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-07",
+      "title": "(応急措置が必要な場合の要請または勧告)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0088-article-0008",
+          "label": "第8条",
+          "body": "W‑CSIRT による前条の調査を受け情報セキュリティ責任者は、情報セキュリティインシデ<br>ントの被害拡大防止を図るための措置を情報セキュリティ推進責任者に要請及び勧告することが<br>できる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-08",
+      "title": "(事務)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0088-article-0009",
+          "label": "第9条",
+          "body": "W‑CSIRT に関する事務は、情報管理室において行う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-09",
+      "title": "(委任)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0088-article-0010",
+          "label": "第10条",
+          "body": "この規程に定めるもののほか、W‑CSIRT の運営に関し必要な事項は、情報セキュリティ<br>責任者が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0088-section-10",
+      "title": "附則",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0088-article-0011",
+          "label": null,
+          "body": "この規程は、令和6年6月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0088-article-0012",
+      "label": null,
+      "body": "和歌山工業高等専門学校情報セキュリティインシデント対応規程\n\n制定 令和6年6月1日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

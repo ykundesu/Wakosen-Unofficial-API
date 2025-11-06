@@ -1,0 +1,561 @@
+{
+  "id": "rule-0175",
+  "chapterId": "chapter-009",
+  "title": "和歌山工業高等専門学校学生会会則",
+  "order": 1,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/b0ac95091071f5561a71a36ee223af2b.pdf",
+  "summary": "和歌山工業高等専門学校学生会の会則で、学生自治・活動目的・組織構成・権利義務・会計・改正手続き等を定めている。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0175-section-01",
+      "title": "第1章 総則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0175-article-0001",
+          "label": "第1条",
+          "body": "本会は、和歌山工業高等専門学校学生会\\(以下「本会」という。\\)と称する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0002",
+          "label": "第2条",
+          "body": "本会は、学生の自治によって運営され、学生の自発的な活動を通してその人間形成を助長し、高等専門教育<br>の目的達成に資することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0003",
+          "label": "第3条",
+          "body": "本会は、前条の目的を実現するために、次の目標の達成に努めなければならない。\n\n\\(1\\)学生生活を楽しく豊かで規律正しいものにし、よい校風を作る。\n\n\\(2\\)健全な趣味と豊かな教養とを養い、個性の伸長を図る。\n\n\\(3\\)心身を錬磨し、余暇を活用する。\n\n\\(4\\)学園生活における集団の活動に積極的に参加し、自主性を育てるとともに親和協力の精神を養う。\n\n\\(5\\)学園生活において自治的能力を養い、もって民主的社会人としての資質を向上させる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0004",
+          "label": "第4条",
+          "body": "本会は、和歌山工業高等専門学校学生の全員をもって構成され、学生は、入会と同時に本会の構成員となる<br>ものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0005",
+          "label": "第5条",
+          "body": "規約の制定、規約の変更、毎年度の事業計画、収支予算等すべての議決事項については、学校の承認を受<br>け、また、事業報告書及び収支決算書を学校に提出するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-02",
+      "title": "第2章 権利と義務",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0175-article-0006",
+          "label": "第6条",
+          "body": "本会会員は、次に掲げる権利及び義務を有する。\n\n\\(1\\) 本会の機関に参加するための選挙権、被選挙権\n\n\\(2\\) 本会の催す諸行事に参加する権利及び義務\n\n\\(3\\) 本会の決定事項を守り、協力する義務\n\n\\(4\\) 会費を納入する義務",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0007",
+          "label": "第7条",
+          "body": "本会の活動を行うに当たっては、法令、学則、学生準則その他学校の定める諸規則に違反することなく、ま<br>た、学園の秩序を乱すようなことがあってはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-03",
+      "title": "第3章 機関",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0175-article-0008",
+          "label": "第8条",
+          "body": "本会に次の機関を置く。\\(学生会機関図参照\\)\n\n\\(1\\) 学生総会\n\n\\(2\\) 代議員会\n\n1クラス代議員会\n\n2クラブ代議員会\n\n\\(3\\) 執行委員会\n\n1高専祭企画実行委員会\n\n2交通安全委員会\n\n3体育委員会\n\n4校内体育大会実行委員会\n\n\\(4\\) 監査委員会\n\n\\(5\\) 選挙管理委員会\n\n\\(6\\) 体育系\n\n\\(7\\) 文化系\n\n\\(8\\) 報道系",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0009",
+          "label": "第9条",
+          "body": "各機関の委員の任期は、4月1日から翌年3月31日までとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-04",
+      "title": "第1節 学生総会",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0175-article-0010",
+          "label": "第10条",
+          "body": "学生総会は、本会の最高議決機関である。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0011",
+          "label": "第11条",
+          "body": "定期学生総会は、原則として年2回\\(5月及び1月\\)開催する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0012",
+          "label": "第12条",
+          "body": "臨時学生総会は、次の場合に開催しなければならない。\n\n\\(1\\) 全学生の3分の1以上の要請があった場合\n\n\\(2\\) 全代議員の2分の1以上の要請があった場合\n\n\\(3\\) 執行委員会が必要と認めた場合",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0013",
+          "label": "第13条",
+          "body": "学生総会は、学生会会長がこれを招集する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0014",
+          "label": "第14条",
+          "body": "学生総会は、全学生の3分の2以上の参加をもって成立し、委任状は、一切認められない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0015",
+          "label": "第15条",
+          "body": "学生総会には、議長団及び書記団を置き、議長団は、代議員会の議長及び副議長がこれに当たり、書記団\nは、学生会書記がその任に当たる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0016",
+          "label": "第16条",
+          "body": "学生総会の決議は、多数決による。賛否同数の場合は、議長がこれを決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0017",
+          "label": "第17条",
+          "body": "学生総会の期日及び議案は開催日の7日前までに、学生会会長がこれを公示しなければならない。ただ\nし、臨時学生総会の場合は、この限りでない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0018",
+          "label": "第18条",
+          "body": "学生総会が流会となった場合は、総会前の代議員会の決議が効力を発する。ただし、次の場合には必ず学\n生総会の承認を必要とする。\n\n\\(1\\) 予算の承認及び決算報告\n\n\\(2\\) 規約の改廃\n\n\\(3\\) 新役員の承認",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0019",
+          "label": "第19条",
+          "body": "前条第1項第1号については、事前に、監査委員会の承認を受けなくてはならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0020",
+          "label": "第20条",
+          "body": "議長は、総会最後に決議事項を確認し、学生会会長及び参加学生に報告する義務を負う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-05",
+      "title": "第2節 代議員会",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0175-article-0021",
+          "label": "第21条",
+          "body": "代議員会は、学生総会に次ぐ決議機関であり、第18条ただし書に規定する事項を除き、すべてこの機関\nで決議することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0022",
+          "label": "第22条",
+          "body": "代議員会は、各クラス2名の代議員及び各部2名の代議員をもって構成する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0023",
+          "label": "第23条",
+          "body": "代議員会に、クラス代議員会及びクラブ代議員会を置く。クラス代議員会は、各クラス2名の代議員をも\nって構成し、クラブ代議員会は、主将を含む各部2名の代議員をもって構成する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0024",
+          "label": "第24条",
+          "body": "臨時代議員会は、次の場合に開催する。\n\n\\(1\\) 全代議員の3分の1以上が必要と認めた場合\n\n\\(2\\) 会長が必要と認めた場合\n\n\\(3\\) 代議員会議が必要と認めた場合",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0025",
+          "label": "第25条",
+          "body": "代議員会には、議長1名、副議長2名及び書記3名を置く。議長及び副議長は、代議員相互の互選によっ\nて選出し、書記は、執行委員会の書記がこれに当たる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0026",
+          "label": "第26条",
+          "body": "代議員会議長は、定期代議員会及び臨時代議員会を招集し、開催する義務を負う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0027",
+          "label": "第27条",
+          "body": "代議員会は、全代議員の3分の2以上の出席をもって成立し、委任状は、一切認めない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0028",
+          "label": "第28条",
+          "body": "代議員会の議決は、多数決による。賛否同数の場合は、議長がこれを決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0029",
+          "label": "第29条",
+          "body": "代議員会の期日及び議案は開催日の7日前に公示し、議長は、全代議員に通知しなければならない。ただ\nし、臨時代議員会の場合は、この限りでない。\n\nし、臨時代議員会の場合は、この限りでない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0030",
+          "label": "第30条",
+          "body": "代議員会が流会になった場合は、議長は、10日以内に再度これを招集しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0031",
+          "label": "第31条",
+          "body": "全代議員は、代議員会に必ず出席し、議決事項を後日各クラス又は部に報告する義務を負う。議長は、議\n決事項を学生会会長に報告するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-06",
+      "title": "第3節 執行委員会",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0175-article-0032",
+          "label": "第32条",
+          "body": "執行委員会は、本会の最高執行機関であり学生会のすべての運営に当たる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0033",
+          "label": "第33条",
+          "body": "執行委員会は、次の役員で構成する。\n\n\\(1\\) 本会会長 1名\n\n\\(2\\) 同副会長 2名\n\n\\(3\\) 同 書記 3名\n\n\\(4\\) 同 会計 3名",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0034",
+          "label": "第34条",
+          "body": "本会会長は、学生会の会務を総括し、本会を代表する。また、執行委員長をも兼ねる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0035",
+          "label": "第35条",
+          "body": "副会長は、会長を補佐し、会長に事故のある場合は、これを代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0036",
+          "label": "第36条",
+          "body": "書記は次の事項を行う。\n\n\\(1\\) 学生総会、代議員会、執行委員会の記録の作成保管\n\n\\(2\\) 本会会員及び役員の名簿の作成保管\n\n\\(3\\) 本会各機関及び学生への連絡",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0037",
+          "label": "第37条",
+          "body": "会計は次の事項を行う。\n\n\\(1\\) 本会の会計台帳の記録と保管\n\n\\(2\\) 本会会計の出納事務",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0038",
+          "label": "第38条",
+          "body": "本会会長は、全学生中から投票により選出する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-07",
+      "title": "第4節 監査委員会",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0175-article-0039",
+          "label": "第39条",
+          "body": "監査委員会は、本会のすべての会計経理の状態を監査するほか、この会の全機関の活動及び運営の状態を\n査察する機能を有し、その結果を本会に報告しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0040",
+          "label": "第40条",
+          "body": "監査委員会は、次によって構成する。\n\n\\(1\\) 監査委員長 1名\n\n\\(2\\) 監査委員 3名",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0041",
+          "label": "第41条",
+          "body": "監査委員会は、監査上又は査察上必要と認める場合は、いずれの機関に対しても監査委員会の指示する書\n類を指示期限内に提出させることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0042",
+          "label": "第42条",
+          "body": "監査委員会は、必要に応じて、監査委員長がこれを招集する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0043",
+          "label": "第43条",
+          "body": "監査委員は、学生の中から選出し、委員長は、委員の互選により決定する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-08",
+      "title": "第5節 選挙管理委員会",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0175-article-0044",
+          "label": "第44条",
+          "body": "選挙管理委員会は、本会会長選出のための選挙管理を行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0045",
+          "label": "第45条",
+          "body": "選挙管理委員会は、次の人員で構成する。\n\n\\(1\\) 選挙管理委員長 1名\n\n\\(2\\) 選挙管理委員3名",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0046",
+          "label": "第46条",
+          "body": "選挙管理委員長は、選挙管理委員会を統括し、選挙管理委員会を代表する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0047",
+          "label": "第47条",
+          "body": "選挙管理委員長は、選挙管理委員の互選によって決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0048",
+          "label": "第48条",
+          "body": "選挙管理委員は、監査委員が兼任する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0049",
+          "label": "第49条",
+          "body": "選挙管理委員会は、第44条に規定する選挙を行うに当たっては、別に定める選挙細則によるものとす\nる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-09",
+      "title": "第6節 各系(体育系、文化系及び報道系)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0175-article-0050",
+          "label": "第50条",
+          "body": "本会の目的達成のために部活動を行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0051",
+          "label": "第51条",
+          "body": "部はこれを分けて体育系、文化系及び報道系とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0052",
+          "label": "第52条",
+          "body": "各部に部長及び顧問を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0053",
+          "label": "第53条",
+          "body": "部には、主将1名を置く。その決定は、部員の互選による。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0054",
+          "label": "第54条",
+          "body": "主将は部員より選出される各部の代表者とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0055",
+          "label": "第55条",
+          "body": "主将は、その部を代表して代議員会に出席し、議決事項を部に報告するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0056",
+          "label": "第56条",
+          "body": "主将は、部長や顧問と密接な連絡の下にその部の運営に当たる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0057",
+          "label": "第57条",
+          "body": "部の新設改廃等は、クラブ代議員会の承認を得るものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-10",
+      "title": "第4章 会計、予算、決算事業計画",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0175-article-0058",
+          "label": "第58条",
+          "body": "本会の予算案及び事業計画は、執行委員会がこれを作成して代議員会に提出し、代議員会の議を経て学生<br>総会の承認を得なければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0059",
+          "label": "第59条",
+          "body": "本会の会計年度は、毎年4月1日に始まり翌年3月31日に終わる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0060",
+          "label": "第60条",
+          "body": "本会の会費は、年額7800円とし、4月及び10月に分納するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0061",
+          "label": "第61条",
+          "body": "本会に入会するときは、前条に定めた会費のほかに、入会金500円を4月に納入しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0062",
+          "label": "第62条",
+          "body": "いったん納入した会費及び入会金は、原則として返還しない。ただし、休学者は、その期間中、月割りで<br>会費の納入を免除される。復学者の会費納入についても月割計算とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0063",
+          "label": "第63条",
+          "body": "本会の会計は、翌年5月総会において、決算報告をしなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0064",
+          "label": "第64条",
+          "body": "本会の会計は、代議員会が要求したときは、中間報告をしなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0175-section-11",
+      "title": "第5章 雑則",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0175-article-0065",
+          "label": "第65条",
+          "body": "本会則の改正は、総会での審議において出席学生の過半数の賛成により、改正することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0175-article-0066",
+          "label": "第66条",
+          "body": "本会則に付随する細則の制定及び改正は、代議員会の議決による。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0175-article-0067",
+      "label": null,
+      "body": "和歌山工業高等専門学校学生会会則\n\n制 定 昭和40年2月1日\n\n最近改正令和6年3月1日\n\n附 則\n\n1 本会則は、昭和40年2月1日から実施する。\n\n2 第50条の報道系の活動については、特に全校的見地から学校の指導を受けるものとする。\n\n附 則\n\n本会則は、昭和41年4月1日から実施する。\n\n附則\n\n本会則は、昭和52年7月14日から実施する。\n\n附 則\n\n本会則は、昭和54年7月5日から実施する。\n\n附 則\n\n本会則は、昭和58年5月26日から実施する。\n\n附則\n\n本会則は、平成16年4月1日から実施する。\n\n附 則\n\n本会則は、平成31年3月1日から実施する。\n\n附 則\n\n本会則は、令和6年3月1日から実施する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

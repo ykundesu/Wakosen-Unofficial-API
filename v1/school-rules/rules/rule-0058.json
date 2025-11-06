@@ -1,0 +1,92 @@
+{
+  "id": "rule-0058",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校公開講座規則",
+  "order": 6,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/55koukaikouza.pdf",
+  "summary": "和歌山工業高等専門学校の公開講座規則は、講座の目的・開催条件・講師・運営委員会・講習料・修了証書の授与等を定めたものです",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0058-section-01",
+      "title": "和歌山工業高等専門学校公開講座規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0058-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校学則第56条第2項の規定に基づき、この規則を定める。<br>(目的)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0002",
+          "label": "第2条",
+          "body": "公開講座は、和歌山工業高等専門学校(以下「本校」という。)の教育及び研究を広く社会に開放し、社会人としての教養を高め、文化の向上に資することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0003",
+          "label": "第3条",
+          "body": "公開講座は、授業に支障のない時期に開設する。\n\n2 公開講座は、原則として本校の諸施設を使用して行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0004",
+          "label": "第4条",
+          "body": "公開講座の講師は、本校の職員とし、校長が委嘱する。ただし、必要がある場合は本校以外の学識経験者を講師として委嘱することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0005",
+          "label": "第5条",
+          "body": "公開講座の開設は、運営委員会の議を経て行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0006",
+          "label": "第6条",
+          "body": "公開講座において、所定の時間の3分の2以上出席した者には、修了証書を授与することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0007",
+          "label": "第7条",
+          "body": "公開講座講習料の額は、独立行政法人国立高等専門学校機構における授業料その他の費用に関する規則(独立行政法人国立高等専門学校機構規則第35号)に定められた額とする。\n\n2 講習料は、公開講座の受講申請を受理する際に徴収する。\n\n3 既納の講習料は、還付しない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0008",
+          "label": "第8条",
+          "body": "公開講座の企画·立案及び実施は、地域共同テクノセンターが掌る。\n\n2 公開講座運営委員は、校長が委嘱するものとする。\n\n3 公開講座運営委員会は、公開講座に係る企画、立案及び実施に関する業務を掌る。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0058-article-0009",
+          "label": "第9条",
+          "body": "公開講座の事務は、総務·企画係において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0058-article-0010",
+      "label": null,
+      "body": "(趣旨)\n\n||制 定 昭和58年7月7日|\n|-|-|\n||最近改正 平成21年4月1日|\n\n附則\nこの規則は、昭和58年7月7日から施行し、昭和58年4月1日から適用する。\n\n附則\nこの規則は、平成5年2月9日から施行する。\n\n附則\nこの規則は、平成13年2月14日から施行し、平成13年1月6日から適用する。\n\n附則\nこの規則は、平成14年4月1日から施行する。\n\n附則\nこの規則は、平成15年4月1日から施行する。\n\n附則\nこの規則は、平成16年4月1日から施行する。\n\n附則\nこの規則は、平成18年4月1日から施行する。\n\n附則\nこの規則は、平成21年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

@@ -1,0 +1,148 @@
+{
+  "id": "rule-0012",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校教務委員会規則",
+  "order": 8,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/9kyoumuiinkai.pdf",
+  "summary": "和歌山工業高等専門学校の教務委員会設置・運営に関する規則をまとめた文書です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0012-section-01",
+      "title": "和歌山工業高等専門学校教務委員会規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0012-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校に、教務委員会(以下「委員会」という。)を置く、",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-02",
+      "title": "審議事項",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0012-article-0002",
+          "label": "第2条",
+          "body": "委員会は、次に掲げる事項を審議する。\n\n一 教育課程の編成に関する事項\n\n二 入学、転科、休学、退学、除籍、転学、留学及び卒業に関する事項\n\n三 年間教育計画及び授業時間の編成に関する事項\n\n四 試験及び学業成績並びに進級及び卒業認定に関する事項\n\n五 出席簿及び指導要録に関する事項\n\n六 その他教務に関する事項",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-03",
+      "title": "組織",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0012-article-0003",
+          "label": "第3条",
+          "body": "委員会は、次に掲げる者をもって組織する。\n\n一 教務主事\n\n二 教務主事補\n\n三 学科教員各1名",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-04",
+      "title": "任期",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0012-article-0004",
+          "label": "第4条",
+          "body": "前条第3号の委員の任期は、1年とする。ただし、再任を妨げない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-05",
+      "title": "委員長",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0012-article-0005",
+          "label": "第5条",
+          "body": "委員会に委員長を置き、教務主事をもって充てる。\n\n2 委員長は、会議を招集し、その議長となる。\n\n3 委員長に事故あるときは、第3条第2号の委員がその職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-06",
+      "title": "委員以外の者の出席",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0012-article-0006",
+          "label": "第6条",
+          "body": "委員長が必要と認めた場合は、委員以外の者を委員会に出席させ、意見を聴くことが<br>できる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-07",
+      "title": "事務",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0012-article-0007",
+          "label": "第7条",
+          "body": "委員会に関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0012-section-08",
+      "title": "附則",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0012-article-0008",
+          "label": null,
+          "body": "この規則は、平成5年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0012-article-0009",
+          "label": null,
+          "body": "この規則は、平成11年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0012-article-0010",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0012-article-0011",
+      "label": null,
+      "body": "(設置)\n\n||制 定 平成 5 年4月1日|\n|-|-|\n||最近改正 平成16年4月1日|",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

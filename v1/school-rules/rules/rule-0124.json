@@ -1,0 +1,28 @@
+{
+  "id": "rule-0124",
+  "chapterId": "chapter-005",
+  "title": "学外実習単位並びに他の高等専門学校及び高等専門学校以外の教育施設等で修得した単位等の認定に関する取扱要項により認定された単位について",
+  "order": 11,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/121taninintei-ninteitani.pdf",
+  "summary": "外部実習単位や他校で取得した単位は認定され、留年しても再履修は不要です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0124-section-01",
+      "title": "学外実習単位並びに他の高等専門学校及び高等専門学校以外の教育施設等で修得した単位等の認定に関する取扱要項により認定された単位について",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0124-article-0001",
+          "label": null,
+          "body": "制 定 平成7年12月22日\n\n学外実習単位(以下「実習単位」という。)並びに他の高等専門学校及び高等専門学校以外の教育施設等で修得した単位等の認定に関する取扱要項により認定された単位(以下「要項認定単位」という。)は、実習単位にあっては認定された年度、要項認定単位にあっては本校以外の教育施設等における学修単位申請書が受理された年度の単位であり、留年にかかわらず、再履修する必要はない。\n\n(施行8. 4. 1)",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

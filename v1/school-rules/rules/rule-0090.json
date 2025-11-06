@@ -1,0 +1,246 @@
+{
+  "id": "rule-0090",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校身分証明書規程",
+  "order": 38,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/07/1353f8d91e814edd421fe59eb762b9f2.pdf",
+  "summary": "和歌山工業高等専門学校の身分証明書の発行・管理・再交付に関する規程です",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0090-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0090-article-0001",
+          "label": "第1条",
+          "body": "この規程は、和歌山工業高等専門学校(以下「本校」という。)が発行する身分証明書の<br>取扱いについて定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-02",
+      "title": "(様式)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0090-article-0002",
+          "label": "第2条",
+          "body": "身分証明書の様式は、別記様式第1号のとおりとする。\n\n2 旧姓使用許可者については、本人の申請に基づき旧姓表記を認めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-03",
+      "title": "(交付)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0090-article-0003",
+          "label": "第3条",
+          "body": "身分証明書は、次の各号に掲げる者(以下「教職員」という。)に交付する。\n\n– 常勤教職員\n\n二 再雇用教職員\n\n三 有期雇用教職員\n\n四 研究員\n\n五 非常勤職員のうち、学生を除く者\n\n六 前号以外の教職員のうち発行を希望する者\n\n2 本校学生の学生証については、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-04",
+      "title": "(身分証明書の携帯義務)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0090-article-0004",
+          "label": "第4条",
+          "body": "教職員は、公務中は常に身分証明書を携帯するものとし、必要に応じて関係者に提示しな<br>ければならない。ただし、安全面等で不都合がある場合は、この限りでない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-05",
+      "title": "(交付日)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0090-article-0005",
+          "label": "第5条",
+          "body": "身分証明書の交付日は、取扱規程制定日から10年ごとの7月1日(以下「定期交付日」<br>という。)とする。ただし、定期交付日後に採用された教職員の身分証明書の交付日は、採用の<br>日とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-06",
+      "title": "(有効期間)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0090-article-0006",
+          "label": "第6条",
+          "body": "身分証明書の有効期間は定期交付日の前日までとし、身分証明証に記載する。\n\n2 前項の規定にかかわらず、雇用予定期間の定められている者については、その期間とする。\n\n3 前2項にかかわらず、退職及び異動等により、本校の教職員でなくなる場合は、当該教職員で\n\nなくなる日をもって身分証明書は失効するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-07",
+      "title": "(再交付)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0090-article-0007",
+          "label": "第7条",
+          "body": "教職員は、次の各号の一に該当するときは、別記様式2により速やかに校長に届け出て再<br>交付の手続きを取らなければならない。ただし、第二号及び第三号に該当するときは当該身分証<br>明書を添えて届け出るものとする。\n\n– 盗難、遺失等により紛失したとき。\n\n二 身分証明書の記載事項に変更があったとき。\n\n三 汚損等によって身分証明書が使用に耐えなくなったとき。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-08",
+      "title": "(返還)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0090-article-0008",
+          "label": "第8条",
+          "body": "教職員は、次の各号の一に該当するときは、速やかに身分証明書を校長に返還しなければ<br>ならない。\n\nー 本校の教職員でなくなったとき。\n\n二 身分証明書の有効期間が満了したとき。\n\n三 身分証明書の再交付を受けた後、紛失した身分証明書を発見したとき。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-09",
+      "title": "(貸与等の禁止)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0090-article-0009",
+          "label": "第9条",
+          "body": "身分証明書は、他人に貸与、若しくは譲渡してはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-10",
+      "title": "(発行番号)",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0090-article-0010",
+          "label": "第10条",
+          "body": "身分証明書の発行番号は定期発行日からの連番とする。\n\n2 身分証明書の交付番号は、定期交付日に新番号とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-11",
+      "title": "(交付事務)",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0090-article-0011",
+          "label": "第11条",
+          "body": "身分証明書の交付事務は、総務課が行う。\n\n2 総務課は、身分証明書発行台帳を作成し、身分証明書の発行及び返還等について必要な事項を<br>記入するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-12",
+      "title": "(雑則)",
+      "order": 12,
+      "articles": [
+        {
+          "id": "rule-0090-article-0012",
+          "label": "第12条",
+          "body": "この規程に定めるもののほか、この規程の実施に必要な事項は、校長が定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-13",
+      "title": "附則",
+      "order": 13,
+      "articles": [
+        {
+          "id": "rule-0090-article-0013",
+          "label": null,
+          "body": "この規程は、令和7年7月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-14",
+      "title": "(注意事項)",
+      "order": 14,
+      "articles": [
+        {
+          "id": "rule-0090-article-0014",
+          "label": null,
+          "body": "図書館利用証(兼用)\n\n(裏)\n\n1. この身分証明書は、他人に貸与、若しくは譲渡してはならない。\n\n2. この身分証明書を紛失したときは、速やかに交付者に届け出なければな<br>らない。\n\n3. この身分証明書は、次の一号に該当するときは、速やかに交付者に返還<br>しなければならない。\n\n(1) 本校の教職員でなくなったとき。\n\n(2) 有効期限が満了したとき。\n\n(3) 記載事項に変更があったとき。\n\n(4) 使用に耐えなくなったとき。\n\n*縦 55mm×横 85mm\n\n別記様式第2号(第3条及び第6条関係)\n\n和歌山工業高等専門学校長 殿",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-15",
+      "title": "身分証明書再交付願",
+      "order": 15,
+      "articles": [
+        {
+          "id": "rule-0090-article-0015",
+          "label": null,
+          "body": "所属\n\n氏名\n\n下記の事由により身分証明書の発行をお願いします。\n\n再発行の事由\n\nア 紛失のため",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0090-section-16",
+      "title": "記",
+      "order": 16,
+      "articles": [
+        {
+          "id": "rule-0090-article-0016",
+          "label": null,
+          "body": "年 月 日\n\n※身分証明書の再交付を受けた後、紛失した身分証明書を発見したとき<br>は速やかに旧身分証明書を返還すること\n\nイ 記載事項の変更のため<br>(変更内容:<br>)\n\nウ 汚損等により使用に耐えなくなったため\n\nエ その他(<br>)\n\n発生年月日<br>年 月 日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0090-article-0017",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校身分証明書取扱規程\n\n制 定 令和7年4月1日\n\n最近改正 令和7年7月1日\n\n附則\nこの規程は、令和7年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

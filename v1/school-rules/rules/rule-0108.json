@@ -1,0 +1,92 @@
+{
+  "id": "rule-0108",
+  "chapterId": "chapter-004",
+  "title": "和歌山工業高等専門学校会計監査実施規則",
+  "order": 18,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/92kaikeikansa.pdf",
+  "summary": "和歌山工業高等専門学校の会計監査実施規則の目的・実施手順・報告・是正措置を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0108-section-01",
+      "title": "目的",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0108-article-0001",
+          "label": "第1条",
+          "body": "この規則は、独立行政法人国立高等専門学校会計規則第45条第2項の規定に基づく<br>内部監査\\(以下「監査」という。\\)について、必要な事項を定めることを目的とする。<br>\\(監査実施責任者\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0002",
+          "label": "第2条",
+          "body": "校長は、事務部長に監査を実施させるものとする。\n\n\\(監査員\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0003",
+          "label": "第3条",
+          "body": "校長は、監査を実施させるため本校職員のうちから監査員を命ずるものとする。<br>\\(監査時期及び事前通知\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0004",
+          "label": "第4条",
+          "body": "定期監査は、毎会計年度1回実施するものとし、特に必要があるときは、臨時に監査<br>を実施することができる。\n\n2 事務部長は、定期監査を実施するときは、あらかじめ各学科主任、課長に対しその期日及<br>び監査員の氏名その他必要な事項を通知するものとする。\n\n\\(監査事項\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0005",
+          "label": "第5条",
+          "body": "監査は、次に掲げる事項について実施するものとする。\n\nー 会計経理に関する法令及び規則等の適用に関すること。\n\n二 予算決算に関すること。\n\n三 収入支出に関すること。\n\n四 債権に関すること。\n\n五 物品に関すること。\n\n六 不動産に関すること。\n\n七 契約に関すること。\n\n八 旅費に関すること。\n\n九 寄附金、科学研究費補助金等に関すること。\n\n十 帳簿及び証拠書類に関すること。\n\n十一 その他校長が特に必要と認める事項\n\n\\(監査の実施等\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0006",
+          "label": "第6条",
+          "body": "事務部長は、監査の都度実施細目を定め、これにより監査を実施するものとする。\n\n2 監査員は、公正かつ厳正に監査に当たらなければならない。\n\n3 監査のときは、関係者を立ち会わせ、監査員は必要に応じて調書等の提出を求めることが<br>できる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0108-section-02",
+      "title": "監査報告",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0108-article-0007",
+          "label": "第7条",
+          "body": "監査員は、監査が終了したときは、速やかに監査報告書を事務部長に提出しなければ<br>ならない。\n\n2 事務部長は、監査報告書をとりまとめ校長に報告するものとする。<br>\\(是正改善の措置\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0108-article-0008",
+          "label": "第8条",
+          "body": "校長は、監査の結果会計経理に関し是正改善の措置をとる必要があると認めるときは、\n\n直ちに関係者に対し、是正改善を命ずるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0108-article-0009",
+      "label": null,
+      "body": "和歌山工業高等専門学校会計監査実施規則\n\n制 定 平成16年4月1日\n\n附 則\nこの規則は、平成16年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

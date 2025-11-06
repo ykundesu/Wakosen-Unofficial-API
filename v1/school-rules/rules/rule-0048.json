@@ -1,0 +1,190 @@
+{
+  "id": "rule-0048",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校ダイバーシティ推進室規則",
+  "order": 44,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/dfd86a792631bc7ac510926610f04c74.pdf",
+  "summary": "和歌山工業高等専門学校ダイバーシティ推進室の設置・業務・組織を定める規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0048-section-01",
+      "title": "和歌山工業高等専門学校ダイバ―シティ推進室規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0048-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校組織規則第12条に基づき、和歌山工業高等専門学<br>校ダイバ―シティ推進室(以下「推進室」という。)を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-02",
+      "title": "(目的)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0048-article-0002",
+          "label": "第2条",
+          "body": "推進室は、独立行政法人国立高等専門学校機構ダイバ―シティ·エクイティ&インクルー<br>ジョン(以下「DE&I」という。)行動計画に基づき、DE&Iを推進することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-03",
+      "title": "(業務)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0048-article-0003",
+          "label": "第3条",
+          "body": "推進室においては、次の業務を行うものとする。\n\n一 教育活動全般を通じたDE&Iの推進に関すること\n\n二 教育·研究·就業におけるDE&Iの推進、仕事と生活の調和(ワーク·ライフ·バランス)を<br>図るための環境整備に関すること\n\n三 DE&Iの意識啓発、情報提供及び情報収集に関すること\n\n四 学校運営における意思決定へのDE&Iの推進に関すること\n\n五 働き方改革の推進に関すること\n\n六 推進室が所掌する学生コンテスト参加等への支援に関すること\n\n七 その他DE&Iの推進に関すること",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0004",
+          "label": "2",
+          "body": "推進室は、他の学内組織に対し、前項に掲げる業務を推進するため、検討を要請することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-04",
+      "title": "(組織)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0048-article-0005",
+          "label": "第4条",
+          "body": "推進室は、次に掲げる者をもって組織する\n\n一 室長\n\n二 室員",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0006",
+          "label": "2",
+          "body": "推進室顧問として副校長を置き、学校運営におけるDE&Iに関する指針の提言等を行う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-05",
+      "title": "(室長)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0048-article-0007",
+          "label": "第5条",
+          "body": "室長は、教授のうちから、校長が指名する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0008",
+          "label": "2",
+          "body": "室長の任期は1年とし、再任を妨げない。ただし、欠員が生した場合の任期は、前任者の残任\n期間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0009",
+          "label": "3",
+          "body": "室長は、校長の命を受け、推進室の業務を掌理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-06",
+      "title": "(副室長)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0048-article-0010",
+          "label": "第7条",
+          "body": "推進室に、副室長を置くことができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0011",
+          "label": "2",
+          "body": "副室長は、室員のうちから、室長が指名する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0048-article-0012",
+          "label": "3",
+          "body": "副室長は、室長の職務を補佐するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-07",
+      "title": "(事務)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0048-article-0013",
+          "label": "第8条",
+          "body": "推進室に関する事務は、総務課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-08",
+      "title": "(雑則)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0048-article-0014",
+          "label": "第9条",
+          "body": "この規則に定めるもののほか、推進室の運営等に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0048-section-09",
+      "title": "附 則",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0048-article-0015",
+          "label": null,
+          "body": "この規則は、令和7年4月1日から施行する。\n\n和歌山工業高等専門学校男女共同参画室規則(平成29年4月1日制定)は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0048-article-0016",
+      "label": null,
+      "body": "(趣旨)",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

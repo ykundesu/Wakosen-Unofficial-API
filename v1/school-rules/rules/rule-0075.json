@@ -1,0 +1,169 @@
+{
+  "id": "rule-0075",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校規則の種類及び制定等に関する規則",
+  "order": 23,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/72kisoku-syurui.pdf",
+  "summary": "和歌山工業高等専門学校における規則の種類、制定手続き、形式等を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0075-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0075-article-0001",
+          "label": "第1条",
+          "body": "第1条 この規程は、和歌山工業高等専門学校(以下「本校」という。)における規則の種類、定 義、制定(改廃を含む。)手続及び形式等に関し、必要な事項を定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-02",
+      "title": "(定義)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0075-article-0002",
+          "label": "第2条",
+          "body": "第2条 この規則において、「法令等」とは学校教育法、学校教育法に基づく政令及び法令等をい う。\n2 この規則において、「諸規則」とは第3条各号に掲げるものの総称とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-03",
+      "title": "(諸規則の区分)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0075-article-0003",
+          "label": "第3条",
+          "body": "第3条 本校における規則の種類は、学則、規則、規程、細則及び要項とし、次の各号により区 分する。\nー 学則 学校教育法施行規則(昭和22年文部省令第11)第4条に規定する事項\n二 規則 学生準則及びその他本校の管理運営、教育研究に関する重要事項\n三 規程 学則、規則又は法令等に基づき、若しくはこれらを実施するため必要な事項\n四 細則 学則、規則又は規程を実施するため、必要な細目等\n五 要項 学則、規則、規程等に定めのない事務運営等に必要な事項",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-04",
+      "title": "(制定手続)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0075-article-0004",
+          "label": "第4条",
+          "body": "第4条 本校における諸規則は、運営委員会の議を経て、校長が定める。\n2 前項の規定にかかわらず、諸規則を改正する場合で、次の各号の一に該当するときは、運営 委員会における議を省略して定めることができる。\n一 法令、上位規則等の改正に基づく法令、規則名等の名称変更又は適用条項の変更に伴う形 式的なもの\n二 組織又は職名の変更に伴い形式的な変更を行うもの\n三 宇句の整備に伴うもの\n四 事務執行上の手続で軽微な変更に伴うもの\n五 その他改正内容が軽微であると校長が認めたもの\n3 諸規則の制定に当たっては、必要に応じて関連委員会等において協議を行うものとする。\n4 専攻科に係る学則等の改正については、改正の必要が生じる年度の前年度の9月末日までと する。\n5 制定改廃した諸規則に係る事務を所掌する課の長は、当該諸規則の成文を総務課長に提出す るものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-05",
+      "title": "(題名及び形式)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0075-article-0005",
+          "label": "第5条",
+          "body": "第5条 諸規則の題名には、番号と和歌山工業高等専門学校を冠し、原則として末尾に区分名を 付すものとする。\n2 諸規則の形式は横書きとし、条文等の体裁は法令作成の例によるものとする。\n1",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-06",
+      "title": "(周知)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0075-article-0006",
+          "label": "第6条",
+          "body": "第6条 諸規則を制定したときは、適切な方法により周知するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-07",
+      "title": "(内規等への準用)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0075-article-0007",
+          "label": "第7条",
+          "body": "第7条 本校における内規、申合せ等のうち、重要なものについては、この規定の定めに準じて 取扱うものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-08",
+      "title": "(事務)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0075-article-0008",
+          "label": "第8条",
+          "body": "第8条 諸規則の制定改廃に関する総括事務は、総務課において行う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-09",
+      "title": "(雑則)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0075-article-0009",
+          "label": "第9条",
+          "body": "第9条 この規則の実施に関し必要な事項は、別に定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0075-section-10",
+      "title": "附 則",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0075-article-0010",
+          "label": null,
+          "body": "1 この規則は、平成28年10月20日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0075-article-0011",
+          "label": null,
+          "body": "2 この規則施行の際現に存続する諸規則は、その題名等にかかわらず、この規則の定める手 順により学則、規則、規程、細則又は要項として定められたものとみなす。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0075-article-0012",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校規則の種類及び制定等に関する規則\n\n平成28年10月20日制定",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

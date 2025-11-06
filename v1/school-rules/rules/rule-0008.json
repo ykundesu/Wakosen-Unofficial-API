@@ -1,0 +1,148 @@
+{
+  "id": "rule-0008",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校企画会議規則",
+  "order": 4,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/12/44262b200a17849ae16db6860819da18.pdf",
+  "summary": "和歌山工業高等専門学校企画会議規則は、会議の構成員、審議事項、開催手続き、専門委員会設置、事務処理等を定めた運営規定です",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0008-section-01",
+      "title": "審議事項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0008-article-0002",
+          "label": "第2条",
+          "body": "第2条 企画会議は、校長の諮問に応じ、次の各号に掲げる事項について企画·立案及び審議\nを行い、校長の決定のもとに運営委員会に報告するものとする。\n\n一 本校の運営に関する基本方策に関すること\n\n二 本校の教育、研究の基本方策に関すること\n\n三 予算等財務に関する基本方策に関すること\n\n四 施設、設備の整備等に関する基本方策に関すること\n\n五 本校の保有する情報の公開に関すること\n\n六 教職員の福利厚生に関すること\n\n七 その他本校の管理、運営に関する重要事項",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0008-section-02",
+      "title": "組織",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0008-article-0003",
+          "label": "第3条",
+          "body": "第3条 企画会議は、次に掲げる者をもって組織する。\n\n一 校長\n\n二 副校長\n\n三 教務主事\n\n四 学生主事\n\n五 寮務主事\n\n六 専攻科長\n\n七 メディアセンター長\n\n八 地域共同テクノセンター長\n\n九 事務部長\n\n十 総務課長\n\n十一 学生課長\n\n十二 校長が必要と認めた者",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0008-section-03",
+      "title": "会議",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0008-article-0004",
+          "label": "第4条",
+          "body": "第4条 企画会議は、校長が招集し、その議長となる。\n2 校長に事故あるときは、副校長がその職務を代行する。\n3 会議が必要と認めた時は、議長は委員以外の者を出席させ、その意見を聴くことができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0008-section-04",
+      "title": "専門委員会",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0008-article-0005",
+          "label": "第5条",
+          "body": "第5条 会議に特定の事項について調査立案するため、専門委員会を置くことができる。\n2 専門委員会には、必要に応じて第3条第1項の委員以外の者を加えることができる。\n3 専門委員会の委員は、校長が指名する。\n4 前3項に定めるもののほか、専門委員会の組織及び運営に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0008-section-05",
+      "title": "事務",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0008-article-0006",
+          "label": "第6条",
+          "body": "第6条 企画会議の事務は、総務課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0008-section-06",
+      "title": "附則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0008-article-0007",
+          "label": null,
+          "body": "この規則は、平成11年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0008-article-0008",
+          "label": null,
+          "body": "この規則は、平成14年6月5日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0008-article-0009",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0008-article-0010",
+          "label": null,
+          "body": "この規則は、平成17年9月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0008-article-0011",
+          "label": null,
+          "body": "この規則は、平成18年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0008-article-0012",
+          "label": null,
+          "body": "この規則は、令和7年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0008-article-0001",
+      "label": "第1条",
+      "body": "第1条 この規則は、和歌山工業高等専門学校組織規則第9条第2項に基づき、和歌山工業高\n等専門学校企画会議(以下「企画会議」という。)の設置等に関し、必要な事項を定めるもの\nとする。",
+      "notes": null,
+      "relatedIds": null
+    },
+    {
+      "id": "rule-0008-article-0013",
+      "label": null,
+      "body": "(趣旨)\n\n# 和歌山工業高等専門学校企画会議規則\n\n制 定 平成11年4月1日<br>最近改正 令和 7年4月1日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

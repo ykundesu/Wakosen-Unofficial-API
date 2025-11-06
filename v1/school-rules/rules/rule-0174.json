@@ -1,0 +1,84 @@
+{
+  "id": "rule-0174",
+  "chapterId": "chapter-008",
+  "title": "和歌山工業高等専門学校学寮指導業務要項",
+  "order": 10,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/919b56fb77ed52ac064de94000b5ed37.pdf",
+  "summary": "和歌山工業高等専門学校の学寮指導業務の概要と具体的な勤務時間・業務内容を示した要項です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0174-section-01",
+      "title": "和歌山工業高等専門学校学寮指導業務要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0174-article-0001",
+          "label": null,
+          "body": "制 定 平成26年 4月 1日\n\n最近改正 令和7年 9月1日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0174-section-02",
+      "title": "【業務の概要】",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0174-article-0002",
+          "label": null,
+          "body": "(16:30~17:00<br>寮食堂で検食。検食結果を検食日誌に記入(通常業務)。)\n\n17:15\n\n寮事務室で鍵とカードキーを受け取る。学寮指導日誌の引継事項等を確認。\n\n19:00~20:00<br>1 号館事務室で待機、または必要に応じて2号館ラーニングコモンズにて待機。\n\n20:00~21:00\n\n21:15",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0174-section-03",
+      "title": "【業務内容】",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0174-article-0003",
+          "label": null,
+          "body": "自習時間における寮室の巡視。\n\n学寮指導日誌作成後、鍵とカードキーを寮事務室に返却し、業務終了。\n\n·自習時間に、学寮指導日誌に記載されている学年(別途 学寮委員会で定める)の寮室を巡視する。<br>在室状況を確認し、自習時間用点呼表に記入する。(事前に2号館ラーニングコモンズで自習して\nいる対象学生を確認しておく。なお、男性教員が女子寮を巡視する際は、必ず2名以上で行うものとする。女性教員が男子寮を巡視する際は、指導寮生が先導する。)学寮委員会で定める日は寮\n室巡視ではなく、該当号館各階を巡回する。\n\n·寮内トラブルへの対応(当該学生から事情聴取し、内容を日誌に記入のこと。)\n\n·寮生の発病·けが等への対応(病院搬送時はタクシーチケットを使用すること)\n\n·火災等非常災害時発生時への対応\n\n・その他",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0174-section-04",
+      "title": "(補足)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0174-article-0004",
+          "label": null,
+          "body": "16:30~17:00 の検食については、学寮指導業務時間外となることから、通常業務の一環として実\n施する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0174-section-05",
+      "title": "【勤務場所】",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0174-article-0005",
+          "label": null,
+          "body": "·勤務場所は寮事務室または2号館ラーニングコモンズとし、巡視等必要がある場合(上記業務)\nを除き、みだりに当該勤務場所を離れないこととする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

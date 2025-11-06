@@ -1,0 +1,113 @@
+{
+  "id": "rule-0156",
+  "chapterId": "chapter-006",
+  "title": "和歌山工業高等専門学校体育施設使用規則",
+  "order": 7,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/3165a75db4e4a388378f276e7c94f952.pdf",
+  "summary": "和歌山工業高等専門学校の体育施設使用に関する規則で、使用許可の基準・手続き・管理方法を定めています。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0156-section-01",
+      "title": "目的",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0156-article-0001",
+          "label": "第1条",
+          "body": "第1条 この規則は、和歌山工業高等専門学校(以下「本校」という。)不動産管理取扱規則<br>に基づき、体育施設の使用許可の基準について定める。\n\n2 この規則は、本校学生及び職員が、体育施設を学校行事及び保健体育の授業以外の目的に<br>使用する場合に適用するものとする。\n\n3 体育施設の使用は、前項の行事及び授業に支障を来さない場合に限り、許可することがで<br>きる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0156-section-02",
+      "title": "施設",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0156-article-0002",
+          "label": "第2条",
+          "body": "第2条 この規則で体育施設とは、次に掲げる施設をいう。\n\n一 総合体育館\n\nニ グラウンド\n\n三 野 球 場\n\n四 テニスコート\n\n五 水泳プール\n\n六 弓 道 場\n\n七 課外活動施設\n\n八 その他前各号に付属した施設",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0156-section-03",
+      "title": "使用者及び使用目的",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0156-article-0003",
+          "label": "第3条",
+          "body": "第3条 体育施設の使用者及び使用目的は、次のとおりとする。\n\nー 本校学生が教科内特別活動として行う活動又は行事\n\n二 本校学生が教科外に行う活動又は行事\n\n三 本校職員が行う活動又は行事",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0156-section-04",
+      "title": "使用許可願",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0156-article-0004",
+          "label": "第4条",
+          "body": "第4条 体育施設の使用を希望する学生及び職員は、使用日の4日前までに施設·設備使用許<br>可願(和歌山工業高等専門学校学生準則(以下「学生準則」という。)様式第15号)を学生課に提出し、校長の許可を得なければならない。ただし、学生準則第33条ただし書で使用を認められている場合は、この限りでない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0156-section-05",
+      "title": "体育施設の管理事務",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0156-article-0005",
+          "label": "第5条",
+          "body": "第5条 本校の体育施設の管理事務は、学生課において処理する。<br>(細則等)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0156-article-0006",
+          "label": "第6条",
+          "body": "第6条 体育施設の使用に関する細目は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0156-section-06",
+      "title": "附則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0156-article-0007",
+          "label": null,
+          "body": "1 この規則は、平成元年7月1日から施行する。\n\n2 昭和43年7月1日制定のプール管理規則は、廃止する。<br>附 則\n\nこの規則は、平成5年4月1日から施行する。\n\n附 則\n\nこの規則は、平成11年1月27日から施行する。\n\n附 則\n\nこの規則は、平成16年4月1日から施行する。\n\n附 則\n\nこの規則は、平成18年4月1日から施行する。\n\n附 則\n\nこの規則は、令和 7年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0156-article-0008",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校体育施設使用規則\n\n制 定 平成 元 年7月1日\n\n最近改正 令和 7年4月1日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

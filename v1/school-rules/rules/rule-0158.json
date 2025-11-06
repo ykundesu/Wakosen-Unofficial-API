@@ -1,0 +1,253 @@
+{
+  "id": "rule-0158",
+  "chapterId": "chapter-006",
+  "title": "和歌山工業高等専門学校職業紹介業務運営規則",
+  "order": 9,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/164syokugyou-unei.pdf",
+  "summary": "和歌山工業高等専門学校の無料職業紹介業務運営規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0158-section-01",
+      "title": "(趣 旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0158-article-0001",
+          "label": "第1条",
+          "body": "第1条 この規則は、職業安定法(昭和22年法律第141号)第33条の2の規定に基づき、<br>和歌山工業高等専門学校(以下「本校」という。)が行う無料の職業紹介業務(以下「紹介業\n務」という。)に関し、必要な事項を定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-02",
+      "title": "(紹介業務の範囲)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0158-article-0002",
+          "label": "第2条",
+          "body": "第2条 紹介業務は、本校の学生及び本校を卒業した者を対象とする。<br>(紹介業務の担当者)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0003",
+          "label": "第3条",
+          "body": "第3条 本校に紹介業務を担当する者(以下「職業紹介業務担当者」という。)を置き、進路対\n策委員会委員長をもって充てる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-03",
+      "title": "(求人の申込み)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0158-article-0004",
+          "label": "第4条",
+          "body": "第4条 求人の申込みは、本校所定の求人票をもって行うものとする。ただし、これにより難\nい場合は、任意の書式により申し込むことができる。\n\n2 前項の申込みは、求人者又はその代理人が出頭のうえ、行うものとする。ただし、求人者\n又はその代理人が出頭できない場合は、郵送等により申し込むことができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-04",
+      "title": "(労働条件の明示)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0158-article-0005",
+          "label": "第5条",
+          "body": "第5条 求人の申込みに当たっては、求人者は業務の内容、賃金、労働時間及びその他の労働\n条件を明示しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-05",
+      "title": "(紹介の方法)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0158-article-0006",
+          "label": "第6条",
+          "body": "第6条 求人者に対する紹介は、所定の書面にによる行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0007",
+          "label": null,
+          "body": "(求人の受理範囲)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0008",
+          "label": "第7条",
+          "body": "第7条 求人の申込みは、次の各号の一に該当する場合を除き、いかなる求人も受理する。\n一 求人の申込み内容が法令に違反している場合\n\n二 労働条件が著しく不適当である場合\n\n三 その他求人の申込み内容が不適当であると認める場合\n\n2 前項の規定にかかわらず、労働争議中の事業所からの求人に対しては、争議が解決するま\nではこれを受理しない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-06",
+      "title": "(求職の申込み)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0158-article-0009",
+          "label": "第8条",
+          "body": "第8条 求職の申込は、所定の書面により行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0010",
+          "label": null,
+          "body": "(求職の受理範囲)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0011",
+          "label": "第9条",
+          "body": "第9条 求職の申込みは、次の各号の一に該当する場合を除き、いかなる求職も受理する。\nー 求職の申込み内容が法令に違反している場合\n\n二 その他求職の申込み内容が不適当であると認める場合",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0012",
+          "label": null,
+          "body": "(紹介の原則)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0158-article-0013",
+          "label": "第10条",
+          "body": "第10条 求人者に対しては、雇用条件に適合する求職者を、求職者に対しては、その希望と\n能力に適合する職業を紹介するように努めなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-07",
+      "title": "(均等待遇)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0158-article-0014",
+          "label": "第11条",
+          "body": "第11条 紹介業務を行うに当たっては、何人に対してもその人権、国籍、信条、性別、社会的身\n分、門地等を理由として差別的な取扱いを行ってはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-08",
+      "title": "(秘密の厳守)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0158-article-0015",
+          "label": "第12条",
+          "body": "第12条 紹介業務を行うに当たって知り得た個人的な情報は、すべて秘密とし、他に漏らして\nはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-09",
+      "title": "(採否の報告)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0158-article-0016",
+          "label": "第13条",
+          "body": "第13条 求人者及び求職者は、採否の結果を本校に報告しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-10",
+      "title": "(雑則)",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0158-article-0017",
+          "label": "第14条",
+          "body": "第14条 この規則に定めるもののほか、本校の紹介業務は、関係法令等に基づき運営するも\nのとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-11",
+      "title": "附 則",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0158-article-0018",
+          "label": null,
+          "body": "この規則は、平成14年11月27日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-12",
+      "title": "附 則",
+      "order": 12,
+      "articles": [
+        {
+          "id": "rule-0158-article-0019",
+          "label": null,
+          "body": "この規則は、平成15年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0158-section-13",
+      "title": "附 則",
+      "order": 13,
+      "articles": [
+        {
+          "id": "rule-0158-article-0020",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0158-article-0021",
+      "label": null,
+      "body": "和歌山工業高等専門学校職業紹介業務運営規則\n\n制 定 平成14年11月27日\n\n最近改正 平成16年 4月1 日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

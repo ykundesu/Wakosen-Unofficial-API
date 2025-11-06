@@ -1,0 +1,91 @@
+{
+  "id": "rule-0055",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校情報公開取扱要項",
+  "order": 3,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/52jyouhoukoukai.pdf",
+  "summary": "和歌山工業高等専門学校の情報公開に関する取扱要項で、開示請求手続きや校長・運営委員会の役割を定めている。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0055-section-01",
+      "title": "和歌山工業高等専門学校情報公開取扱要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0055-article-0001",
+          "label": null,
+          "body": "制 定 平成13年4月1日<br>最近改正 平成21年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0002",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校(以下「本校」という。)における情報公開の実施に係る取扱いについては、独立行政法人国立高等専門学校機構情報公開事務取扱規則(平成19年3月30日制定。以下「情報公開取扱規則」という。)又は別に定めるもののほか、この要項の定めるところによる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0003",
+          "label": "第2条",
+          "body": "この要項において「法人文書」とは、独立行政法人等の保有する情報の公開に関する法律(平成13年法律第140号,以下「法」という。)第2条第2項に規定する法人文書をいう。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0004",
+          "label": "第3条",
+          "body": "本校が保有する法人文書について、開示請求があった場合は、総務課総務·企画係において次の各号に定めるところにより受け付けるものとする。\n\n一 本校が保有する法人文書の開示を請求する者(以下「開示請求者」という。)に対し、法人文書の特定に資する情報の提供に努めなければならない。\n\n二 開示請求書を受理したときは、開示請求者に開示請求書の副本1部及び開示請求手数料受領書を交付するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0005",
+          "label": "第4条",
+          "body": "校長は、行政文書の開示·不開示(以下「開示等」という。)を検討するに当たっては、必要に応じて、和歌山工業高等専門学校運営委員会(以下「運営委員会」という。)に意見を求めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0006",
+          "label": "第5条",
+          "body": "この要項に定めるもののほか、情報公開の実施に関して必要な事項は、校長が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0007",
+          "label": null,
+          "body": "附 則\n\nこの要項は、平成13年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0008",
+          "label": null,
+          "body": "附 則\n\nこの要項は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0009",
+          "label": null,
+          "body": "附 則\n\nこの要項は、平成18年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0055-article-0010",
+          "label": null,
+          "body": "附 則\n\nこの要項は、平成21年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

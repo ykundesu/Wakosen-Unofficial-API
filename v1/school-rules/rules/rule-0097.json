@@ -1,0 +1,84 @@
+{
+  "id": "rule-0097",
+  "chapterId": "chapter-004",
+  "title": "和歌山工業高等専門学校における会計機関等の使用する公印の管守規則",
+  "order": 7,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/81kouinkansyu.pdf",
+  "summary": "和歌山工業高等専門学校の会計機関が使用する公印の管理責任と保管方法を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0097-section-01",
+      "title": "(目的)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0097-article-0001",
+          "label": null,
+          "body": "制 定 平成16年4月1日\n\n最近改正 平成18年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0097-article-0002",
+          "label": "第1条",
+          "body": "第1条 この規則は、和歌山工業高等専門学校における会計機関等の使用する公印の管守責任<br>を明確にし、公印に関する事故防止の万全を期することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0097-article-0003",
+          "label": "第2条",
+          "body": "第2条 この規則において「公印」とは、次の各号に掲げる会計機関等の使用する公印で、独<br>立行政法人国立高等専門学校機構の会計機関の使用する公印に関する規則第2条第2項の目的を有するものをいう。\n\n一 契約担当役\n\n二 出納命令役\n\n三 出納役\n\n四 物品管理役\n\n五 不動産管理役",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0097-article-0004",
+          "label": "第3条",
+          "body": "第3条 公印の管守責任者を別表のとおり指定する。\n\n2 公印の管守責任者に事故あるときは、係長以上の職位にある者を命じなければならない。<br>(公印の保管)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0097-article-0005",
+          "label": "第4条",
+          "body": "第4条 公印の管守責任者は、公印の保管に当たっては、独立行政法人国立高等専門学校機構金<br>庫管守規則第2条に規定する金庫に保管しなければならない。\n\n2 公印を格納する印箱は、第2条各号の会計機関等として指定された職位ごとに区分しなけ\nればならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0097-section-02",
+      "title": "附 則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0097-article-0006",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。\n\n附 則\n\nこの規則は、平成18年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0097-section-03",
+      "title": "別表(第3条関係)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0097-article-0007",
+          "label": null,
+          "body": "|部 局 名|事務を担当する職位|会計機関名|公印管守責任者|\n|-|-|-|-|\n|和歌山工業高等専門学校|事務部長|契約担当役<br>出納命令役<br>不動産管理役|事務部長|\n||総務課長|物品管理役<br>出 納 役|総務課長|",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

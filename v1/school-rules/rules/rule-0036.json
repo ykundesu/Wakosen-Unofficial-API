@@ -1,0 +1,91 @@
+{
+  "id": "rule-0036",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校専攻科担当教員基準",
+  "order": 32,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/e1308850bbc745593d607f77681f9328.pdf",
+  "summary": "和歌山工業高等専門学校専攻科担当教員の資格・認定・再認定に関する基準を定めた規定です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0036-section-01",
+      "title": "和歌山工業高等専門学校専攻科担当教員基準",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0036-article-0001",
+          "label": null,
+          "body": "制 定 平成18年1月25日<br>最近改正 令和 7年9月24日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0036-section-02",
+      "title": "(趣旨)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0036-article-0002",
+          "label": null,
+          "body": "この基準は、専攻科担当教員の資格、認定等に関し、必要な事項を定めるものとする。\\(担当教員の資格\\)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0036-article-0003",
+          "label": "2",
+          "body": "専攻科担当教員は、高等専門学校設置基準第11条の教授、第12条の准教授、第13条<br>の講師又は第13条の2の助教の資格を有し、次に掲げる条件を満たしている者とする。\n\n一 原則として、博士の学位を有する者。ただし、講義を担当する場合で、学位取得者と同\n等以上の業績が認められる者は、この限りではない。\n\n一 原則として、過去3年以内の研究業績を有する者\n\n三 学校の教育·運営方針を理解し、教育方針に沿った学生指導を行っている者",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0036-article-0004",
+          "label": "3",
+          "body": "担当教員の認定及び再認定の原案作成は、専攻科委員会が次に掲げる事項により行うもの\nとする。\n\n一 担当教員の認定に関する原案は、論文及び研究発表を記した研究業績一覧並びに教員\n個人調書を基に作成する。\n\n二 担当教員の再認定に関する原案は、専攻科担当教員から所定の期日までに提出された年\n間の研究業績、シラバス、授業進捗報告書、授業完了書、特別研究実施計画·指導報告書\nを基に作成する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0036-article-0005",
+          "label": "4",
+          "body": "担当教員の認定及び再認定は、企画会議が、専攻科委員会で作成した原案を基に審査し、\n校長が認定する。なお、審査は、毎年度実施するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0036-section-03",
+      "title": "附 則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0036-article-0006",
+          "label": null,
+          "body": "この基準は、平成18年1月25日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0036-article-0007",
+          "label": null,
+          "body": "この基準は,平成19年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0036-article-0008",
+          "label": null,
+          "body": "この基準は、令和7年9月24日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

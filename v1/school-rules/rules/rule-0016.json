@@ -1,0 +1,106 @@
+{
+  "id": "rule-0016",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校学生支援センター規則",
+  "order": 12,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/13-1gakuseisiencenter.pdf",
+  "summary": "和歌山工業高等専門学校学生支援センターの組織・業務・運営に関する規則を定めたものです。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0016-section-01",
+      "title": "趣旨",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0016-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校学生支援センター(以下「センター」という。<br>の組織及び管理運営に関し、必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0016-section-02",
+      "title": "目的",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0016-article-0002",
+          "label": "第2条",
+          "body": "センターは、和歌山工業高等専門学校(以下「本校」という。)における学生相談<br>及び修学相談、就職、学生生活等の学生支援業務を総括的に取扱い、もって学生生活の充<br>実及び発展に寄与することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0016-section-03",
+      "title": "業務",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0016-article-0003",
+          "label": "第3条",
+          "body": "センターは、次に掲げる業務を行う。\n\n一 総合的な学生支援のための調査·分析及び企画·立案に関すること。\n\n二 センター内委員会及び室間の連絡調整に関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0016-section-04",
+      "title": "組織",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0016-article-0004",
+          "label": "第4条",
+          "body": "センターに、センター長及び副センター長を置く。\n\n2 センター長は、学生主事をもって充てる。\n\n3 センター長は、校長の命を受け、センターの業務を掌理する。\n\n4 副センター長は、学生相談室長をもって充てる。\n\n5 副センター長は、センター長の職務を補佐し、センター長に事故あるときはセンター<br>長の職務を代行する。\n\n6 センターに、次の委員会及び室を置く、\n\n– 厚生補導委員会\n\n二 人権教育委員会\n\n三 進路対策委員会\n\n四 授業料等の免除及び徴収猶予委員会\n\n五 学生相談室\n\n六 学生支援室",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0016-section-05",
+      "title": "事務",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0016-article-0005",
+          "label": "第5条",
+          "body": "センターに関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0016-section-06",
+      "title": "雑則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0016-article-0006",
+          "label": "第6条",
+          "body": "この規則に定めるもののほか、センターの運営等に関し必要な事項は、別に定め<br>る。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0016-article-0007",
+      "label": null,
+      "body": "和歌山工業高等専門学校学生支援センター規則\n制 定 令和2年5月26日\n\n附 則\nこの規則は、令和2年5月26日から施行し、令和2年4月1日から適用する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

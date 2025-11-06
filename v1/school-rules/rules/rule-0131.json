@@ -1,0 +1,169 @@
+{
+  "id": "rule-0131",
+  "chapterId": "chapter-005",
+  "title": "大学及び他の高等専門学校専攻科等で開設されている授業科目以外での単位認定に関する取扱要項",
+  "order": 18,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/b50cc3b9946d3f183fb56a040b65a18b.pdf",
+  "summary": "大学等で開設されている授業科目以外の学修（例：TOEIC）に対する単位認定の手続きと基準を定めた要項です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0131-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0131-article-0001",
+          "label": "第1",
+          "body": "制 定 平成17年12月7日<br>最近改正 令和 7年 9月24日\n\n第1 和歌山工業高等専門学校専攻科授業科目の履修に関する規則第10条第2項の規定に<br>基づき、大学及び他の高等専門学校専攻科等\\(以下「大学等」という。\\)で開設されている\n授業科目以外での学修について単位を認定する場合の要項を定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-02",
+      "title": "(定義)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0131-article-0002",
+          "label": "第2",
+          "body": "大学等で開設されている授業科目以外での学修とは、次の学修をいう。<br>TOEICテストによる学修",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-03",
+      "title": "(単位認定)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0131-article-0003",
+          "label": "第3",
+          "body": "第3 第2に規定する学修により、和歌山工業高等専門学校専攻科で単位の認定を受けようと\nするときは、別記様式による大学等で開設されている授業科目以外における学修単位申請書\nに、認定証等の写を添え、専攻科長を経て、校長に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0004",
+          "label": "2",
+          "body": "単位の認定は、専攻科委員会の議を経て校長が行う。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0005",
+          "label": "3",
+          "body": "第2に規定する学修における認定単位数の限度等は、別表に定めるとおりとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0006",
+          "label": "4",
+          "body": "認定された単位は、大学等で開設されている授業科目以外における学修単位申請書が受理\nされた年度の単位とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0007",
+          "label": "5",
+          "body": "認定単位の表記名は、別表のとおりとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0008",
+          "label": "6",
+          "body": "単位認定された授業科目の評語は「認定」とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0009",
+          "label": "7",
+          "body": "成績原簿への登記並びに部外への諸証明に表記する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0131-article-0010",
+          "label": "第4",
+          "body": "単位認定された授業科目は、専攻科修了要件として認定される選択科目とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-04",
+      "title": "附 則",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0131-article-0011",
+          "label": null,
+          "body": "この要項は、平成17年12月7日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-05",
+      "title": "附 則",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0131-article-0012",
+          "label": null,
+          "body": "この要項は、令和6年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-06",
+      "title": "附 則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0131-article-0013",
+          "label": null,
+          "body": "この要項は、令和6年4月1日から施行し、令和5年3月31日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0131-section-07",
+      "title": "附 則",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0131-article-0014",
+          "label": null,
+          "body": "この要項は、令和7年9月24日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0131-article-0015",
+      "label": null,
+      "body": "別表\n\n|技能審査の種類|認定単位数|\n|-|-|\n|TOEIC<br>\\(スコア620点以上\\)|2単位|\n|TOEIC<br>\\(スコア820点以上\\)|4単位|\n\n備考 既に単位の認定を受けている者がより上位のスコアを認定された場合は、表中の認定さ\nれたスコアの認定単位数から既に認定を受けている単位数を差し引いた単位数を当該\n技能審査の種類における認定単位数とする。\n\n別記様式\n\n<img src=\"figures/rule-0131_page0003_figure_0.png\" width=\"200px\"><br>",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

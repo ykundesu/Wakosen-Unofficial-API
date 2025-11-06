@@ -1,0 +1,203 @@
+{
+  "id": "rule-0119",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校外国留学に関する取扱要項実施細目",
+  "order": 6,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/116gaikokuryugakujissisaimoku.pdf",
+  "summary": "和歌山工業高等専門学校の外国留学に関する規定で、留学資格・コース別の進学・単位認定条件や成績資料の提出・保管手続きなどを定めた実施細目です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0119-section-01",
+      "title": "(要旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0119-article-0001",
+          "label": "第1条",
+          "body": "この細目は、和歌山工業高等専門学校外国留学に関する取扱要項第9条の規定に基づ<br>き、和歌山工業高等専門学校(以下「本校」という。)の学生の外国留学(以下「留学」と<br>いう。)の実施に関し必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0002",
+          "label": "第2条",
+          "body": "留学資格は、日本青少年育成協会所属の全国高校生留学生交流団体連絡協議会会員、又はこれと同等と認められる団体(外国の団体を含む。)が実施する試験に合格した者とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0119-section-02",
+      "title": "(留学許可学生)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0119-article-0003",
+          "label": "第3条",
+          "body": "留学の許可は、第1学年から第3学年までに在学する学生を対象とする。(出席)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0004",
+          "label": "第4条",
+          "body": "当該学生は、留学期間中、本校に在学し、出席したものとみなす。(留学の種類)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0005",
+          "label": "第5条",
+          "body": "留学のコースは、次の2コースとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0119-section-03",
+      "title": "Aコース",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0119-article-0006",
+          "label": null,
+          "body": "ー 本校での成績が、特に優秀な者とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0007",
+          "label": "二",
+          "body": "留学先の学校が発行する証明書等に基づき留学中の成績が良好な者に対しては、60単位を超えない範囲で、本校における授業科目の履修により修得したものとみなし、留学前の所属学年より1学年上の学年に進級させることができる。ただし、この場合において修得したものとみなすことができる単位は、学生が他の高等専門学校及びそれ以外の教育施設等において履修したものとみなす単位を合わせて60単位を超えないものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0008",
+          "label": "三",
+          "body": "第3学年での出発期限は、8月末日までとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0009",
+          "label": "四",
+          "body": "留学の出発時期及び帰国時期は、7月~8月出発、4月~6月帰国と、1月~2月出発、10月~12月帰国の2種類とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0010",
+          "label": "(ア)",
+          "body": "7月~8月出発、4月~6月帰国の場合\n留学前に、留学に伴う当該学年の不足単位の修得が見込めることを条件とする とともに、出発時までの欠席日数は、当該期間の3分の1以下とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0011",
+          "label": "(イ)",
+          "body": "1月~2月出発、10月~12月帰国の場合\n留学出発までの成績資料に基づき、当該学年の修了認定が見込めることを条件 とするとともに、帰国後、年度末までに帰国年度の学年の不足単位を修得するものとする。なお、帰国年度の欠席日数は、当該期間の3分の1以下とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0012",
+          "label": "五",
+          "body": "留学中の成績が良好であっても、本人の希望により留学前の学年に復帰することができる。ただし、留学前の成績資料は引き継ぐものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0013",
+          "label": "六",
+          "body": "留学中の成績が不良で、単位の認定を受けられなかった者は、留学前の学年に復帰するものとする。ただし、留学前の成績資料は引き継ぐものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0119-section-04",
+      "title": "Bコース",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0119-article-0014",
+          "label": null,
+          "body": "ー 留学Aコースの条件に該当せず留学する者に対しては、帰国後、留学前の学年に復帰させることができる。ただし、留学前の成績資料は引き継ぐものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0015",
+          "label": "二",
+          "body": "本人から履修免除の申し出があった科目について、留学先の学校が発行する証明書等に基づき、その成績が良好な場合、申し出があった科目を修得したものと認定することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0119-section-05",
+      "title": "(成績資料の提出及び保管)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0119-article-0016",
+          "label": "第6条",
+          "body": "留学する学生の授業担当教員は、当該学生の留学出発時点までの成績資料(授業時間、授業時間数、評価等)を所定の期日までに学生課教務係に提出し、教務係はこれを保管しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0119-section-06",
+      "title": "附 則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0119-article-0017",
+          "label": null,
+          "body": "この細目は、平成9年12月3日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0018",
+          "label": null,
+          "body": "この細目は、平成11年12月22日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0019",
+          "label": null,
+          "body": "この細目は、平成13年12月12日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0020",
+          "label": null,
+          "body": "この細目は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0119-article-0021",
+          "label": null,
+          "body": "この細目は、令和3年3月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

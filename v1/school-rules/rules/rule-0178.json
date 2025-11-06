@@ -1,0 +1,288 @@
+{
+  "id": "rule-0178",
+  "chapterId": "chapter-009",
+  "title": "和歌山工業高等専門学校寮生会会則",
+  "order": 4,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/203ryouseikaikisoku.pdf",
+  "summary": "和歌山工業高等専門学校の寮生会の組織・運営に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0178-section-01",
+      "title": "第1章 総則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0178-article-0001",
+          "label": "第1条",
+          "body": "第1条 和歌山工業高等専門学校学生寮\\(以下「学寮」という。\\)に寮生会\\(以下「本会」という。\\)<br>を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0002",
+          "label": "第2条",
+          "body": "第2条 本会は和歌山工業高等専門学校\\(以下「本校」という。\\)の指導の下に寮の規律ある共同<br>生活を自治的に推進し、人間形成の助長をはかり、本校教育の目的達成に資することを目的と<br>する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0003",
+          "label": "第3条",
+          "body": "第3条 本会は前条の目的を実現するために、次に掲げる目標の達成に努めるものとする。\n\nー 学寮生活を楽しく豊かに規律正しいものにし、学寮のよい伝統を育てる。\n\n二 学寮生活を通じ集団生活において自主的かつ民主的に行動する能力を養い、公民としての<br>資質を向上する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0004",
+          "label": "第4条",
+          "body": "第4条 本会は学寮に在籍の学生\\(以下「寮生」という。\\)全員をもって構成する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-02",
+      "title": "第2章 機関",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0178-article-0005",
+          "label": "第5条",
+          "body": "第5条 本会は第2条の目的を達成するために、次の機関をおく。\n\n一 寮生総会\n\n二 執行委員会\n\n三 潮風委員会\n\n四 広報委員会\n\n五 環境委員会\n\n六 アンケート委員会\n\n七 監査委員会",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-03",
+      "title": "第3章 役員",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0178-article-0006",
+          "label": "第6条",
+          "body": "第6条 本会に次の役員をおく。\n\n一 寮生会長 1名\n\n二 寮生副会長 1名\n\n三 執行委員 若干名\n\n四 書記 若干名\n\n五 会計委員 若干名\n\n六 監査委員 若干名\n\n七 潮風委員\n\n八 広報委員\n\n九 環境委員\n\n十 アンケート委員\n\nただし、潮風委員、広報委員、環境委員及びアンケート委員\\(以下「各種委員」という。\\)につ<br>いては、特に定員を設けない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0007",
+          "label": "第7条",
+          "body": "第7条 役員の任務は次のとおりとする。\n\n一 寮生会長\n\n本会の会務を総括し、本会を代表する。\n\n二 寮生副会長\n\n寮生会長を補佐し、寮生会長に事故のある場合は、これを代行する。\n\n三 執行委員\n\n寮生会長及び寮生副会長を補佐し、各種雑務にあたる。\n\n四 書記\n\n寮生総会、執行委員会及び各種委員会の記録及び整理にあたる。\n\n五 会計委員\n\n本会の予算及び決算並びに出納に関することをつかさどる。\n\n六 監査委員\n\n第16条に定めるところによる。\n\n七 各種委員\n\n第23条に定めるところによる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0008",
+          "label": "第8条",
+          "body": "第8条 役員の決定方法は次のとおりとする。\n\n一 寮生会長は全寮生の投票によって選出する。\n\n二 寮生副会長は寮生会長が任命する。\n\n三 執行委員は有志を募る。\n\n四 書記、会計委員は寮生会長が任命する。\n\n五 監査委員は有志を募る。\n\n六 各種委員については有志を募る。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0009",
+          "label": "第9条",
+          "body": "第9条 役員の任期は1年とする。ただし、各役員は、後任の役員が決定するまでの間、その任<br>務を行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-04",
+      "title": "第4章 寮生総会",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0178-article-0010",
+          "label": "第10条",
+          "body": "第10条 寮生総会は本会最高の議決機関であって、定期総会は毎年2回\\(各学期1回\\)とし、<br>寮生会長がこれを招集する。ただし、寮生の3分の1以上の要求があった場合、寮生会長が必<br>要と認めた場合は臨時総会を招集することができる。なお、寮生総会開催にあたっては原則と<br>して1週間前に寮生に通知する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0011",
+          "label": "第11条",
+          "body": "第11条 寮生総会の議長は寮生会長が、副議長は寮生副会長がそれぞれ務めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0012",
+          "label": "第12条",
+          "body": "第12条 寮生総会は寮生の4分の3以上の出席をもって成立し、その議決には出席者の過半数<br>の同意を必要とする。ただし、重要事項の議決には出席者の3分の2以上の同意を必要とする。<br>なお、重要事項とは予算、決算、会則の改廃及び執行委員会が認めたものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-05",
+      "title": "第5章 執行委員会",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0178-article-0013",
+          "label": "第13条",
+          "body": "第13条 執行委員会は、寮生会長、寮生副会長、執行委員、書記、会計委員並びに第21条に<br>定めるところの潮風委員長、広報委員長、環境委員長及びアンケート委員長\\(以下「各種委員<br>長」という。\\)をもって構成する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0014",
+          "label": "第14条",
+          "body": "第14条 執行委員会に執行委員長をおき、寮生会長をもって充てる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0015",
+          "label": "第15条",
+          "body": "第15条 執行委員会は本会の運営に関する事項を企画立案する。又、総会で承認議決された事\n項の執行にあたる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-06",
+      "title": "第6章 監査委員会",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0178-article-0016",
+          "label": "第16条",
+          "body": "第16条 監査委員会は、全ての委員会に対して独立性をもち、本会の全ての会計を監査する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0017",
+          "label": "第17条",
+          "body": "第17条 監査委員は本会の他の役員を兼任することはできない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0018",
+          "label": "第18条",
+          "body": "第18条 監査委員会に監査委員長をおき、監査委員の互選により選出する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0019",
+          "label": "第19条",
+          "body": "第19条 監査委員会は、必要に応じて、監査委員長がこれを招集する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-07",
+      "title": "第7章 各種委員会",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0178-article-0020",
+          "label": "第20条",
+          "body": "第20条 潮風委員会、広報委員会、環境委員会及びアンケート委員会\\(以下「各種委員会」と<br>いう。\\)は本会の活動の円滑化を図ることを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0021",
+          "label": "第21条",
+          "body": "第21条 各種委員会にそれぞれ各種委員長をおき、各種委員の互選により選出する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0022",
+          "label": "第22条",
+          "body": "第22条 各種委員会は、必要に応じて、各種委員長がこれを招集する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0023",
+          "label": "第23条",
+          "body": "第23条 各種委員会の活動は次のとおりとする。\n\n一 潮風委員会\n\n寮生により文集の編集を行う。\n\n二 広報委員会\n\n寮生に関する広報を行う。\n\n三 環境委員会\n\n寮内における環境保全活動を総括する。\n\n四 アンケート委員会\n\n寮食堂の食事及び設備に対する寮生の意見を把握し、改善を求める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-08",
+      "title": "第8章 会計",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0178-article-0024",
+          "label": "第24条",
+          "body": "第24条 本会会費は月額120円とし、4月に前期分、10月に後期分を、それぞれまとめて<br>納付するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0025",
+          "label": "第25条",
+          "body": "第25条 本会の会計年度は毎年4月1日に始まり、翌年3月31日に終わるものとする。\n\n予算の執行については別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0026",
+          "label": "第26条",
+          "body": "第26条 予算の使用については学生会細則を準用するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0178-section-09",
+      "title": "第9章 顧問",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0178-article-0027",
+          "label": "第27条",
+          "body": "第27条 本会に顧問を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0028",
+          "label": "第28条",
+          "body": "第28条 本会顧問として、寮務主事が寮務主事補1名を任命する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0178-article-0029",
+          "label": "第29条",
+          "body": "第29条 顧問は、本会に対する助言、諸活動への協力の他、監査委員と共に会計監査を行うも<br>のとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0178-article-0030",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校寮生会会則\n\n制 定 昭和41年10月 1日\n\n最近改正 令和 4年 6月 9日\n\n附則\n\nこの会則は、昭和41年10月1日から施行する。\n\n附則\n\nこの会則は、昭和44年10月27日から施行する。\n\n附則\n\nこの会則は、昭和46年5月12日から施行する。\n\n附則\n\nこの会則は、昭和49年2月25日から施行する。\n\n附則\n\nこの会則は、昭和50年4月1日から施行する。\n\n附則\n\nこの会則は、平成7年4月1日から施行する。\n\n附則\n\nこの会則は、平成17年5月24日から施行する。\n\n附則\n\nこの会則は、平成28年7月4日から施行する。\n\n附則\n\nこの会則は、令和4年6月9日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

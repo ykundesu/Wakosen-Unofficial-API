@@ -1,0 +1,92 @@
+{
+  "id": "rule-0009",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校諮問委員会設置要項",
+  "order": 5,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/kisoku6shimonR50401.pdf",
+  "summary": "和歌山工業高等専門学校は、教育研究活動や運営の重要事項について校長の諮問に応じて協議・助言を行う諮問委員会を設置し、委員は社会的識見を有する学外者で構成され、任期は1年で再任が可能とする。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0009-section-01",
+      "title": "(設置)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0009-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校(以下「本校」という。)に、本校の教育研究活動等の充<br>実·発展に資することを目的として、広く学外有識者の意見を求めるため、和歌山工業高<br>等専門学校諮問委員会(以下「諮問委員会」という。)を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0009-section-02",
+      "title": "(目的)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0009-article-0002",
+          "label": "第2条",
+          "body": "諮問委員会は、次に掲げる事項について、校長の諮問に応じて協議し、校長に対して助言又は提言を行うものとする。\n\n一 本校の教育研究活動に関する重要事項\n\n二 本校の自己点検·自己評価に関する重要事項\n\n三 本校の運営に関する重要事項\n\n四 その他校長が必要と認めた事項",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0009-article-0003",
+          "label": "第3条",
+          "body": "諮問委員会の委員は、人格識見が高く、広く社会の実情に通じ、かつ、本校の充実·発展に関心と理解のある学外者のうちから、校長が委嘱したもの若干名とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0009-article-0004",
+          "label": "第4条",
+          "body": "委員の任期は1年とする。ただし、再任を妨げない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0009-article-0005",
+          "label": "第5条",
+          "body": "諮問委員会は、毎年度必要に応じて開催する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0009-article-0006",
+          "label": "第6条",
+          "body": "この要項に定めるもののほか、諮問委員会の運営に関する事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0009-section-03",
+      "title": "附 則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0009-article-0007",
+          "label": null,
+          "body": "この要項は、令和5年4月1日から施行する.\n\n制 定 平成12年 5月17日\n\n最近改正 令和 5年 4月 1日\n\n|||\n|-|-|-|\n||||",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0009-article-0008",
+      "label": null,
+      "body": "和歌山工業高等専門学校諮出委員会設置要項\n\n附 則\nこの要項は、平成12年5月17日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

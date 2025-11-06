@@ -1,0 +1,92 @@
+{
+  "id": "rule-0015",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校専攻科成績判定会規則",
+  "order": 11,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/R511812senkoukaseisekihanteikai.pdf",
+  "summary": "和歌山工業高等専門学校における専攻科成績判定会の設置・組織・運営・事務に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0015-section-01",
+      "title": "設置",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0015-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校に専攻科成績判定会を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0015-section-02",
+      "title": "審議事項",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0015-article-0002",
+          "label": "第2条",
+          "body": "専攻科成績判定会は、和歌山工業高等専門学校専攻科授業科目の履修に関する規則に定める成績評価及び修了の認定について審議する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0015-section-03",
+      "title": "組織",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0015-article-0003",
+          "label": "第3条",
+          "body": "専攻科成績判定会は、次に掲げる者をもって組織する。\n\n一 専攻科長\n\n二 教務主事\n\n三 各学科主任\n\n四 副専攻科長\n\n五 校長が必要と認めた者\n\n2 専攻科成績判定会には、副校長、学生主事及び寮務主事がオブザーバーとして参加する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0015-section-04",
+      "title": "運営",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0015-article-0004",
+          "label": "第4条",
+          "body": "専攻科成績判定会は、専攻科長が招集し、その議長となる。\n\n2 専攻科成績判定会が必要と認めたときは、第3条に掲げる者以外の者を出席させて意見を聴することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0015-section-05",
+      "title": "専攻科成績判定会の事務",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0015-article-0005",
+          "label": "第5条",
+          "body": "専攻科成績判定会に関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0015-article-0006",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校専攻科成績判定会規則\n\n制 定 平成16年 4月1日<br>最近改正 令和 5年11月 8日\n\n附 則\nこの規則は、平成16年4月1日から施行する。\n\n附 則\nこの規則は、平成17年9月1日から施行する。\n\n附 則\nこの規則は、令和5年11月8日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

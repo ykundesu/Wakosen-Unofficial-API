@@ -1,0 +1,36 @@
+{
+  "id": "rule-0141",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式3",
+  "order": 28,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki3.pdf",
+  "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムにおける水準未達科目の履修申請書です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0141-section-01",
+      "title": "水準達成を要する科目の履修証明書",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0141-article-0001",
+          "label": null,
+          "body": "和歌山工業高等専門学校長 殿\n\n平成 年 月 日\n\n平成<br>年度入学\n\n担当教員氏名\\(自署\\)\n\n工学専攻\n\n本校地域環境デザイン工学教育プログラムにおける水準達成を要する科目の履修を、下<br>記のとおり申請します。\n\n記\n\n|科 目 名|履 修<br>科目の<br>学年・<br>クラス|曜日限|単位数|学習教育目標|担 当 教 員 名|\n|-|-|-|-|-|-|\n|||||||\n|||||||\n|||||||\n|||||||\n|||||||\n|||||||\n|||||||\n|||||||\n|||||||\n",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0141-article-0002",
+      "label": null,
+      "body": "様式3",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

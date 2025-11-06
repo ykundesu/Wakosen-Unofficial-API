@@ -1,0 +1,350 @@
+{
+  "id": "rule-0169",
+  "chapterId": "chapter-008",
+  "title": "和歌山工業高等専門学校学寮規則",
+  "order": 5,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/cdbb8c4c5af359e054324c8694325f5d.pdf",
+  "summary": "和歌山工業高等専門学校の学寮に関する管理・運営規則で、寮生の配置・日課・健康・行事・禁止事項・欠食等の詳細を定めたものです。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0169-section-01",
+      "title": "(総則)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0169-article-0001",
+          "label": null,
+          "body": "制 定 昭和43年4月 1日\n\n最近改正 令和 7年9月 1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0002",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校学寮管理運営規則第20条の規定に基づき、本規則を定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0003",
+          "label": "第2条",
+          "body": "和歌山工業高等専門学校学寮は、「柑紀寮」（こうきりょう）と呼称する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0004",
+          "label": "第3条",
+          "body": "柑紀寮（以下「寮」という。）各号館各室の寮生配置は、寮務主事がこれを定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0005",
+          "label": "第4条",
+          "body": "寮生会は、会則の制定、改正、事業計画等について、寮務主事を通じ校長の承認を得\nるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0006",
+          "label": "第5条",
+          "body": "寮生会の役員は、すべて和歌山工業高等専門学校寮生会会則の規定により選出し、校\n長が任命する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0007",
+          "label": "第6条",
+          "body": "校長は、寮務主事の推薦に基づき、寮生の日課、勉学その他の指導に当たらせるため、\n第3学年以上の寮生の中から指導寮生及び副指導寮生を任命する。\n\n2 前項に定める指導を円滑に行うため、寮に指導寮生委員会を置く。\n\n3 指導寮生委員会に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-02",
+      "title": "(日課)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0169-article-0008",
+          "label": "第7条",
+          "body": "寮における日課は、学寮委員会が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0009",
+          "label": "第8条",
+          "body": "寮生は、外泊しようとするときは外泊願（点呼免除願）（様式第1号）を外泊当日（そ\nの日が土曜日、日曜日、国民の祝日に関する法律（昭和23年法律第178号）に規定する\n休日及び休業日の場合は直前の授業日）の13時までに提出し、寮務主事の許可を得なけれ\nばならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-03",
+      "title": "(保健及び衛生)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0169-article-0010",
+          "label": "第9条",
+          "body": "寮生は、寝具及び被服を随時日光にさらす等、常に保健衛生に留意しなければならな\nい。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0011",
+          "label": "第10条",
+          "body": "日課の清掃のほか、定期的に寮内外の大掃除を行わなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0012",
+          "label": "第11条",
+          "body": "寮生は、学校伝染病の予防に留意し、罹り患した者は、学校の指示する対策に忠実\nに従わなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0013",
+          "label": "第12条",
+          "body": "疾病負傷にかかった者は、速やかに宿日直教員に申し出て指示を受けるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-04",
+      "title": "(集会、行事及び印刷物)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0169-article-0014",
+          "label": "第13条",
+          "body": "寮生が集会又は行事をしようとするときは、集会·行事許可願（様式第2号）によ\nり寮務主事に願い出て許可を得なければならない。\n\n2 集会又は行事が終わったときは、責任者は、速やかに寮務主事に報告しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0015",
+          "label": "第14条",
+          "body": "寮内の印刷物配布等については、寮務主事の許可を得なければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-05",
+      "title": "(禁止事項)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0169-article-0016",
+          "label": "第15条",
+          "body": "寮生は、次に掲げる行為をしてはならない。\n\n一 自習時間内にみだりに外出し、自席を離れ、又は飲食すること。\n\n二 自習時間中他の寮生の勉学を妨げ、また消灯後安眠を妨げること。\n\n三 非常の場合以外に消灯時刻以後、自室内で点灯すること。\n\n四 寮内において所定以外の履物を用いること。\n\n五 所定以外の火気及び電熱器類を使用すること。\n\n六 飲酒、喫煙等をすること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-06",
+      "title": "(欠食)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0169-article-0017",
+          "label": "第16条",
+          "body": "疾病負傷、特別欠席、忌引、退学、休学等の事由により、連続3食以上の食事を不\n要とする者は、欠食となる日以前の3授業日前の13時までに、欠食願（様式第3号）を提\n出し、寮務主事の許可を得なければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-07",
+      "title": "(雑則)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0169-article-0018",
+          "label": "第17条",
+          "body": "この規則を実施運用するについて必要な事項は、学寮委員会の協議に基づき寮務主\n事が校長の承認を得て、適正に定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-08",
+      "title": "附 則",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0169-article-0019",
+          "label": null,
+          "body": "1 この規則は、昭和43年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0020",
+          "label": null,
+          "body": "2 昭和39年4月20日制定の和歌山工業高等専門学校寮規則は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0021",
+          "label": null,
+          "body": "附 則\n\nこの規則は、昭和45年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0022",
+          "label": null,
+          "body": "附 則\n\nこの規則は、昭和46年11月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0023",
+          "label": null,
+          "body": "附 則\n\nこの規則は、昭和48年10月11日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0024",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成4年6月25日から施行し、平成4年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0025",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成10年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0026",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成11年1月27日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0027",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0028",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成27年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0029",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成30年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0030",
+          "label": null,
+          "body": "附 則\n\nこの規則は、令和2年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0031",
+          "label": null,
+          "body": "附 則\n\nこの規則は、令和7年9月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0169-article-0032",
+          "label": null,
+          "body": "様式第1号\n\n和歌山工業高等専門学校\n\n寮 務 主 事 殿",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-09",
+      "title": "外泊願(点呼免除願)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0169-article-0033",
+          "label": null,
+          "body": "氏名\n\n以下のとおり外泊（点呼免除）を許可願います。\n\n■ 外泊理由:帰省·その他(\n\n保護者連絡先TEL\n\n提出日 (<br>(元号) 年 月 日\n\n担任確認印\n\n号館 号室 年 組 番\n\n-\n\n)\n\n-\n\n|【担任記入欄:教育的疑義等がある場合のみ要記載(要指導)】|||\n|-|-|-|\n|·疑義に対する担任の判断|外泊に同意|外泊に不同意|\n|·疑義に対する保護者の回答|外泊に同意|外泊に不同意|\n\n■ 外泊先情報(自宅以外の場合のみ記入):\n\nTEL<br>-<br>-\n\n■ 点呼免除希望日(下記表に当該週からの日付を記入し、点呼免除該当日に\nを付けてく\nださい。)\n\n月\n\n|曜 日|月|火|水|木|金|土|日|\n|-|-|-|-|-|-|-|-|\n|日 付|日|日|日|日|日|日|日|\n|朝||||||||\n|夜||||||||\n\n|曜 日|月|火|水|木|金|土|日|\n|-|-|-|-|-|-|-|-|\n|日 付|日|日|日|日|日|日|日|\n|朝||||||||\n|夜||||||||\n\n● 外泊願の提出締切は外泊当日(その日が土、日、祝日の場合は直前の授業日)の 13 時で\nす。\n\n● 休日(土·日·祝日)の前夜および後朝以外に○をつけた場合は、学級担任(クラブ活動\nの場合は、クラブ部長)の確認印が必要です。\n\n● 書類に未記入·不備がある場合は、無効になることがあります。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-10",
+      "title": "集 会·行 事 許 可 願",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0169-article-0034",
+          "label": null,
+          "body": "和歌山工業高等専門学校\n寮 務 主 事 殿",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-11",
+      "title": "責任代表者",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0169-article-0035",
+          "label": null,
+          "body": "(元号)<br>) 年 月 日\n\n学科 第 学年\n\n氏名(自署)\n\n下記のとおり集会·行事をしたいので、御許可下さるようお願いします。\n\n記\n\n1 日 時 令和 年 月 日( )\n\n2 場 所\n\n3 目 的\n\n4 主催者名\n\n自午前·後 時 分~ 至午前·後\n時 分\n\n5 施設·設備の名称\n\n6 参加者数\n\n(注)<br>·集会、行事を行う1週間以前にこの願を提出して許可を受けること。\n·学寮以外の施設·設備を使用する場合は、別途担当係に施設·設備使用許可願を\n提出し、許可を受けること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0169-section-12",
+      "title": "欠 食 願",
+      "order": 12,
+      "articles": [
+        {
+          "id": "rule-0169-article-0036",
+          "label": null,
+          "body": "氏名\n\n提出の締切は、欠食開始日の3授業日前の13時です。\n\n下記理由により、欠食を許可願います。\n\n提出日<br>(元号)<br>日\n\n号館 号室 年 組 番\n\n|連絡先|電話<br>-|\n|-|-|\n|理 由||\n\n該当週からの日付を記入し、欠食該当分に〇印を付けてください。ただし、欠食許可は、<br>学寮規則第16条に規定する場合のみです。\n\n|曜日|日|月|火|水|木|金|土|\n|-|-|-|-|-|-|-|-|\n|日付|日|日|日|日|日|日|日|\n|朝食||||||||\n|昼食|||||||\n|夕食||||||||\n\n|曜日|日|月|火|水|木|金|土|\n|-|-|-|-|-|-|-|-|\n|日付|日|日|日|日|日|日|日|\n|朝食||||||||\n|昼食|||||||\n|夕食||||||||\n\n※急用の帰省等の場合の欠食扱いについては、寮務係窓口で相談すること。\n\n※書類等の未記入·不備がある場合は、無効になることがあります。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

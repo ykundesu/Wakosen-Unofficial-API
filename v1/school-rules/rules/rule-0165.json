@@ -1,0 +1,154 @@
+{
+  "id": "rule-0165",
+  "chapterId": "chapter-007",
+  "title": "和歌山工業高等専門学校図書館規則",
+  "order": 1,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/23e610d58a26e3a0b5d585128e87c01c.pdf",
+  "summary": "和歌山工業高等専門学校図書館の運営・管理、予算区分、図書分類、図書館長の役割、利用規定を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0165-section-01",
+      "title": "和歌山工業高等専門学校図書館規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0165-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校メディアセンター規則第9条の規定に基づき、この規則<br>を定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-02",
+      "title": "(目的)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0165-article-0002",
+          "label": "第2条",
+          "body": "和歌山工業高等専門学校図書館(以下「図書館」という。)は、図書、雑誌、視聴<br>覚資料その他の必要な資料(以下「図書等」という。)を収集管理し、教育及び学術研究<br>に資するとともに、学生の健全な教養の育成を図ることを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-03",
+      "title": "(管理区分の定義)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0165-article-0003",
+          "label": "第3条",
+          "body": "本校が管理する図書の予算区分の種類は、学生図書費、学科等予算、事務部予算、<br>寄贈とし、その定義は次のとおりとする。\n\n一 学生図書費 図書館に配分された運営費交付金その他資金による予算\n\n二 学科等予算 学科及び教員に配分された運営費交付金その他資金による予算\n\n三 事務部予算 事務部に配分された運営費交付金その他資金による予算\n\n四 寄贈<br>第三者より資産寄附申込みを受け、受領したもの",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-04",
+      "title": "(管理)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0165-article-0004",
+          "label": "第4条",
+          "body": "図書館において管理する図書等は、次に掲げるもので、図書館が受け入れたものと<br>する。\n\n一 学生図書費により購入した図書等\n\n二 学科等予算により購入した図書等\n\n三 事務部予算により購入した図書等\n\n四 寄贈を受けた図書等",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-05",
+      "title": "(分類及び目録)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0165-article-0005",
+          "label": "第5条",
+          "body": "図書館所属の図書は、日本十進分類表によって分類配架する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0006",
+          "label": "第6条",
+          "body": "図書館には、分類目録、著者目録及び書名目録を備える。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-06",
+      "title": "(図書館長)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0165-article-0007",
+          "label": "第7条",
+          "body": "図書館に図書館長を置き、メディアセンター長をもって充てる。\n\n2 図書館長は、校長の命を受け、館務を掌理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0165-section-07",
+      "title": "(図書館の利用)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0165-article-0008",
+          "label": "第8条",
+          "body": "図書館の利用に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0009",
+          "label": null,
+          "body": "附則\n\n1 この規則は、平成5年4月1日から施行する。\n\n2 和歌山工業高等専門学校図書館規則(昭和48年4月1日制定)は、廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0010",
+          "label": null,
+          "body": "附則\n\nこの規則は、平成11年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0011",
+          "label": null,
+          "body": "附則\n\nこの規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0012",
+          "label": null,
+          "body": "附則\n\nこの規則は、令和7年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0165-article-0013",
+          "label": null,
+          "body": "附則\n\nこの規則は、令和7年9月24日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

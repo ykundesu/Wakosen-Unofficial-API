@@ -1,0 +1,98 @@
+{
+  "id": "rule-0116",
+  "chapterId": "chapter-005",
+  "title": "クラス委員に関する規則",
+  "order": 3,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/113kurasuiin.pdf",
+  "summary": "クラス委員の設置・構成・選出方法と業務内容を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0116-section-01",
+      "title": "クラス委員に関する規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0116-article-0001",
+          "label": null,
+          "body": "制 定 昭和43年5月17日\n\n最近改正 平成16年4月 1 日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0116-article-0002",
+          "label": "第1条",
+          "body": "学科主任及び学級担任教員の指導の下に学級に関する諸事項を処理するためクラス<br>委員を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0116-article-0003",
+          "label": "第2条",
+          "body": "クラス委員は、委員長1名、美化委員1名、記録委員1名、計3名とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0116-article-0004",
+          "label": "第3条",
+          "body": "クラス委員は、前、後各学期ごとに学級全員の互選によって選出し、校長が任命する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0116-article-0005",
+          "label": "第4条",
+          "body": "クラス委員の処理する事項は、次のとおりとする。\n\n一 授業担当教員との連絡\n\n二 欠席又は欠課の学生の調査及び報告\n\n三 諸指示の伝達\n\n四 教室内の整頓と清潔保持\n\n五 学級行事の計画と運営\n\n六 その他学級に関する必要事項",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0116-section-02",
+      "title": "附 則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0116-article-0006",
+          "label": null,
+          "body": "この規則は、昭和43年5月17日から施行し、昭和43年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0116-section-03",
+      "title": "附 則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0116-article-0007",
+          "label": null,
+          "body": "この規則は、平成5年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0116-section-04",
+      "title": "附 則",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0116-article-0008",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

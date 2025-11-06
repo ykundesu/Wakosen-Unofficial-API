@@ -1,0 +1,134 @@
+{
+  "id": "rule-0014",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校成績判定会規則",
+  "order": 10,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/R511811seisekihanteikai.pdf",
+  "summary": "和歌山工業高等専門学校の成績判定会設置・組織・運営に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0014-section-01",
+      "title": "（設置）",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0014-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校に成績判定会を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0014-section-02",
+      "title": "（審議事項）",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0014-article-0002",
+          "label": "第2条",
+          "body": "成績判定会は、学業成績評価並びに進級及び卒業の認定に関する規則に定める本科（第1学年から第5学年）の学生の成績評価並びに進級及び卒業の認定について審議する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0014-section-03",
+      "title": "（組織）",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0014-article-0003",
+          "label": "第3条",
+          "body": "成績判定会は、次に掲げる者をもって組織する。\n\n一 教務主事\n\n二 各学科主任\n\n三 専攻科長\n\n四 教務主事補\n\n五 校長が必要と認めた者\n\n2 成績判定会には、副校長、学生主事及び寮務主事がオブザーバーとして参加する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0014-section-04",
+      "title": "（運営）",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0014-article-0004",
+          "label": "第4条",
+          "body": "成績判定会は、教務主事が招集し、その議長となる。\n\n2 成績判定会が必要と認めたときは、第3条に掲げる者以外の者を出席させて意見を聴することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0014-section-05",
+      "title": "（成績判定会の事務）",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0014-article-0005",
+          "label": "第5条",
+          "body": "成績判定会に関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0014-section-06",
+      "title": "附則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0014-article-0006",
+          "label": null,
+          "body": "この規則は、平成11年10月27日から施行し、平成11年10月13日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0014-article-0007",
+          "label": null,
+          "body": "この規則は、平成13年12月12日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0014-article-0008",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0014-article-0009",
+          "label": null,
+          "body": "この規則は、平成17年9月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0014-article-0010",
+          "label": null,
+          "body": "この規則は、令和5年11月8日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0014-article-0011",
+      "label": null,
+      "body": "||制 定 平成11年10月27日|\n|-|-|\n||最近改正 令和 5年11月 8日|",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

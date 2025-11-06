@@ -1,0 +1,274 @@
+{
+  "id": "rule-0166",
+  "chapterId": "chapter-007",
+  "title": "和歌山工業高等専門学校図書館利用規則",
+  "order": 2,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/59596670d38139a866d8ea787bf234a2.pdf",
+  "summary": "和歌山工業高等専門学校図書館利用規則は、利用資格・開館時間・貸出・返却・館内規律・個人情報保護等を定めた図書館利用に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0166-section-01",
+      "title": "(利用者の資格)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0166-article-0001",
+          "label": "第2条",
+          "body": "図書館を利用することのできる者は、次のとおりとする。\n\n一 本校の教職員及び学生\n\n二 図書館の利用を申し出た一般の利用者(以下「一般利用者」という。)",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-02",
+      "title": "(開館時間)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0166-article-0002",
+          "label": "第3条",
+          "body": "図書館の開館時間は、次のとおりとする。ただし、必要がある場合は、変更することがある。\n\n一 平 日 (<br>9時から21時まで\n\n二 土曜日 10時から16時まで",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-03",
+      "title": "(休館日)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0166-article-0003",
+          "label": "第4条",
+          "body": "次の日は、休館日とする。ただし、必要がある場合は、変更することがある。\n\n一 日曜日\n\n二 国民の祝日に関する法律(昭和23年法律第178号)に規定する休日\n\n三 年末年始(12月29日から翌年1月3日までの日)\n\n四 その他図書館長が必要と認めた日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-04",
+      "title": "(閲覧)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0166-article-0004",
+          "label": "第5条",
+          "body": "図書館内では、図書等を自由に書架から選び出し、閲覧することができる。ただし、閲覧後は、必ず元の位置に返却しなければならない。\n\n2 図書等は、無断で館外に持ち出してはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-05",
+      "title": "(利用証の交付等)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0166-article-0005",
+          "label": "第6条",
+          "body": "利用者には、図書館利用証(以下「利用証」という。)を交付する。\n\n2 利用証は、他人に譲渡、又は貸与してはならない。\n\n3 利用証を紛失し、又は破損した場合には、速やかにその旨を届け出て、再交付を受けなければならない。\n\n4 利用者の資格を失ったときは、速やかに利用証を返付しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0006",
+          "label": "第7条",
+          "body": "貸出を希望する者は、図書等に利用証を添えて係員に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0007",
+          "label": "第8条",
+          "body": "学生への貸出については、5冊、2週間を限度とする。ただし、和歌山工業高等専門学校学則第5条第1項第四号から第七号までに規定する休業期間の貸出については、その都度定める。\n\n2 卒業研究に必要な図書等で、指導教員の許可を得た場合には、別に3冊、1か月を限度とし、貸出をすることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0008",
+          "label": "第9条",
+          "body": "教職員への貸出については、5冊、2週間を限度とする。\n\n2 学科等予算又は事務部予算により購入した図書等については、必要冊数、1年を限度として貸出することができる。ただし、当該所属以外の教職員については、当該所属教職員の教育、研究等に支障のない場合に限る。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0009",
+          "label": "第10条",
+          "body": "一般利用者への貸出については、3冊、2週間を限度とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0010",
+          "label": "第11条",
+          "body": "利用者は、貸出を受けた図書等の保管に関し責任を負うものとする。また、他に転貸してはならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-06",
+      "title": "(予約)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0166-article-0011",
+          "label": "第12条",
+          "body": "現在貸出中の図書等の貸出を希望する者は、予約することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-07",
+      "title": "(継続貸出)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0166-article-0012",
+          "label": "第13条",
+          "body": "予約者のない場合に限り、継続貸出をすることができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-08",
+      "title": "(貸出禁止図書等)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0166-article-0013",
+          "label": "第14条",
+          "body": "次に掲げるものは、原則として貸出をすることができない。\n\n一 参考図書に指定された辞書、各種事典、年鑑等\n\n二 定期刊行物の最新号\n\n三 その他貸出禁止と定めたもの\n\n2 前項の第一号に掲げる図書等は、前項の規定にかかわらず閉館時及び休館時に貸出することができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-09",
+      "title": "(返却)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0166-article-0014",
+          "label": "第15条",
+          "body": "利用者は、貸出期間の満了した図書等を、直ちに返却しなければならない。\n\n2 利用者は、利用の資格を失ったとき、又は図書館の必要により返却請求があった場合は、速やかに図書等を返却しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-10",
+      "title": "(文献複写)",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0166-article-0015",
+          "label": "第16条",
+          "body": "図書館が管理する図書等の文献複写については、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-11",
+      "title": "(館内規律)",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0166-article-0016",
+          "label": "第17条",
+          "body": "利用者は、図書館内において次の規律を守らなければならない。\n\n一 常に秩序を保ち、他人の迷惑になる行為をしないこと。\n\n二 飲食又は喫煙をしないこと。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-12",
+      "title": "(弁償責任)",
+      "order": 12,
+      "articles": [
+        {
+          "id": "rule-0166-article-0017",
+          "label": "第18条",
+          "body": "次に該当するときは、原則として損害を弁償しなければならない。<br>ー 施設·設備若しくは備品に損害を与えたとき、図書等を破棄し、又は著しく汚損した<br>とき。\n\n二 図書等を紛失したとき。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-13",
+      "title": "(利用制限)",
+      "order": 13,
+      "articles": [
+        {
+          "id": "rule-0166-article-0018",
+          "label": "第19条",
+          "body": "この規則に違反したときは、図書館の利用を停止し、又は制限することがある。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-14",
+      "title": "(個人情報の漏えい防止)",
+      "order": 14,
+      "articles": [
+        {
+          "id": "rule-0166-article-0019",
+          "label": "第20条",
+          "body": "図書館において管理する歴史若しくは文化的な資料又は学術研究用の資料に記録されている個人情報(公文書等の管理に関する法律施行令第4条第五号で規定する個人情報をいう。)については、独立行政法人国立高等専門学校機構個人情報管理規則(機構規則第65号第28条)の規定に基づき、その漏えい防止のための措置を講ずるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0166-section-15",
+      "title": "(雑則)",
+      "order": 15,
+      "articles": [
+        {
+          "id": "rule-0166-article-0020",
+          "label": "第21条",
+          "body": "図書館資料を利用者の閲覧に供するため、図書館資料の目録及びこの規則を常時閲覧室内に備え付けるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0166-article-0021",
+          "label": "第22条",
+          "body": "この規則に定めるもののほか、必要な事項は、図書館長が別に定める。<br>附則\n\n1 この規則は、平成5年4月1日から施行する。\n\n2 和歌山工業高等専門学校図書館利用規程(平成4年3月10日制定)は、廃止する。\n\n附則\n\nこの規則は、平成13年4月1日から施行する。\n\n附則\n\nこの規則は、平成16年4月1日から施行する。\n\n附則\n\nこの規則は、平成23年4月1日から施行する。\n\n附則\n\nこの規則は、令和7年4月1日から施行する。\n\n附則\n\nこの規則は、令和7年9月24日から施行し令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0166-article-0022",
+      "label": null,
+      "body": "(目的)\n\n# 和歌山工業高等専門学校図書館利用規則\n\n制 定 平成5年4月1日\n\n最近改正 令和7年9月24日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

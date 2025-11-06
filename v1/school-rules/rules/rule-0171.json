@@ -1,0 +1,147 @@
+{
+  "id": "rule-0171",
+  "chapterId": "chapter-008",
+  "title": "和歌山工業高等専門学校学寮宿日直割当に関する取扱要項",
+  "order": 7,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/192kisokuryouR50401.pdf",
+  "summary": "和歌山工業高等専門学校の学寮宿日直の割当方法と免除規定を定めた要項です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0171-section-01",
+      "title": "和歌山工業高等専門学校学寮宿日直割当てに関する取扱要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0171-article-0001",
+          "label": null,
+          "body": "制 定 平成15年4月1日\n最近改正 令和 5年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0002",
+          "label": null,
+          "body": "(趣旨)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0003",
+          "label": "第1",
+          "body": "この要項は、和歌山工業高等専門学校学寮宿日直規則(以下「規則」という。)第8条の規定に基づき、宿日直(宿直、日直及び学寮指導)の割当てについて必要な事項を定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0004",
+          "label": null,
+          "body": "(割当方法)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0005",
+          "label": "第2",
+          "body": "宿日直の割当ては、1名ずつ輪番で行う。ただし、採用、退職等で異動があった場合は、その都度繰入れ又は削除を行う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0171-section-02",
+      "title": "(宿日直の免除)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0171-article-0006",
+          "label": "第3",
+          "body": "宿日直教員が次の各号に該当する場合は、宿日直を免除する。ただし、第一号に該当する教員であって、当該教員から宿日直の区分毎に免除について希望しない旨の申し出があった場合は、宿日直の区分毎に免除をしないものとする。\n\n一 年度当初で満60歳以上になる場合\n二 忌引きによる休暇中又は病気等のため宿日直ができない場合\n三 長期(20日間以上)にわたる出張の場合\n四 着任又は採用後1ヶ月を経過しない場合\n五 その他免除の必要があると認められた場合",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0007",
+          "label": null,
+          "body": "(免除した場合の補充)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0008",
+          "label": "第4",
+          "body": "あらかじめ割当てられた宿日直を第3の規定により免除する場合は、他の教員をもって補充し、当該補充教員の次回の割当てを免除する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0009",
+          "label": null,
+          "body": "附 則",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0171-section-03",
+      "title": "附則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0171-article-0010",
+          "label": "1",
+          "body": "この要項は、平成15年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0011",
+          "label": "2",
+          "body": "従前の「宿日直割当に関する申合せ」(平成4年2月21日制定)は、廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0012",
+          "label": null,
+          "body": "この要項は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0013",
+          "label": null,
+          "body": "この要項は、平成21年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0014",
+          "label": null,
+          "body": "この要項は、平成26年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0015",
+          "label": null,
+          "body": "この要項は、令和 3年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0171-article-0016",
+          "label": null,
+          "body": "この要項は、令和5年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

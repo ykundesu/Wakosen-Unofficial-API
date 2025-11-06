@@ -1,0 +1,253 @@
+{
+  "id": "rule-0176",
+  "chapterId": "chapter-009",
+  "title": "和歌山工業高等専門学校学生会細則",
+  "order": 2,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/9dfed7fd4ef0902edbaa396fd6ce4d07.pdf",
+  "summary": "和歌山工業高等専門学校学生会の運営・選挙・部活動・会計等に関する細則を定めた規定です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0176-section-01",
+      "title": "第1 章 会議細則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0176-article-0001",
+          "label": "第1条",
+          "body": "本細則は、学生総会及び代議員会の運営の方法を定めるものである。\n\n制 定 昭和40年2月1日\n\n最近改正令和6年3月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0002",
+          "label": "第2条",
+          "body": "出席委員の算定は、書記が行い、定数に満ちたとき、これを議長に報告し、議長はこれを確認して開会を宣<br>言する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0003",
+          "label": "第3条",
+          "body": "会議の途中で、退席者のため定数が欠けたときは、議事を進行することができない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0004",
+          "label": "第4条",
+          "body": "代議員会の構成員に事故があるとき、議長は、同一組織からの代理人を認める。代理人は、執行委員及び監<br>査委員を除く。この場合、代議員会は、代理人の資格を確認し、代理人としての資格があれば議長は出席を許可す<br>る。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0005",
+          "label": "第5条",
+          "body": "議長は、議場の秩序を維持し、議事を処理し、議案の上程、採決の確認等会議の運営と進行に当たる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0006",
+          "label": "第6条",
+          "body": "提案及びその説明については、原則として代議員又は執行委員がこれを行う。ただし、必要あるときは、委<br>員以外の関係者がこれを補足することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0007",
+          "label": "第7条",
+          "body": "学生総会は、代議員会の議決事項、会計監査の報告等の重要事項を全会員に提出し、提出議案に対して承認<br>又は不承認を決定する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0176-section-02",
+      "title": "第2章 選挙細則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0176-article-0008",
+          "label": "第8条",
+          "body": "本細則は、本会会長を選出するときに適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0009",
+          "label": "第9条",
+          "body": "会長は、全学生の2分の1以上の有効投票を得たものを当選とする。また、これに該当するものがないとき<br>は、上位2名の者について決選投票を行い、多数の投票を得た者を当選とする。両者同点のときは、抽選によって<br>当選者を決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0010",
+          "label": "第10条",
+          "body": "副会長、書記及び会計については、全学生の中から本会会長が任命する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0011",
+          "label": "第11条",
+          "body": "その他の機関の委員選出方法については、それぞれの機関によって決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0012",
+          "label": "第12条",
+          "body": "選挙管理委員会は、11月中に選挙告示を行い以後の立候補者の受付、立会演説会の開催、選挙日の決定<br>その他一切の選挙に関する業務を立案し、及び決定し、公示の上、選挙を実施するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0176-section-03",
+      "title": "第3章 部活動細則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0176-article-0013",
+          "label": "第13条",
+          "body": "主将は、学年始め会長の示す日までに、部員名簿を書記に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0014",
+          "label": "第14条",
+          "body": "主将は、会長の示す日までに、その部の年間の予算書を会計に提出しなければならない。正当な理由なく<br>期日までに提出しないときは、予算を割り当てられない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0015",
+          "label": "第15条",
+          "body": "同好会を経ずに部を新設するには、正部員希望者を10人以上有した上で、学校及びクラブ代議員会の承<br>認を必要とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0016",
+          "label": "第16条",
+          "body": "執行委員会により、活動が正常でないと判断された部、次の各号の条件を満たしていないと判断された部<br>もしくはその他活動停止が妥当であると判断された部は、クラブ代議員会の承認を得て、同好会への降格もしくは<br>部の活動の停止を命ぜられ、一切の行為を禁止される。\n\n\\(1\\)運動系の部においては、1年に1回以上、大会に出場すること。\n\n\\(2\\) 文化系の部においては、毎年高専祭で展示を行うこと。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0017",
+          "label": "第17条",
+          "body": "活動を停止した部は、前条の条件を満たせると判断された場合、学校及びクラブ代議委員会の承認を得た<br>上で、活動を再開することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0018",
+          "label": "第18条",
+          "body": "活動停止期間が1年を超えるときは、クラブ代議員会の承認を得て、その部を廃止することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0019",
+          "label": "第19条",
+          "body": "部相互の希望により、クラブ代議員会がこれを適当と認めたときは、学校の承認を得た上で、部を合併す<br>ることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0020",
+          "label": "第20条",
+          "body": "会員は、いずれかの部に所属することが望ましい。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0176-section-04",
+      "title": "第4章 会計細則",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0176-article-0021",
+          "label": "第21条",
+          "body": "予算は、予備費を計上しなければならない。予備費は、原則として予算総額の10分の1以上を計上する<br>ものとする。予備費の支出に関しては、代議員が決定する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0022",
+          "label": "第22条",
+          "body": "会計年度の中途で廃止され、また活動を停止した部の予算の残額は、予備費に繰入れる。その財産は、<br>会計が管理する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0023",
+          "label": "第23条",
+          "body": "合併した部の予算は、その年度中、合併以前の予算の合計額とする。また、その財産は、合併以前の両者<br>の財産を合わせたものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0024",
+          "label": "第24条",
+          "body": "各部は、その会計責任者1名を会計まで報告しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0025",
+          "label": "第25条",
+          "body": "総費の支出は、すべて執行委員会の定める手続によるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0026",
+          "label": "第26条",
+          "body": "各部の年間経費の支出額は、その部の予算額を超えてはならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0027",
+          "label": "第27条",
+          "body": "正当な理由なく第25条に規定する事項に反する場合は、その機関についてそれ以後の予算の払出しを停<br>止し、翌年度の予算は、割り当てられないものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0028",
+          "label": "第28条",
+          "body": "同好会員5人以上の正会員希望者を得た場合、学校及びクラブ代議員会の承認を得て、その同好会の設立<br>を認めることがある。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0176-article-0029",
+          "label": "第29条",
+          "body": "同好会員5人以上の正会員と2年間の実績を有した場合、学校及びクラブ代議員会の承認を得て、部<br>への昇格を認めることがある。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0176-article-0030",
+      "label": null,
+      "body": "和歌山工業高等専門学校学生会細則\n\n附則\n\n本細則は、昭和40年2月1日から実施する。\n\n附則\n\n本細則は、昭和53年5月25日から実施する。\n\n附則\n\n本細則は、昭和55年5月25日から実施する。\n\n附則\n\n本細則は、昭和58年5月26日から実施する。\n\n附則\n\n本細則は、平成31年3月1日から実施する。\n\n附則\n\n本細則は、令和6年3月1日から実施する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

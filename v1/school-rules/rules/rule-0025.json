@@ -1,0 +1,225 @@
+{
+  "id": "rule-0025",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校地域共同テクノセンター規則",
+  "order": 21,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/21tekunosentakisoku.pdf",
+  "summary": "和歌山工業高等専門学校の地域共同テクノセンターの設置・組織・運営に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0025-section-01",
+      "title": "(趣旨)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0025-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校地域共同テクノセンター(以下「センター」と\nいう。)の組織及び管理運営に関し、必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-02",
+      "title": "(目的)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0025-article-0002",
+          "label": "第2条",
+          "body": "センターは、和歌山工業高等専門学校(以下「本校」という。)における共同利用教育研究施設として、学生の産業技術教育の充実、研究者の研究活動及び地域社会との円滑な連携協力活動を推進することを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-03",
+      "title": "(部門)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0025-article-0003",
+          "label": "第3条",
+          "body": "センターに、前条の目的を達成するため次の部門を置く。\n\n一 新材料部門\n\n二 情報計測制御部門\n\n三 環境機能部門\n\n四 エネルギー応用技術部門",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-04",
+      "title": "(業務)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0025-article-0004",
+          "label": "第4条",
+          "body": "センターにおいては、次に掲げる業務を行う。\n\nー 民間等への研究協力、技術協力及び技術指導に関すること、\n\n二 公開講座、出前授業、講演会及び講習会の実施に関すること。\n\n三 教育研究奨励費の交付に関すること。\n\n四 共同研究·受託研究等に関すること。\n\n五 科学研究費補助金をはじめ、外部資金獲得に関すること。\n\n六 学生の実験及び卒業研究に関すること。\n\n七 その他センター長が必要と認めたもの。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-05",
+      "title": "(センター長及び副センター長)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0025-article-0005",
+          "label": "第5条",
+          "body": "センターに、センター長及び副センター長を置く。\n\n2 センター長及び副センター長は、本校の専任教員の中から校長が任命する。\n\n3 センター長は、センターの業務を総括し、その施設·設備の管理運営にたずさわる。\n\n4 副センター長は、センター長を補佐する。\n\n5 センター長の任期は、1年とし、再任を妨げない。\n\n6 補充によるセンター長の任期は、前任者の残任期間とする。\n\n7 前2項の規定は、副センター長について準用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-06",
+      "title": "(委員会)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0025-article-0006",
+          "label": "第6条",
+          "body": "センターに、センター委員会(以下「委員会」という。)を置く。\n\n2 委員会は、次に掲げる委員をもって構成する。\n\nー センター長\n\n二 副センター長\n\n# 三 学科教員各1名\n\n四 各課長\n\n五 技術支援室員1名\n\n3 前項第二号の任期は1年とし、再任を妨げない。ただし、委員に欠員が生じた場合の後任者の任期は、前任者の残任期間とする。\n\n4 第2項第三号の学科教員は、同第二号の副センター長が兼ねることができる。\n\n5 委員会は、センターに関する次の事項を審議する。\n\n一 第4条各号に定める業務に関すること。\n\n二 各部門の連絡調整に関すること。\n\n三 その他管理運営に関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-07",
+      "title": "(委員長)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0025-article-0007",
+          "label": "第7条",
+          "body": "委員会に委員長を置き、センター長をもって充てる。\n\n2 委員長は、委員会を招集し、その議長となる。\n\n3 委員長に事故あるときは、委員長が指名した者がその職務を代行する。\n\n4 委員長が必要と認めたときは、委員以外の者を会議に出席させることができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-08",
+      "title": "(事務)",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0025-article-0008",
+          "label": "第8条",
+          "body": "センター及び委員会に関する事務は、総務課総務·企画係において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-09",
+      "title": "(その他)",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0025-article-0009",
+          "label": "第9条",
+          "body": "この規則に、定めるもののほか、センターに関し、必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0025-section-10",
+      "title": "附則",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0025-article-0010",
+          "label": null,
+          "body": "この規則は、平成6年11月2日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0011",
+          "label": null,
+          "body": "この規則は、平成14年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0012",
+          "label": null,
+          "body": "この規則は、平成14年6月5日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0013",
+          "label": null,
+          "body": "この規則は、平成15年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0014",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0015",
+          "label": null,
+          "body": "この規則は、平成17年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0016",
+          "label": null,
+          "body": "この規則は、平成18年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0017",
+          "label": null,
+          "body": "この規則は、平成19年3月20日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0018",
+          "label": null,
+          "body": "この規則は、平成21年4月1日から施行する。\n附則",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0025-article-0019",
+          "label": null,
+          "body": "この規則は、平成27年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0025-article-0020",
+      "label": null,
+      "body": "和歌山工業高等専門学校地域共同テクノセンター規則\n制 定 平成 6 年11月 2 日<br>最近改正 平成27年 4月 22 日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

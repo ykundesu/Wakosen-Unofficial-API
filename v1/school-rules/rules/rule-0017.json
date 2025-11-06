@@ -1,0 +1,85 @@
+{
+  "id": "rule-0017",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校厚生補導委員会規則",
+  "order": 13,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/12/a43c17f113ce9911fb9321d93b6bf3b0.pdf",
+  "summary": "和歌山工業高等専門学校の厚生補導委員会の設置・運営に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0017-section-01",
+      "title": "(設置)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0017-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校組織規則第9条第2項に基づき、厚生補導委\n員会(以下「委員会」という。)を置き、その設置等に関し必要な事項を定めるものとす\nる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0017-article-0002",
+          "label": "第2条",
+          "body": "委員会は、次に掲げる事項を審議する。\n\n一 課外活動に関すること。\n\n二 生活指導に関すること。\n\n三 集会及び催物並びに印刷物の配布及び掲示に関すること、\n\n四 学生会に関すること。\n\n五 保健衛生に関すること。\n\n六 車両の使用許可に関すること。\n\n七 表彰に関すること。\n\n八 人権教育に関すること\n\n九 その他厚生補導に関すること",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0017-article-0003",
+          "label": "第3条",
+          "body": "委員会は、次に掲げる者をもって組織する。\n\n一 学生主事\n\n二 学生主事補\n\n三 学科教員 各1名\n\n2 前項第二号の委員は、同第三号の委員が兼ねることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0017-article-0004",
+          "label": "第4条",
+          "body": "委員の任期は、1年とする。ただし、再任を妨げない。\n\n2 前項の委員に欠員が生した場合の後任者の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0017-article-0005",
+          "label": "第5条",
+          "body": "委員会に委員長を置き、学生主事をもって充てる。\n\n2 委員長は会議を招集し、その議長となる。\n\n3 委員長に事故あるときは、第3条第1項第二号の委員がその職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0017-article-0006",
+          "label": "第6条",
+          "body": "委員長が必要と認めた場合は、委員以外の者を委員会に出席させ、意見を聴くことができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0017-section-02",
+      "title": "(事務)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0017-article-0007",
+          "label": "第7条",
+          "body": "委員会に関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0017-article-0008",
+      "label": null,
+      "body": "附 則\n\nこの規則は、平成5年4月1日から施行する。\n\n附 則\n\nこの規則は、平成7年4月1日から施行する。\n\n附 則\n\nこの規則は、平成11年4月1日から施行する。\n\n附 則\n\nこの規則は、平成15年4月1日から施行する。\n\n附 則\n\nこの規則は、平成16年4月1日から施行する。\n\n附 則\n\nこの規則は、令和2年5月26日から施行し、令和2年5月1日から適用する。<br>附 則\n\nこの規則は、令和7年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

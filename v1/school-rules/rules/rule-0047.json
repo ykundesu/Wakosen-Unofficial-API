@@ -1,0 +1,182 @@
+{
+  "id": "rule-0047",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校における学生及び教職員の安否確認に関する要項",
+  "order": 43,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/04/a70381b51484dcaad7d6bc1c29e638b0.pdf",
+  "summary": "和歌山工業高等専門学校の学生・教職員の安否確認手順と責任体制を定めた要項です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0047-section-01",
+      "title": "和歌山工業高等専門学校における学生及び教職員の安否確認に関する要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0047-article-0001",
+          "label": null,
+          "body": "(趣旨)\n\n制 定 平成29年4月1日<br>最近改正 令和6年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0002",
+          "label": "第1条",
+          "body": "この要項は、和歌山工業高等専門学校危機管理規則第5条に基づき、大規模災害発<br>生時等における学生及び教職員の安否確認を行うため、和歌山工業高等専門学校におけ<br>る安否確認の方法等について、必要な事項について定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0003",
+          "label": null,
+          "body": "(安否確認対象者)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0004",
+          "label": "第2条",
+          "body": "安否確認対象者(以下「対象者」という。)は、本校に在籍する学生及び教職員と<br>する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0005",
+          "label": "第3条",
+          "body": "安否確認は、原則として、Microsoft Forms (以下「Forms」という。)を利用して<br>行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0006",
+          "label": null,
+          "body": "(体制)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0007",
+          "label": "第4条",
+          "body": "安否確認責任者(以下「責任者」という。)は、リスク管理副室長をもって充てる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0008",
+          "label": "第5条",
+          "body": "安否確認担当者(以下「担当者」という。)は、総務課課長補佐、学生課課長補佐<br>及び担任の他、リスク管理室が指名した者をもって充てる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0009",
+          "label": null,
+          "body": "(安否確認)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0010",
+          "label": "第6条",
+          "body": "Forms による対象者の安否確認は、責任者の指示により、担当者が行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0011",
+          "label": "第7条",
+          "body": "担当者は、Forms により情報の収集·整理·共有等に務めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0012",
+          "label": null,
+          "body": "(リダンダンシー)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0013",
+          "label": "第8条",
+          "body": "Forms を利用できない対象者の安否確認は、対象者の区分ごとに、次の各号に掲げ<br>る者(以下「所属長」という。)が電話等を用いて個別対話型確認を行うものとする。\n\n–– 教職員 各学科主任、各課長、技術長\n\n二 本科学生 各学級担任\n\n三 専攻科生 各副専攻科長\n\n四 研究生等 指導教員",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0014",
+          "label": null,
+          "body": "(訓練および報告)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0015",
+          "label": "第9条",
+          "body": "責任者は、Forms による安否確認の浸透と回答率の向上を図ることを目的として<br>定期的(年1回以上)に訓練を実施し、その結果をリスク管理室長に報告しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0016",
+          "label": "第10条",
+          "body": "責任者は、訓練等において回答が困難な対象者及び無回答であった対象者に関<br>する情報を所属長に伝達するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0017",
+          "label": "第11条",
+          "body": "所属長は、前条による情報を得た場合は、速やかに対象者の安否確認を行い、責任者に報告するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0018",
+          "label": null,
+          "body": "(情報管理)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0019",
+          "label": "第12条",
+          "body": "この要項により個人情報を取り扱う者は、知り得た個人情報を外部へ漏らし、又は他の目的に使用してはならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0020",
+          "label": null,
+          "body": "(雑則)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0021",
+          "label": "第13条",
+          "body": "この要項に定めるもののほか、Forms を利用した安否確認に関し必要な事項は<br>リスク管理室が定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0022",
+          "label": null,
+          "body": "附 則\n\nこの要項は、平成29年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0047-article-0023",
+          "label": null,
+          "body": "附 則\n\nこの要項は、令和6年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

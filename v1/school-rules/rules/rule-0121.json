@@ -1,0 +1,141 @@
+{
+  "id": "rule-0121",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校専攻科インターンシップの履修に関する規則",
+  "order": 8,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/118internship.pdf",
+  "summary": "和歌山工業高等専門学校専攻科のインターンシップ履修に関する規則で、機関選定・申込・履修・報告・時間等の手続きと要件を定めるものです。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0121-section-01",
+      "title": "(目的)",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0121-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校専攻科で開設するインターンシップの履修に関し必要な事項を定めることを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-02",
+      "title": "(インターンシップ機関の選定)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0121-article-0002",
+          "label": "第2条",
+          "body": "学生がインターンシップを履修する国若しくは地方公共団体の機関又は企業等の法人(以下「インターンシップ機関」という。)は、専攻科委員会の議を経て、校長が選定する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-03",
+      "title": "(申込書)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0121-article-0003",
+          "label": "第3条",
+          "body": "インターンシップを履修する学生(以下「インターンシップ生」という。)は、学校所定の申込書を、校長を経てインターンシップ機関に提出しなければならない。\n2 前項の申込書は、校長が認めるときは、インターンシップ機関所定の申込書をもって替えることができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-04",
+      "title": "(履修)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0121-article-0004",
+          "label": "第4条",
+          "body": "インターンシップ生は、インターンシップ機関の定める諸規則及びインターンシップ機関の責任者(以下「機関責任者」という。)の指示に従って履修しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-05",
+      "title": "(報告書)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0121-article-0005",
+          "label": "第5条",
+          "body": "インターンシップ生は、別に定める報告書を、機関責任者の認印を得て専攻科長に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-06",
+      "title": "(履修時間)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0121-article-0006",
+          "label": "第6条",
+          "body": "インターンシップの履修時間は、インターンシップ機関において定める時間又は機関責任者の指定する時間とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-07",
+      "title": "(雑則)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0121-article-0007",
+          "label": "第7条",
+          "body": "この規則に定めるもののほか、インターンシップの履修に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0121-section-08",
+      "title": "附 則",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0121-article-0008",
+          "label": null,
+          "body": "この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0121-article-0009",
+          "label": null,
+          "body": "この規則は、平成26年4月16日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0121-article-0010",
+      "label": null,
+      "body": "制 定 平成16年 4月 1日\n最近改正 平成26年4月16日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

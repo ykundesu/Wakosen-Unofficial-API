@@ -1,0 +1,148 @@
+{
+  "id": "rule-0040",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校ロボット教育センター規則",
+  "order": 36,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/39robotkyouikusenta.pdf",
+  "summary": "和歌山工業高等専門学校のロボット教育センターの設置目的、業務内容、組織構成、運営会議・委員長の役割、事務処理等を定めた規則です",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0040-section-01",
+      "title": "設置",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0040-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校\\(以下「本校」という。\\)におけるロボットにかかわる教育の<br>進展と地域におけるロボットを活用した科学技術の理解促進に貢献するため、和歌山工業高等\n専門学校ロボット教育センター\\(以下「センター」という。\\)を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-02",
+      "title": "業務",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0040-article-0002",
+          "label": "第2条",
+          "body": "センターにおいては、次に掲げる業務を行う。\n\nー ロボットにかかわる教育方法の検討\n\n二 ロボットにかかわる教材の開発\n\n三 ロボットを活用した教育イベント等への参画·協力\n\n四 その他必要な事項",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-03",
+      "title": "組織",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0040-article-0003",
+          "label": "第3条",
+          "body": "センターに、センター長1名、副センター長若干名及び研究員若干名を置き、本校教職員から校長が指名する。\n\n2 センターに顧問又は客員研究員を置くことができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-04",
+      "title": "任期",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0040-article-0004",
+          "label": "第4条",
+          "body": "前条に掲げる者の任期は1年とする。ただし、再任は妨げない。\n\nなお、前条一に掲げる者に欠員が生じた場合の後任者の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-05",
+      "title": "運営会議",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0040-article-0005",
+          "label": "第5条",
+          "body": "センターに、センター運営会議\\(以下「運営会議」という。\\)を置く、\n\n2 運営会議は、次に掲げる委員をもって構成する。\n\nー センター長\n\n二 副校長\n\n三 教務主事\n\n四 学生主事\n\n五 地域共同テクノセンター長\n\n六 機械工学科主任\n\n七 電気情報工学科主任\n\n八 技術支援室長\n\n九 事務部長\n\n3 前条第2号に掲げる委員は、校長が任命し、任期は1年とする。ただし、再任を妨げない。<br>また、委員に欠員が生じた場合の後任者の任期は、前任者の残任期間とする。\n\n4 運営会議は、センターに関する次の事項を審議する\n\n一 第2条各号に定める業務に関すること。\n\n二 その他管理運営に関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-06",
+      "title": "委員長",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0040-article-0006",
+          "label": "第6条",
+          "body": "運営会議に委員長を置き、センター長をもって充てる。\n\n2 委員長は、運営会議を招集し、その議長となる。\n\n3 委員長に事故あるときは、委員長が指名した者がその職務を代行する。\n\n4 委員長が必要と認めたときは、委員以外の者を会議に出席させることができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-07",
+      "title": "事務",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0040-article-0007",
+          "label": "第7条",
+          "body": "センターに関する事務は、企画広報室において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-08",
+      "title": "その他",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0040-article-0008",
+          "label": "第8条",
+          "body": "この規則に定めるもののほか、センターに関し必要な事項は別に定める,",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0040-section-09",
+      "title": "附則",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0040-article-0009",
+          "label": null,
+          "body": "この規則は、平成20年4月23日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0040-article-0010",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校ロボット教育センター規則\n\n制 定 平成20年4月23日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

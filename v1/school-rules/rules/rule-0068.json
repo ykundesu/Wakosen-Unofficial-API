@@ -1,0 +1,119 @@
+{
+  "id": "rule-0068",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校における行政機関の休日に開庁する部門等を定める規則",
+  "order": 16,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/62kyuujitukaityou.pdf",
+  "summary": "和歌山工業高等専門学校の休日に開庁する部門を定める規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0068-section-01",
+      "title": "和歌山工業高等専門学校における行政機関の休日に<br>開庁する部門等を定める規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0068-article-0001",
+          "label": null,
+          "body": "制 定 平成 4 年5月1日\n\n最近改正 平成16年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0002",
+          "label": "第1条",
+          "body": "行政機関の休日において事務の全部又は一部を行う官署を定める訓令\\(平成13年文<br>部科学省訓令第34号。以下訓」という。\\)に基づき、この規則を定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0003",
+          "label": "第2条",
+          "body": "和歌山工業高等専門学校における、訓令第3条による開庁する部門等は、別表に定め<br>るところによる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0004",
+          "label": "第3条",
+          "body": "前条に定める開庁する部門等については、校務の都合により、校長の承認を得て、こ<br>れを変更することができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0005",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成4年5月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0006",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成5年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0068-section-02",
+      "title": "附 則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0068-article-0007",
+          "label": null,
+          "body": "この規則は、平成13年2月14日から施行し、平成13年1月6日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0008",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成15年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0068-section-03",
+      "title": "附 則",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0068-article-0009",
+          "label": null,
+          "body": "この規則は、平成15年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0068-article-0010",
+          "label": null,
+          "body": "附 則\n\nこの規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0068-section-04",
+      "title": "別表(第2条関係)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0068-article-0011",
+          "label": null,
+          "body": "|開庁する部門|開 庁 日|開 庁 時 間|業務の範囲|開庁担当課|\n|-|-|-|-|-|\n|図 書 館|土 曜 日|10時~16時|閲覧 業務|学 生 課|\n\n学生の休業期間中を除く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

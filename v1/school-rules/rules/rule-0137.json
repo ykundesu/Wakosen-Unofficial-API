@@ -1,0 +1,50 @@
+{
+  "id": "rule-0137",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校以外の高等教育機関で修得した単位及び学習の地域環境デザイン工学教育プログラムにおける取扱い様式2",
+  "order": 24,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/1c2dbe28fbe65de00fa6e9e5bcbd4309.pdf",
+  "summary": "入学前に取得した単位の認定通知書です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0137-section-01",
+      "title": "殿",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0137-article-0001",
+          "label": null,
+          "body": "(元号)\\<br>\\) 年 月 日\n\n和歌山工業高等専門学校長",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0137-section-02",
+      "title": "和歌山工業高等専門学校地域環境デザイン工学教育プログラム単位認定通知書",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0137-article-0002",
+          "label": null,
+          "body": "貴殿から申請のあった、本校専攻科入学以前に修得した単位について審査したところ、<br>本校の定める地域環境デザイン工学教育プログラムの定める水準に達していることを認定<br>しましたので、下記のとおり通知します。\n\n記\n\n|区分|科 目 名|評 価|単位数|学 習 · 教 育 目 標|\n|-|-|-|-|-|\n|一般<br>科目|||||\n||||||\n||||||\n||||||\n||||||\n|専門<br>科目|||||\n||||||\n||||||\n||||||\n||||||",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0137-article-0003",
+      "label": null,
+      "body": "様式2",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "rule-0038",
+  "chapterId": "chapter-002",
+  "title": "長期出張等の手続きに関する申し合わせについて",
+  "order": 34,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/37tyoukisyuttyou.pdf",
+  "summary": "長期出張等の承認手続きに関する申し合わせです",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0038-section-01",
+      "title": "長期出張等の手続きに関する申し合わせについて",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0038-article-0001",
+          "label": null,
+          "body": "制 定 平成19年7月4日\n\n本校において旅行期間が10日を超える長期出張及び研修(以下「長期出張等」という。)に伴う承認については、この申し合わせにより取り扱うものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0038-article-0002",
+          "label": null,
+          "body": "1. 教職員が長期出張等に出かける場合は、事前に別紙出張·研修伺いを校長に届け出るものとする。\n\nなお、長期出張等が海外の場合は、別紙海外出張·海外研修旅行調書及び日程表を添付するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0038-article-0003",
+          "label": null,
+          "body": "2. 教職員より出張·研修伺いが提出されたときは、速やかに運営委員会に諮るものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0038-article-0004",
+          "label": null,
+          "body": "3. 届出教職員の所属する運営委員会委員は、委員会における審議結果を届出教職員に通知しなければならない。\n\n平成 年 月 日\n\n学校長 殿\n\n下記のとおり出張してよろしいか伺います。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0038-section-02",
+      "title": "出 張 · 研修 同",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0038-article-0005",
+          "label": null,
+          "body": "学科\n職名\n氏名\n\n印\n\n|用 務||\n|-|-|\n|用 務 先||\n|日<br>程<br>国内出張の<br>場合のみ記入||\n|不在中の職務<br>の 処 置||",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0038-section-03",
+      "title": "海外出張 · 海外研修旅行調書",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0038-article-0006",
+          "label": null,
+          "body": "|氏 名|所 属 · 官 職|\n|-|-|\n|||\n|渡航後の国内<br>連絡先及び本\n人との関係|住所\n電話(<br>)\n氏名\n渡航者との関係(<br>)|\n|渡 航 目 的||\n|渡航目的国|経由国|\n|渡 航 日 程|別紙のとおり|\n|渡 航 期 間|平成 年 月 日 ~ 平成 年 月 日|\n|費用の出所|渡 航 費\n滞 在 費|\n|||\n|不在中の職務\n等の補充処置||\n|公 用 旅 券\nの 有 無|有 · 無|\n\n※ 添付書類\n招聘状等(写)\n\n(別 紙)\n\n程\n表\n日\n\n|年月日|発着地名(国名)|訪問先|滞在日数|用 務|\n|-|-|-|-|-|\n||||||",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

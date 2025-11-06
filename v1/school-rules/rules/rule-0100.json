@@ -1,0 +1,155 @@
+{
+  "id": "rule-0100",
+  "chapterId": "chapter-004",
+  "title": "和歌山工業高等専門学校受託試験取扱規則",
+  "order": 10,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/84jutakusiken.pdf",
+  "summary": "和歌山工業高等専門学校の受託試験に関する規則で、申込・承認・料金・試料処理等の手続きを定めている。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0100-section-01",
+      "title": "和歌山工業高等専門学校受託試験取扱規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0100-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校(以下「本校」という。)において、外部からの依頼に応じて行う試験、分析、鑑定等(以下「受託試験」という。)については、独立行政法人国立高等専門学校機構規則、その他法令等に定めるもののほか、この規則の定めるところによる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0100-article-0002",
+          "label": "第2条",
+          "body": "受託試験を依頼しようとする者は、あらかじめ受託試験申込書(別紙様式1)を校長に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-02",
+      "title": "(受託試験の承認)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0100-article-0003",
+          "label": "第3条",
+          "body": "校長は、前条の受託試験の依頼があったときは、本校の教育研究上有意義であり、かつ本校の教育研究に支障を生じるおそれがないと認められる場合に限り、別表に掲げるものについて承認することができるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-03",
+      "title": "(受託試験料)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0100-article-0004",
+          "label": "第4条",
+          "body": "受託試験料は、別表に定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0100-article-0005",
+          "label": "第5条",
+          "body": "受託試験の承認を得た者(以下「委託者」という。)は、前条の受託試験料を前納しなければならない。\n\n2 一旦納付した試験料金は、いかなる理由があっても還付しないものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0100-article-0006",
+          "label": "第6条",
+          "body": "校長は、受託試験が終了したときは、所定の受託試験結果証明書を作成し、委託者に発行するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-04",
+      "title": "(試料の処理)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0100-article-0007",
+          "label": "第7条",
+          "body": "受託試験のために提出された試料は、特別の場合を除き、これを返還しないものとする。\n\n2 試験後の残りの試料を返還するときの費用は、委託者が負担するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0100-article-0008",
+          "label": "第8条",
+          "body": "本校は、不可抗力によって生じた試料の損害に対し、その責を負わないものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-05",
+      "title": "附則",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0100-article-0009",
+          "label": null,
+          "body": "1 この規則は、平成16年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0100-article-0010",
+          "label": null,
+          "body": "2 和歌山工業高等専門学校受託試験取扱規則(昭和53年12月1日制定)は、廃止する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-06",
+      "title": "受 託 試 験 料 金",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0100-article-0011",
+          "label": null,
+          "body": "|受 託 試 験|試 験 単 位|試 験 料 金|\n|-|-|-|\n|骨材洗い試験|1試料|12,900 円|\n|\" 単位容積質量試験|\"|12,500|\n|\" 有機不純物試験|\"|6,900|\n|\" すりへり試験|\"|22,200|\n|\" 安定性試験|\"|29,300|\n|\" 塩分含有量試験|\"|24, 100|\n|\" ふるい分け試験|\"|8,500|\n|細骨材比重試験|\"|15,500|\n|\" 吸水量試験|\"|15,500|\n|粗骨材比重試験|\"|11,800|\n|\" 吸水量試験|\"|11,800|\n|土の粒度試験|\"|23,900|\n|金属材料引張試験|〃(1本)|4,900|\n|\"<br>曲げ試験|〃(1本)|4,000|\n|コンクリート圧縮試験|〃(1本)|2,200|\n|\"<br>曲げ試験|〃(1本)|4,500|",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0100-section-07",
+      "title": "受 託 試 験 申 込 書",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0100-article-0012",
+          "label": null,
+          "body": "和歌山工業高等専門学校長<br>、殿\n\n委託者住所\n\n氏名又は名称:\n\n電話番号\n\n下記のとおり試験をお願いいたします。\n\n1. 委託しようとする試験名\n\n2. 試験の数量、規格等\n\n3. 証明書の必要の有無\n\n4. 実施場所\n\n記\n\n平成 年 月 日\n\n印\n\n5. 試験担当希望者\n\n6. その他",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0100-article-0013",
+      "label": null,
+      "body": "(趣旨)\n\n制 定 平成16年4月1日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

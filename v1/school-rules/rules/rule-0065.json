@@ -1,0 +1,92 @@
+{
+  "id": "rule-0065",
+  "chapterId": "chapter-003",
+  "title": "和歌山工業高等専門学校技術職員昇任基準",
+  "order": 13,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/02/r70204shienshitsukijun.pdf",
+  "summary": "和歌山工業高等専門学校の技術職員の昇任基準を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0065-section-01",
+      "title": "和歌山工業高等専門学校技術職員昇任基準",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0065-article-0001",
+          "label": null,
+          "body": "制定 令和7年4月1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0065-article-0002",
+          "label": "第1条",
+          "body": "この基準は、和歌山工業高等専門学校技術支援室規則第4条第6項に基づき、和歌山<br>工業高等専門学校における技術職員の昇任に関し、必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0065-section-02",
+      "title": "(技術専門員の基準)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0065-article-0003",
+          "label": "第2条",
+          "body": "技術専門員への昇任資格は、次の各号の一に該当する者とする。\n\n一 職務に関連する技術系の国家資格試験(大卒程度以上)に合格した者\n\n二 特許取得等の独創的な技術開発を行った者\n\n三 学会賞等を受賞した者\n\n四 科学研究費補助金等の公募採択型の各種助成金を受けた者\n\n五 修士以上の学位を有する者\n\n六 学会等において職務に関連する論文発表等を行った者\n\n七 職務に関連する著作を発表した者\n\n八 技術職員研修会等において講師の経験を有する者",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0065-section-03",
+      "title": "(技術専門職員の基準)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0065-article-0004",
+          "label": "第3条",
+          "body": "技術専門職員への昇任資格は、次の各号の一に該当する者とする。\n\n一 前条各号に規定する技術専門員への昇任資格を有する者\n\n二 職務に関連する技術系の国家資格試験に合格した者(前号に該当する者を除く。)\n\n三 技術発表会等において職務に関連する技術発表等を行った者\n\n四 技術職員研修会等の研修を修了した者",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0065-section-04",
+      "title": "(雑則)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0065-article-0005",
+          "label": "第4条",
+          "body": "この基準の実施に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0065-article-0006",
+          "label": null,
+          "body": "附則\n\nこの規則は、令和7年4月1日から施行する。\n\n和歌山工業高等専門学校における技術専門官及び技術専門職員に関する選考基準(平成10\n年4月1日制定)は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0065-article-0007",
+      "label": null,
+      "body": "(趣旨)",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

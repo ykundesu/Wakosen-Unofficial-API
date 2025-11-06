@@ -1,0 +1,98 @@
+{
+  "id": "rule-0023",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校図書委員会規則",
+  "order": 19,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/3a697a1ae715fd663ca56490ea318cf9.pdf",
+  "summary": "和歌山工業高等専門学校図書委員会の組織・運営と図書館管理に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0023-section-01",
+      "title": "目的",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0023-article-0001",
+          "label": null,
+          "body": "和歌山工業高等専門学校図書委員会規則\n\n|制 定|平成5年4月1日|\n|-|-|\n||最近改正 令和7年9月24日|",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0002",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校メディアセンター規則第7条第2項の規定に基<br>づき、和歌山工業高等専門学校図書委員会\\(以下「委員会」という。\\)の組織及び運営に関<br>し必要な事項を定めることを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0003",
+          "label": "第2条",
+          "body": "委員会は、次の事項について審議する。\n\n一 図書館管理運営の基本方針に関すること。\n\n二 図書等の購入計画及び選定並びにこれに必要な予算配分及びその執行に関すること。\n\n三 視聴覚関係に関すること。\n\n四 学生図書委員の指導に関すること。\n\n五 その他図書館行事等に関すること。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0004",
+          "label": "第3条",
+          "body": "委員会は、次に掲げる者をもって組織する。\n\nー メディアセンター長\n\n二 各科教員1名\n\n三 図書係長\n\n四 その他校長が指名する者\n\n2 前項第二号の委員の任期は1年とする。た だし、再任を妨げない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0005",
+          "label": "第4条",
+          "body": "委員会に委員長を置き、メディアセンター長をもって充てる。\n\n2 委員長は、委員会を招集し、その議長となる。\n\n3 委員長に事故あるときは、前条第1項第二号の委員の中から、委員長が指名した者がその\n職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0006",
+          "label": "第5条",
+          "body": "委員長が必要と認めたときは、委員会の同意を得て委員以外の者を委員会に出席させ、\nその意見を聴くことができる",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0007",
+          "label": "第6条",
+          "body": "委員会の事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0008",
+          "label": "第7条",
+          "body": "委員会の指導の下に、学生の読書活動及び図書館利用促進のために学生図書委員を置く。\n\n2 学生図書委員は、各クラスの中から1名選出された学生で、その任期は1年とする。\n\n3 学生図書委員は、次の事項を担当する。\n\n一 図書館と各クラスとの連絡に関すること。\n\n二 その他図書館行事等に関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0023-section-02",
+      "title": "雑則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0023-article-0009",
+          "label": "第8条",
+          "body": "この規則に定めるもののほか、必要な事項は、図書委員会が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0023-article-0010",
+          "label": null,
+          "body": "附則\n\nこの規則は、平成5年4月1日から施行する。\n\n附則\n\nこの規則は、平成13年12月12日から施行する。\n\n附則\n\nこの規則は、平成15年4月1日から施行する。\n\n附則\n\nこの規則は、平成16年4月1日から施行する。\n\n附則\n\nこの規則は、平成19年3月20日から施行する。\n\n附則\n\nこの規則は、令和7年4月1日から施行する。\n\n附則\n\nこの要項は、令和7年9月24日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

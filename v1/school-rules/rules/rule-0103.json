@@ -1,0 +1,148 @@
+{
+  "id": "rule-0103",
+  "chapterId": "chapter-004",
+  "title": "和歌山工業高等専門学校安全運転管理規則",
+  "order": 13,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/87anzenuntenkanri.pdf",
+  "summary": "和歌山工業高等専門学校の自動車安全運転管理規則で、校長・運転者・安全運転管理者の義務や運行計画・事故報告等の手順を定めたものです。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0103-section-01",
+      "title": "和歌山工業高等専門学校安全運転管理規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0103-article-0001",
+          "label": null,
+          "body": "(目的)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0002",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校(以下「本校」という。)が所有する自動車の<br>安全運転管理の強化を図ることを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0003",
+          "label": null,
+          "body": "(義務)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0004",
+          "label": "第2条",
+          "body": "校長は、法令の定めるところにより、自動車の安全な運転に関する事項を遵守させる<br>よう努めなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0005",
+          "label": null,
+          "body": "(責務)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0006",
+          "label": "第3条",
+          "body": "本校の自動車を運転しようとする者(以下「運転者」という。)は、校長その他関係<br>者が法令及びこの規則に基づいて講ずる自動車の安全な運転に関する措置に従わなければ<br>ならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0007",
+          "label": null,
+          "body": "(安全運転管理者等)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0008",
+          "label": "第4条",
+          "body": "自動車の安全運転管理事務の円滑な遂行を図るため、安全運転管理者及び副安全運転<br>管理者を置く。\n\n2 安全運転管理者は総務課長を、副安全運転管理者は財務管理係長をもって充てる。\n\n3 前項により難い事情が生じた場合は、校長は、前項に掲げる者以外の者の中から選任しな<br>ければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0009",
+          "label": "第5条",
+          "body": "安全運転管理者は、校長の指揮監督の下に、次に掲げる事項を処理する。<br>ー 運転者の過労の防止その他安全な運転の確保に留意して、自動車の運行計画を作成する<br>こと。\n\n二 運転者が、長距離又は夜間の運転に従事する場合であって、疲労等により安全な運転を<br>継続することができないおそれがあるときは、あらかじめ交替するための運転者を配置す<br>ること。\n\n三 運転者に、過労、病気その他の正常な運転を妨げる原因がないかどうかを常に確認し、<br>また安全な運転を確保するために必要な指示を与えること。\n\n四 運転者に対し、自動車の運転に関する技能、知識その他安全な運転を確保するために必<br>要な事項について、指導を行うこと。\n\n五 異常な気象、天災その他の理由により、安全な運転の確保に支障が生じるおそれがある<br>ときは、運転者に対する必要な指示その他安全な運転の確保を図るための措置を講ずるこ<br>と。\n\n2 副安全運転管理者は、安全運転管理者を補佐する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0010",
+          "label": null,
+          "body": "(法令等の遵守)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0011",
+          "label": "第6条",
+          "body": "運転者は、関係法令、規則等を遵守し、安全運転に心掛けるとともに、安全運転管理<br>者及び副安全運転管理者の指示に従わなければならない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0012",
+          "label": null,
+          "body": "(事故等の処置)",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0103-article-0013",
+          "label": "第7条",
+          "body": "運転者は、運行途上において事故が発生した場合には、臨機の措置を講ずるとともに、\n\n事後速やかに自動車事故報告書(別記様式)を、安全運転管理者に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0103-section-02",
+      "title": "附 則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0103-article-0014",
+          "label": null,
+          "body": "1 この規則は、平成5年3月30日から施行する。\n\n2 和歌山工業高等専門学校安全運転管理規程(昭和54年4月1日制定)は、廃止する。<br>附 則\n\nこの規則は、平成16年4月1日から施行する。\n\n附 則\n\nこの規則は、平成18年4月1日から施行する。\n\n附 則\n\nこの規則は、平成19年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0103-section-03",
+      "title": "別記様式(第7条関係)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0103-article-0015",
+          "label": null,
+          "body": "|校 長|事務部長|総務課長|総務課長補佐|財務管理係長|財務 管理係|\n|-|-|-|-|-|-|\n|||||||\n||||財務企画係長|人 事 係 長|財務 企画係|\n|||||||\n\n\n||||学 科 主 任||所 属 課 長|||所 属 係 長||\n|-|-|-|-|-|-|-|-|-|-|\n|||||||||||\n|自 動 車 事 故 報 告 書||||||||印|\n|安全運転管理者|殿|所属学科·課係|名<br>名|平成||||||\n|自動車事故について、下記のとおり報告します。<br>記||||||||||\n|事 故 発 生 日 時|平成<br>年 月 日|年 月 日||||||日( ) 時 分|\n|事 故 発 生 場 所||||||||||\n|事 故 の 概 要||||||||||\n|事 後 の 措 置||||||||||\n\n年 月 日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0103-article-0016",
+      "label": null,
+      "body": "制 定 平成 5 年3月30日\n\n最近改正 平成19年4月 1 日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

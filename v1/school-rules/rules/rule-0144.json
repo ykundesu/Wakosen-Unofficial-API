@@ -1,0 +1,112 @@
+{
+  "id": "rule-0144",
+  "chapterId": "chapter-005",
+  "title": "出席停止の取扱要項",
+  "order": 31,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/132syussekiteisi.pdf",
+  "summary": "学生の出席停止に関する基準・手続きと通知・解除の要項です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0144-section-01",
+      "title": "出席停止に関する取扱要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0144-article-0001",
+          "label": null,
+          "body": "制 定 平成21年10月21日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0144-article-0002",
+          "label": "第1条",
+          "body": "第1条 和歌山工業高等専門学校学則第25条の規定により、学生の出席停止の基準について、<br>\nこの要項の定めるところによる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0144-article-0003",
+          "label": "第2条",
+          "body": "第2条 出席停止とは、学校保健安全法施行規則の定めるところにより、校長が命じた期間をい<br>\nい、この期間は授業日数に含めない。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0144-article-0004",
+          "label": "第3条",
+          "body": "第3条 出席停止は、次の各号のいずれかに該当する場合に校長が命じるものとする。\n\n\\(1\\) 学校保健安全法施行規則の定める感染症にかかったことにより、他の学生に感染のお\nそれがあると認められた場合\n\n\\(2\\)<br>\n学校保健安全法施行規則の定める感染症にかかっている疑いがあり、学校医等によ\nり、他の学生に感染のおそれがあると認められた場合\n\n\\(3\\) 学校保健安全法施行規則の定める感染症にかかるお\n\nそれがあると、学校医等が認めた\n場合",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0144-article-0005",
+          "label": "第4条",
+          "body": "第4条 前条第1号又は第2号に該当する場合は、様式1による「出席停止について\\(通知\\)」\nをもって学生に通知するものとし、出席停止を命ぜられた学生は、その事由が消滅したときは、\n直ちに授業に出席することとし、事由が消滅したことを証明する書類を添付のうえ、様式2に\nよる「出席停止事由消滅届」を学級担任を経て校長に提出しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0144-section-02",
+      "title": "附則",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0144-article-0006",
+          "label": null,
+          "body": "この要項は、平成21年10月21日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0144-section-03",
+      "title": "様式1",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0144-article-0007",
+          "label": null,
+          "body": "工学科 第 学年\n\n殿\n\n平成 年 月 日\n\n和歌山工業高等専門学校長",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0144-section-04",
+      "title": "出席停止について(通知)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0144-article-0008",
+          "label": null,
+          "body": "下記事由により、あなたを出席停止とします。\n\n事\n由:\n\n記\n\n出席停止期間:平成 年 月 日\\( \\)\\~<br>\n平成 年 月 日\\( \\)\n\n症状が治癒するまでの間\n\n※ 出席停止期間中は、欠席になりません。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0144-section-05",
+      "title": "様式2",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0144-article-0009",
+          "label": null,
+          "body": "和歌山工業高等専門学校長 殿\n\n以上\n\n学 級 担 任\n\n平成 年 月 日\n\n工学科 第 学年 氏名\n\n出席停止事由消滅届\n\n出席停止の事由が消滅しましたので、授業に出席いたします。\n\n由:\n\n記\n\n出席停止期間:平成 年 月 日\\( \\)\\~平成 年 月 日\n\n\\( \\)\n\n※ 治癒証明書等を添付のうえ提出のこと。\n\n以 上",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

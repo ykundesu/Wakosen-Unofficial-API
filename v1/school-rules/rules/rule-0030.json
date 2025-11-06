@@ -1,0 +1,190 @@
+{
+  "id": "rule-0030",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校の自己点検・評価委員会規則",
+  "order": 26,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/e892235ca50003f71d310dbdc0472037.pdf",
+  "summary": "和歌山工業高等専門学校における自己点検・評価委員会の組織・業務・運営を定めた規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0030-section-01",
+      "title": "趣旨",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0030-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校組織規則第9条の2第2項、及び和歌山工業<br>高等専門学校の自己点検·評価等に関する規則第4条第3項の規定に基づき、和歌山工業<br>高等専門学校\\(以下「本校」という。\\)の自己点検·評価委員会\\(以下「委員会」という。\\)<br>の組織及び業務に関し、必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-02",
+      "title": "目的",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0030-article-0002",
+          "label": "第2条",
+          "body": "委員会は、本校における教育及び研究、組織及び運営並びに施設及び設備\\(以下「教<br>育研究等」という。\\)の状況について、担当部署における自己点検の指示、評価等\\(以下<br>「自己点検·評価」という。\\)を行うことを目的とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-03",
+      "title": "業務",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0030-article-0003",
+          "label": "第3条",
+          "body": "委員会は、次に掲げる事項について審議し、その業務を処理する。\n\n一 本校全体の自己点検·評価の実施に関すること。\n\n二 自己点検·評価の結果を取りまとめた報告書の作成に関すること。\n\n三 自己点検·評価並びに根拠資料の提出、及び改善が必要と認めた事項の改善策の検討<br>を各所管委員会等へ要請すること。\n\n四 組織等から提出された改善案の取りまとめにすること。\n\n五 改善策の実施状況の把握及び検証に関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-04",
+      "title": "組織",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0030-article-0004",
+          "label": "第4条",
+          "body": "委員会は、次に掲げる者をもって組織する。\n\n一 副校長\n\n二 教務主事\n\n三 学生主事\n\n四 寮務主事\n\n五 専攻科長\n\n六 メディアセンター長\n\n七 地域共同テクノセンター長\n\n八 国際交流推進室長\n\n九 ダイバーシティ推進室長\n\n十 技術支援室長\n\n十一 事務部長\n\n||十二 総務課長|\n|-|-|\n||十三 学生課長|\n\n十四 その他校長が必要と認めた者\\(外部有識者を含む\\)\n\n2 前項第十四号の委員は、校長が委嘱する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-05",
+      "title": "任期",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0030-article-0005",
+          "label": "第5条",
+          "body": "前条第1項第十四号の委員の任期は、委員の任期は1年とし、再任を妨げない。た<br>だし、委員に欠員が生した場合の後任委員の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-06",
+      "title": "委員長",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0030-article-0006",
+          "label": "第6条",
+          "body": "委員会に委員長を置き、副校長をもって充てる。\n\n2 委員長は、会議を招集し、その議長となる。\n\n3 委員長に事故あるときは、第4条第二号の委員がその職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-07",
+      "title": "委員以外の者の出席",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0030-article-0007",
+          "label": "第7条",
+          "body": "委員長が必要と認めた場合は、委員以外の者を委員会に出席させ、意見を聴くこと<br>ができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-08",
+      "title": "自己点検·評価作業部会",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0030-article-0008",
+          "label": "第8条",
+          "body": "委員会に自己点検·評価委員会作業部会\\(以下「作業部会」という。\\)を設置する<br>ことができる。\n\n2 作業部会の運営に関し必要な事項は、委員長が別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-09",
+      "title": "事務",
+      "order": 9,
+      "articles": [
+        {
+          "id": "rule-0030-article-0009",
+          "label": "第9条",
+          "body": "委員会に関する事務は、総務課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-10",
+      "title": "雑則",
+      "order": 10,
+      "articles": [
+        {
+          "id": "rule-0030-article-0010",
+          "label": "第10条",
+          "body": "この規則に定めるもののほか、委員会の運営に関して必要な事項は、委員長が別<br>に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0030-section-11",
+      "title": "附則",
+      "order": 11,
+      "articles": [
+        {
+          "id": "rule-0030-article-0011",
+          "label": null,
+          "body": "この規則は、令和2年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0030-article-0012",
+          "label": null,
+          "body": "この規則は、令和6年11月13日から施行し、令和6年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0030-article-0013",
+          "label": null,
+          "body": "この規則は、令和7年10月28日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0030-article-0014",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校の自己点検·評価委員会規則\n\n||制 定 令和 2年||3月31日|\n|-|-|-|-|\n|||||\n\n改 正 令和 7年 10月28日",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

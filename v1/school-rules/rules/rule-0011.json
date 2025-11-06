@@ -1,0 +1,183 @@
+{
+  "id": "rule-0011",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校知的財産評価委員会規則",
+  "order": 7,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/8titekidaisan.pdf",
+  "summary": "和歌山工業高等専門学校の知的財産評価委員会設置・運営に関する規則です。",
+  "sourcePage": null,
+  "lastUpdated": null,
+  "sections": [
+    {
+      "id": "rule-0011-section-01",
+      "title": "趣旨",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0011-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校知的財産評価委員会の設置等に関し、独立行政\n法人国立高等専門学校機構知的財産権取扱規則及び独立行政法人国立高等専門学校機構知的\n財産ポリシーに基づき、必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-02",
+      "title": "設置",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0011-article-0002",
+          "label": "第2条",
+          "body": "和歌山工業高等専門学校(以下「本校」)に、職務発明等に関する事項を審議するため、\n和歌山工業高等専門学校知的財産評価委員会(以下「知的財産評価委員会」という。)を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0003",
+          "label": "第3条",
+          "body": "この規則において、「発明等」「職務発明等」知的財産権」「発明者」とは、独立行政\n法人国立高等専門学校機構知的財産権取扱規則第2条に規定するものをいう。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-03",
+      "title": "審議事項",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0011-article-0004",
+          "label": "第4条",
+          "body": "知的財産評価委員会は、次に掲げる事項について審議する。\n\n一 職務発明等の当否について\n\n二 職務発明等に該当する場合の知的財産権を本校に承継することの要否について\n\n三 特許権等の出願の要否及び複数発明者等に係る持分割合について\n\n四 外国出願の要否及び出願国の決定に関する事項について\n\n五 本校が保有する知的財産権維持の要否\n\n六 その他知的財産管理に関する必要事項について",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0005",
+          "label": "第5条",
+          "body": "前条第2号に定める知的財産権を本校に承継すべきか否かの認定を行うに当たっては\n特許性の法的登録用件(新規性)、実用性(地域·産業界での活用及び技術移転の可能性)及\nび当該知的財産を取得及び維持する費用効果を考慮するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-04",
+      "title": "組織",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0011-article-0006",
+          "label": "第6条",
+          "body": "知的財産評価委員会は、次に掲げる委員で組織する。\n\n一 教務主事\n\n二 専攻科長\n\n三 地域共同テクノセンター長\n\n四 発明者の属する学科主任\n\n五 総務課長\n\n六 学外の有識者\n\n七 その他校長が必要と認めた者\n\n2 前項第6号委員の任期は、1年とする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-05",
+      "title": "委員会の運営等",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0011-article-0007",
+          "label": "第7条",
+          "body": "知的財産評価委員会に委員長を置き、地域共同テクノセンター長をもって充てる。\n\n2 委員長は、知的財産評価委員会を招集し、その議長となる。\n\n3 委員会は、原則として年に4回開催する。ただし、委員長が緊急の開催が必要と判断した\n場合は、別に開催できる。\n\n4 委員長に事故があるときは、委員長があらかじめ指名した委員が、その職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0008",
+          "label": "第8条",
+          "body": "知的財産評価委員会は、委員の3分の2以上の出席をもって成立する。\n\n2 知的財産評価委員会の議決は、出席委員の過半数の賛成をもって決し、可否同数のときは\n委員長の決するところによる。\n\n3 知的財産評価委員会は、必要と認めたときは、委員以外の者の出席を求め、その意見を聴\nくことができる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-06",
+      "title": "事務",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0011-article-0009",
+          "label": "第9条",
+          "body": "知的財産評価委員会の事務は、総務課総務·企画係が行う。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-07",
+      "title": "雑則",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0011-article-0010",
+          "label": "第10条",
+          "body": "この規則に定めるもののほか、知的財産評価委員会の運営に関し必要な事項は、知\n的財産評価委員会が定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0011-section-08",
+      "title": "附則",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0011-article-0011",
+          "label": null,
+          "body": "この規則は、平成17年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0012",
+          "label": null,
+          "body": "和歌山工業高等専門学校発明規則(昭和54年12月21日制定)は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0013",
+          "label": null,
+          "body": "この規則は、平成18年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0014",
+          "label": null,
+          "body": "この規則は、平成19年3月20日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0011-article-0015",
+          "label": null,
+          "body": "この規則は、平成21年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0011-article-0016",
+      "label": null,
+      "body": "||制 定 平成17年4月 1 日|\n|-|-|\n||最近改正 平成21年4月 1 日|",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}
