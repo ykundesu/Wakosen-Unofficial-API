@@ -184,7 +184,228 @@ components:
             $ref: '#/components/schemas/DayMenu'
           description: 1週間の食事メニュー配列
 
+    SchoolRuleArticle:
+      type: object
+      required:
+        - id
+        - body
+      properties:
+        id:
+          type: string
+          example: "rule-0001-article-0001"
+        label:
+          type: string
+          nullable: true
+          example: "第1条"
+        body:
+          type: string
+          description: "条文の本文"
+        notes:
+          type: string
+          nullable: true
+          description: "注釈"
+        relatedIds:
+          type: array
+          items:
+            type: string
+          nullable: true
+          description: "関連するIDの配列"
+
+    SchoolRuleSection:
+      type: object
+      required:
+        - id
+        - title
+        - order
+        - articles
+      properties:
+        id:
+          type: string
+          example: "rule-0001-section-01"
+        title:
+          type: string
+          example: "第1章 総則"
+        order:
+          type: integer
+          example: 1
+        articles:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRuleArticle'
+
+    SchoolRule:
+      type: object
+      required:
+        - id
+        - chapterId
+        - title
+        - order
+      properties:
+        id:
+          type: string
+          example: "rule-0001"
+        chapterId:
+          type: string
+          example: "chapter-001"
+        title:
+          type: string
+          example: "和歌山工業高等専門学校学則"
+        order:
+          type: integer
+          example: 1
+        pdfUrl:
+          type: string
+          format: uri
+          nullable: true
+          example: "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/06/09085643f2fea974e2ad18d30e8418d3.pdf"
+        summary:
+          type: string
+          nullable: true
+          example: "和歌山工業高等専門学校の学則で、目的・組織・学科・入学・授業・費用等の規定をまとめたものです。"
+        sourcePage:
+          type: integer
+          nullable: true
+        lastUpdated:
+          type: string
+          format: date-time
+          nullable: true
+        sections:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRuleSection'
+        articles:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRuleArticle'
+        relatedIds:
+          type: array
+          items:
+            type: string
+          nullable: true
+
+    SchoolRuleChapter:
+      type: object
+      required:
+        - id
+        - title
+        - order
+        - ruleIds
+      properties:
+        id:
+          type: string
+          example: "chapter-001"
+        title:
+          type: string
+          example: "第1章 学則"
+        order:
+          type: integer
+          example: 1
+        ruleIds:
+          type: array
+          items:
+            type: string
+            example: "rule-0001"
+
+    SchoolRuleIndex:
+      type: object
+      required:
+        - version
+        - generatedAt
+        - chapters
+        - rules
+      properties:
+        version:
+          type: string
+          example: "20251106T074958Z"
+        generatedAt:
+          type: string
+          format: date-time
+          example: "2025-11-06T07:49:58.451189+00:00"
+        chapters:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRuleChapter'
+        rules:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRule'
+
+    SchoolRuleChapters:
+      type: object
+      required:
+        - version
+        - generatedAt
+        - chapters
+      properties:
+        version:
+          type: string
+          example: "20251106T074958Z"
+        generatedAt:
+          type: string
+          format: date-time
+          example: "2025-11-06T07:49:58.451189+00:00"
+        chapters:
+          type: array
+          items:
+            $ref: '#/components/schemas/SchoolRuleChapter'
+
 paths:
+  /v1/school-rules/index.json:
+    get:
+      summary: 校則のインデックスを取得
+      description: 校則の全チャプターとルールの一覧をまとめたインデックスデータを取得します。
+      responses:
+        '200':
+          description: 校則インデックスデータが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SchoolRuleIndex'
+        '404':
+          description: インデックスデータが見つからない場合
+        '500':
+          description: サーバー内部エラー
+
+  /v1/school-rules/chapters.json:
+    get:
+      summary: 校則の章一覧を取得
+      description: 校則の全チャプターの一覧を取得します。
+      responses:
+        '200':
+          description: 校則チャプターデータが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SchoolRuleChapters'
+        '404':
+          description: チャプターデータが見つからない場合
+        '500':
+          description: サーバー内部エラー
+
+  /v1/school-rules/rules/{rule_id}.json:
+    get:
+      summary: 個別の校則データを取得
+      description: 指定されたIDの校則データを取得します。
+      parameters:
+        - name: rule_id
+          in: path
+          required: true
+          schema:
+            type: string
+          example: "rule-0001"
+          description: "校則ID (例: rule-0001)"
+      responses:
+        '200':
+          description: 校則データが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SchoolRule'
+        '404':
+          description: 指定された校則データが見つからない場合
+        '500':
+          description: サーバー内部エラー
+
   /v1/classes/{year_class}/{grade_semester}.json:
     get:
       summary: クラスデータを取得
