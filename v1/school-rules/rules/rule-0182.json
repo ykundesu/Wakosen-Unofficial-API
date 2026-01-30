@@ -1,0 +1,126 @@
+{
+  "id": "rule-0182",
+  "chapterId": "chapter-005",
+  "title": "和歌山工業高等専門学校科目間連携要領",
+  "summary": "本要領は、学科間の科目連携と授業改善のための組織と手続きを定めたものです。",
+  "order": 37,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/01/dbb55e393a3a87db133488b77688a5a5.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-01-30T15:38:23.571156+00:00",
+  "sections": [
+    {
+      "id": "rule-0182-section-01",
+      "title": "和歌山工業高等専門学校科目間連携要領",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0182-article-0001",
+          "label": null,
+          "body": "令和8年1月19日\n\n教務委員会制定\n\n本校の各学科における授業科目について、各学科の授業科目の教育内容を相互の関係で捉え、各々教<br>育目標を踏まえた教科横断的な視点でもって、その目標の達成に必要な仕組みを構築することを目的と<br>する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-02",
+      "title": "(数理ワーキング)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0182-article-0002",
+          "label": "第1条",
+          "body": "数理ワーキング(以下「ワーキング」という)。は、次に掲げる者をもって組織する。\n\n一 総合教育科教員のうち、数学、物理、化学の担当者 各1名\n\n二 その他教務主事が必要と認める者",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-03",
+      "title": "(審議事項)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0182-article-0003",
+          "label": "第2条",
+          "body": "ワーキングは、次に掲げる事項を審議する。\n\nー 科目間連携に関すること。\n\n二 CBTに関すること。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-04",
+      "title": "(確認作業)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0182-article-0004",
+          "label": "第3条",
+          "body": "ワーキングは、教務委員会の指示の下、本校が定めるカリキュラムマップに基づき学年配当を<br>している一般教養科目及び一般教養科目と関連する専門科目において、関連する単元、内容について<br>教務主事補と適宜確認作業を行うものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-05",
+      "title": "(方法)",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0182-article-0005",
+          "label": "第4条",
+          "body": "ワーキング及び教務主事補は、前条に規定する確認作業について任意様式(委員会議事要旨、メ<br>ール、チャットのコピー等)により担当間で相互に保管するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-06",
+      "title": "(改善)",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0182-article-0006",
+          "label": "第5条",
+          "body": "ワーキングは、前々条に規定する確認作業を行った結果を、必要に応じて専門科目担当教員及<br>び一般教養科目担当教員に対してフィードバックし、授業の改善に資するものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-07",
+      "title": "(雑貝)",
+      "order": 7,
+      "articles": [
+        {
+          "id": "rule-0182-article-0007",
+          "label": "第6条",
+          "body": "この要領に定めるもののほか、必要な事項は適宜追記する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0182-section-08",
+      "title": "附 則",
+      "order": 8,
+      "articles": [
+        {
+          "id": "rule-0182-article-0008",
+          "label": null,
+          "body": "この要領は、令和8年1月19日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}

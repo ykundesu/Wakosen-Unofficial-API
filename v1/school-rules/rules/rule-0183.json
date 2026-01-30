@@ -1,0 +1,141 @@
+{
+  "id": "rule-0183",
+  "chapterId": "chapter-006",
+  "title": "和歌山工業高等専門学校学生準則第14条の運用に係る要項",
+  "summary": "本要項は学生の欠席・欠課・遅刻・早退の取扱い基準を定めるものです。",
+  "order": 3,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/12/32fc783dcf807d75666ffa86c6cebd65.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-01-30T15:38:23.571156+00:00",
+  "sections": [
+    {
+      "id": "rule-0183-section-01",
+      "title": "1. 定義",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0183-article-0001",
+          "label": "欠席",
+          "body": "1日授業\\(特別教育活動含む\\)に出席していない状態をいう。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0002",
+          "label": "欠課",
+          "body": "授業開始後、出席していない状態をいう。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0003",
+          "label": "遅刻",
+          "body": "授業開始後、遅れて出席した状態をいう。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0004",
+          "label": "早退",
+          "body": "授業の途中から、受講を取りやめ退出した状態をいう。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0005",
+          "label": null,
+          "body": "※1「授業開始」とは、校時における授業開始時間をいう。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0183-section-02",
+      "title": "2. 欠席日数の計算",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0183-article-0006",
+          "label": null,
+          "body": "欠席日数は、以下の式で計算する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0007",
+          "label": null,
+          "body": "欠課時数1 × 7 = 欠席1日",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0008",
+          "label": null,
+          "body": "※1 高等専門学校設置基準第17 条第3項により1単位時間を50 分としている。ただし、<br>国立高等専門学校機構教務関係質疑応答集 2015 年版\\(P25\\)によると「2時限連続の 90<br>分授業を導入する場合には、それを高専における2単位時間、学修単位制における2時<br>間の授業として取り扱うことができる。」とあり、「教育の質を十分に保証し、学生の学<br>習効果が上がるよう適切な配慮を行うとともに、その考え方を対外的に説明できるよう<br>整理しておく必要がある。」と示されている。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0009",
+          "label": null,
+          "body": "※2 90 分授業の場合は、欠課時数2となる。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0183-section-03",
+      "title": "3. 遅刻または早退に係る欠課時数の計算",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0183-article-0010",
+          "label": null,
+          "body": "同一科目の欠課時数は、以下の式で計算する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0011",
+          "label": null,
+          "body": "欠課時数1 = 遅刻または早退を合わせて3回",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0012",
+          "label": null,
+          "body": "4. 学生は、欠席等について、速やかに学級担任又は科目担当教員に報告するものとする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0013",
+          "label": null,
+          "body": "5. 定期試験に係る欠席、欠課、遅刻、早退は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0183-article-0014",
+          "label": null,
+          "body": "6. この要項に定めのない事項については、都合検討の上、追記する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0183-article-0015",
+      "label": null,
+      "body": "# 和歌山工業高等専門学校学生準則第14条の運用に係る要項\n\n令和7年12月3日<br>教 務 委 員 会<br>専 攻 科 委 員 会\n\n和歌山工業高等専門学校学生準則第14 条に規定されている学生の「欠席」、「欠課」、「遅刻」、<br>「早退」について、取扱いを学内で統一運用する必要があるので、以下のとおり定めるものと<br>する。\n\n附 則<br>この要項は、令和8年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}

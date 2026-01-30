@@ -1,0 +1,70 @@
+{
+  "id": "rule-0181",
+  "chapterId": "chapter-004",
+  "title": "和歌山工業高等専門学校の寄附資産における銘板表示等取扱要項",
+  "summary": "和歌山工業高等専門学校における寄附資産の銘板表示に関する取扱要項です。",
+  "order": 24,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/8e5bff930b9db0f3b2bb100f7901abe4.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-01-30T15:38:23.571156+00:00",
+  "sections": [
+    {
+      "id": "rule-0181-section-01",
+      "title": "和歌山工業高等専門学校の寄附資産における銘板表示等取扱要項",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0181-article-0001",
+          "label": null,
+          "body": "制 定 令和 7年11月26日",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0181-section-02",
+      "title": "(趣旨)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0181-article-0002",
+          "label": "第1条",
+          "body": "この要項は、独立行政法人国立高等専門学校機構寄附資産取扱規則(以下「寄附資<br>産取扱規則」という。)に基づき、和歌山工業高等専門学校が受入れる寄附資産における<br>銘板表示に関し必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0181-section-03",
+      "title": "(定義)",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0181-article-0003",
+          "label": "第2条",
+          "body": "この要項における用語の定義は、寄附資産取扱規則で定められるもののほか、以下<br>の各号に定める。\n\nー 銘板 寄附者の法人名等を表示するため、寄附資産に貼付け、又は直接印刷されるも\nのをいう。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0181-section-04",
+      "title": "(銘板表示の決定)",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0181-article-0004",
+          "label": "第3条",
+          "body": "本校の教育、研究及び管理運営に資する目的で寄附された資産であり、寄附者から<br>の銘板表示希望の意思が示されたものについて、第4条に定める受入基準に基づき銘<br>板表示の可否を決定するもの",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": null,
+  "relatedIds": null
+}
