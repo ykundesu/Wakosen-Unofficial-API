@@ -9,7 +9,7 @@ info:
     含まれているデータには不正確なものが含まれている場合があります。<br>
     開発者はこのAPIを使用したことによる損害について一切の責任を負いません。<br>
     開発者はこのAPIが常に使用可能なことを保証しません。<br>
-  version: 1.0.0
+  version: 1.1.0
   contact:
     name: ykundesu
     email: wakosen-app@yoking.dev
@@ -183,6 +183,42 @@ components:
           items:
             $ref: '#/components/schemas/DayMenu'
           description: 1週間の食事メニュー配列
+
+    DormitoryEvent:
+      type: object
+      required:
+        - date
+        - name
+      properties:
+        date:
+          type: string
+          example: "04/06"
+          description: 日付（MM/DD形式）
+        grade:
+          type: integer
+          nullable: true
+          example: 1
+          description: 対象学年（全学年対象の場合はNULL）
+        name:
+          type: string
+          example: "開寮（在校生）"
+          description: イベント名
+
+    DormitoryEventsResponse:
+      type: object
+      required:
+        - academic_year
+        - events
+      properties:
+        academic_year:
+          type: integer
+          example: 2025
+          description: 学年度
+        events:
+          type: array
+          items:
+            $ref: '#/components/schemas/DormitoryEvent'
+          description: 寮イベント配列
 
     SchoolRuleArticle:
       type: object
@@ -461,5 +497,29 @@ paths:
                 $ref: '#/components/schemas/MealsResponse'
         '404':
           description: 指定された週の食事データが見つからない場合
+        '500':
+          description: サーバー内部エラー
+
+  /v1/dormitory/events/{academic_year}.json:
+    get:
+      summary: 寮のイベント一覧を取得
+      description: 指定された学年度の寮イベント一覧を取得します
+      parameters:
+        - name: academic_year
+          in: path
+          required: true
+          schema:
+            type: integer
+          example: 2025
+          description: 学年度（例: 2025）
+      responses:
+        '200':
+          description: 寮イベントデータが正常に取得された場合
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DormitoryEventsResponse'
+        '404':
+          description: 指定された学年度の寮イベントデータが見つからない場合
         '500':
           description: サーバー内部エラー
