@@ -225,7 +225,7 @@
       ]
     },
     {
-      "id": "chapter-010",
+      "id": "chapter-008",
       "title": "第8章 学寮",
       "order": 8,
       "ruleIds": [
@@ -1984,7 +1984,7 @@
     },
     {
       "id": "rule-0184",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮管理運営規則",
       "summary": null,
       "order": 1,
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "rule-0185",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮委員会規則 (R.8.4.1以降）",
       "summary": null,
       "order": 2,
@@ -2004,7 +2004,7 @@
     },
     {
       "id": "rule-0169",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮規則",
       "summary": "和歌山工業高等専門学校の学寮に関する管理・運営規則で、寮生の配置・日課・健康・行事・禁止事項・欠食等の詳細を定めたものです。",
       "order": 3,
@@ -2014,7 +2014,7 @@
     },
     {
       "id": "rule-0170",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮宿日直規則",
       "summary": "和歌山工業高等専門学校の学寮における宿日直の勤務区分・時間・職務内容・割当て方法などを定めた規則です。",
       "order": 4,
@@ -2024,7 +2024,7 @@
     },
     {
       "id": "rule-0171",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮宿日直割当に関する取扱要項",
       "summary": "和歌山工業高等専門学校の学寮宿日直の割当方法と免除規定を定めた要項です。",
       "order": 5,
@@ -2034,7 +2034,7 @@
     },
     {
       "id": "rule-0172",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校宿直業務要項",
       "summary": "和歌山工業高等専門学校の寮宿直業務要項で、検食・巡回・点呼・トラブル対応などの業務内容と勤務時間・場所を定めたものです。",
       "order": 6,
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "rule-0173",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校日直業務要項",
       "summary": "和歌山工業高等専門学校の寮日直業務の手順・責務を示した要項です。",
       "order": 7,
@@ -2054,7 +2054,7 @@
     },
     {
       "id": "rule-0174",
-      "chapterId": "chapter-010",
+      "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮指導業務要項",
       "summary": "和歌山工業高等専門学校の学寮指導業務の概要と具体的な勤務時間・業務内容を示した要項です。",
       "order": 8,
