@@ -1,6 +1,6 @@
 {
-  "version": "20260131T055620Z",
-  "generatedAt": "2026-01-31T05:56:20.375810+00:00",
+  "version": "20260131T082245Z",
+  "generatedAt": "2026-01-31T08:22:45.905083+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -229,6 +229,7 @@
       "title": "第8章 学寮",
       "order": 8,
       "ruleIds": [
+        "rule-0186",
         "rule-0185",
         "rule-0169",
         "rule-0170",
@@ -1980,6 +1981,16 @@
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/9348f29793862ce848d8d95042411bc9.pdf",
       "sourcePage": null,
       "lastUpdated": null
+    },
+    {
+      "id": "rule-0186",
+      "chapterId": "chapter-008",
+      "title": "和歌山工業高等専門学校学寮管理運営規則",
+      "summary": "本規則は和歌山工業高等専門学校の学寮の管理運営に関する事項を定めるものです。",
+      "order": 1,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/01/05047d1ed6a1152904d874fd47479ca9.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-01-31T08:22:45.905083+00:00"
     },
     {
       "id": "rule-0185",
