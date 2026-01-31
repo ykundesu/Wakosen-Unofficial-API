@@ -1,6 +1,6 @@
 {
-  "version": "20260130T153823Z",
-  "generatedAt": "2026-01-30T15:38:23.571156+00:00",
+  "version": "20260131T012154Z",
+  "generatedAt": "2026-01-31T01:21:54.151711+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -221,7 +221,14 @@
         "rule-0165",
         "rule-0166",
         "rule-0167",
-        "rule-0168",
+        "rule-0168"
+      ]
+    },
+    {
+      "id": "chapter-010",
+      "title": "第8章 学寮",
+      "order": 8,
+      "ruleIds": [
         "rule-0184",
         "rule-0185",
         "rule-0169",
@@ -235,7 +242,7 @@
     {
       "id": "chapter-009",
       "title": "第9章 学生会･寮生会",
-      "order": 8,
+      "order": 9,
       "ruleIds": [
         "rule-0175",
         "rule-0176",
