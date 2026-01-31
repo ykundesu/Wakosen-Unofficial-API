@@ -1,0 +1,78 @@
+{
+  "id": "rule-0185",
+  "chapterId": "chapter-008",
+  "title": "和歌山工業高等専門学校学寮委員会規則 (R.8.4.1以降）",
+  "summary": "和歌山工業高等専門学校の学寮委員会の組織・任期・職務等を定めた規則です。",
+  "order": 2,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/01/4fb2dda78b772bd73e3c91827a23a217.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-01-31T04:50:08.881298+00:00",
+  "sections": [
+    {
+      "id": "rule-0185-section-01",
+      "title": "和歌山工業高等専門学校学寮委員会規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0185-article-0001",
+          "label": "第1条",
+          "body": "第1条 この規則は、和歌山工業高等専門学校組織規則第12条に基づき、和歌山工業高等専門<br>学校学寮委員会(以下「委員会」という。)を置く。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0002",
+          "label": "第2条",
+          "body": "第2条 委員会は、次に掲げる事項について協議する。\n\n一 学寮の管理運営に関すること。\n\n二 入寮及び退寮に関すること。\n\n三 寮生の厚生補導(生活指導,保健衛生及び福利厚生)に関すること。\n\n四 寮生会等寮生の組織に関すること。\n\n五 その他寮務に関すること。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0003",
+          "label": "第3条",
+          "body": "第3条 委員会は、次に掲げる者をもって組織する。\n\n一 寮務主事\n\n二 寮務主事補\n\n三 各学科教員 1名\n\n四 総合教育科教員 1名\n\n五 学生課長\n\n六 その他校長が必要と認める教職員\n\n2 前項第二号の委員は、同第三号及び第四号の委員が兼ねることができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0004",
+          "label": "第4条",
+          "body": "第4条 前条第三号及び第四号の委員の任期は、1年とする。ただし、再任を妨げない。\n\n2 前項の委員に欠員が生じた場合の後任者の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0005",
+          "label": "第5条",
+          "body": "第5条 委員会に委員長を置き、寮務主事をもって充てる。\n\n2 委員長は、会議を招集し、その議長となる。\n\n3 委員長に事故あるときは、第3条第1項第二号の委員がその職務を代行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0006",
+          "label": "第6条",
+          "body": "第6条 委員長が必要と認めた場合は、委員以外の者を委員会に出席させ、意見を聴くことが\nできる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0185-article-0007",
+          "label": "第7条",
+          "body": "第7条 委員会に関する事務は、学生課において処理する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0185-article-0008",
+      "label": null,
+      "body": "(趣旨)\n\n(審議事項)\n\n(組織)\n\n(任期)\n\n(委員長)\n\n(委員以外の者の出席)\n\n(事務)\n\n附則\nこの規則は、令和8年4月1日から施行する。",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}
