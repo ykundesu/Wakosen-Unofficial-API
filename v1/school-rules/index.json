@@ -1,6 +1,6 @@
 {
-  "version": "20260131T082245Z",
-  "generatedAt": "2026-01-31T08:22:45.905083+00:00",
+  "version": "20260209T172714Z",
+  "generatedAt": "2026-02-09T17:27:14.329272+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -826,11 +826,11 @@
       "id": "rule-0056",
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校文書専決規則",
-      "summary": "和歌山工業高等専門学校の文書決裁に関する規則と、専決事項・専決者の一覧を定めた規則です。",
+      "summary": "和歌山工業高等専門学校の文書専決に関する規則です。",
       "order": 4,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/53bunsyosenketu.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/02/d130b4a4813bdb7c6f8a6db4158e29a9.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-02-09T17:27:14.329272+00:00"
     },
     {
       "id": "rule-0057",
