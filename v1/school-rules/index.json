@@ -1,6 +1,6 @@
 {
-  "version": "20260317T173100Z",
-  "generatedAt": "2026-03-17T17:31:00.774184+00:00",
+  "version": "20260319T174736Z",
+  "generatedAt": "2026-03-19T17:47:36.542141+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -403,21 +403,21 @@
       "id": "rule-0012",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校教務委員会規則",
-      "summary": "和歌山工業高等専門学校の教務委員会設置・運営に関する規則をまとめた文書です。",
+      "summary": "教務委員会の設置・組織・任期等について定めた規則です。",
       "order": 9,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/9kyoumuiinkai.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/4b0970f479a027fc70517f360bbd231e.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-03-19T17:47:36.542141+00:00"
     },
     {
       "id": "rule-0013",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校専攻科委員会規則",
-      "summary": "和歌山工業高等専門学校専攻科委員会の設置・構成・運営に関する規則です",
+      "summary": "和歌山工業高等専門学校専攻科委員会の組織・権限等を定めた規則です。",
       "order": 10,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/6bcf898ca84aebff7d022ba4f67d0edb.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/2eae26dc017de85ac22ac3d556dc0a87.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-03-19T17:47:36.542141+00:00"
     },
     {
       "id": "rule-0014",
@@ -933,11 +933,11 @@
       "id": "rule-0062",
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校教員業績評価規則",
-      "summary": "和歌山工業高等専門学校の教員業績評価規則は、教育・研究・社会貢献・校務等の業績を毎年度評価し、給与や昇進に反映させる制度を定めるものです。",
+      "summary": "本規則は、和歌山工業高等専門学校の教員の業績評価の方法と結果の取扱いを定めるものです。",
       "order": 10,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/57-3kyoin-gyousekihyouka.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/a8843730a4ef430aa531b7a636a69864.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-03-19T17:47:36.542141+00:00"
     },
     {
       "id": "rule-0063",
