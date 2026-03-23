@@ -1,6 +1,6 @@
 {
-  "version": "20260319T174736Z",
-  "generatedAt": "2026-03-19T17:47:36.542141+00:00",
+  "version": "20260323T172632Z",
+  "generatedAt": "2026-03-23T17:26:32.929941+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -207,6 +207,7 @@
         "rule-0183",
         "rule-0152",
         "rule-0153",
+        "rule-0194",
         "rule-0154",
         "rule-0155",
         "rule-0156",
@@ -603,11 +604,11 @@
       "id": "rule-0029",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校の自己点検・評価等に関する規則",
-      "summary": "和歌山工業高等専門学校の教育・研究・組織・施設等の自己点検・評価に関する規則です。",
+      "summary": "本規則は、和歌山工業高等専門学校における自己点検・評価等の実施方法等を定めるものです。",
       "order": 29,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/05/b8e4691c18e5ac5c2a346c5cacd1a7cd.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/8790eee804aca34378c16451e4056433-2.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-03-23T17:26:32.929941+00:00"
     },
     {
       "id": "rule-0030",
@@ -1552,7 +1553,7 @@
     {
       "id": "rule-0193",
       "chapterId": "chapter-005",
-      "title": "他の高等専門学校及び高等専門学校以外の教育施設等で修得した単位等の認定に関する取扱要項 （R8.4.1以降）",
+      "title": "他の高等専門学校及び高等専門学校以外の教育施設等で修得した単位等の認定に関する取扱要項（R8.4.1以降）",
       "summary": "本要項は、他校や他教育施設で取得した単位の認定手続き等を定めたものです。",
       "order": 10,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/4a1344524d012a942825395294270147.pdf",
@@ -1902,7 +1903,7 @@
     {
       "id": "rule-0153",
       "chapterId": "chapter-006",
-      "title": "和歌山工業高等専門学校学生の車両使用規則",
+      "title": "和歌山工業高等専門学校学生の車両使用規則（R8.3.31まで）",
       "summary": "学生が自動車・二輪車・自転車を使用する際の許可条件・手続き・安全規則を定めた規則です。",
       "order": 7,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/ea5dd196f5fb1161cc3c2a8af48d9fe9.pdf",
@@ -1910,11 +1911,21 @@
       "lastUpdated": null
     },
     {
+      "id": "rule-0194",
+      "chapterId": "chapter-006",
+      "title": "和歌山工業高等専門学校学生の車両使用規則（R8.4.1以降）",
+      "summary": "本規則は、和歌山工業高等専門学校における学生の車両使用に関する条件と手続きを定めたものです。",
+      "order": 8,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/926fe31994672e07e60915f8c8e096d9.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-03-23T17:26:32.929941+00:00"
+    },
+    {
       "id": "rule-0154",
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校学生の表彰に関する規則",
       "summary": "和歌山工業高等専門学校の学生表彰規則と表彰基準・手続きについての規定です",
-      "order": 8,
+      "order": 9,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/158gakuseihyosho.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1924,7 +1935,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校学生の表彰に関する規則実施要項",
       "summary": "和歌山工業高等専門学校学生表彰規則の実施要項と表彰状様式を定めた規定書です。",
-      "order": 9,
+      "order": 10,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/159gakusei-hyousyou-jiss.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1934,7 +1945,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校体育施設使用規則",
       "summary": "和歌山工業高等専門学校の体育施設使用に関する規則で、使用許可の基準・手続き・管理方法を定めています。",
-      "order": 10,
+      "order": 11,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/3165a75db4e4a388378f276e7c94f952.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1944,7 +1955,7 @@
       "chapterId": "chapter-006",
       "title": "水泳プール使用細則",
       "summary": "和歌山工業高等専門学校の水泳プール使用に関する細則で、使用期間・時間、許可取消条件、遵守事項を定めたものです",
-      "order": 11,
+      "order": 12,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/161pool-saisoku.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1954,7 +1965,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校職業紹介業務運営規則",
       "summary": "和歌山工業高等専門学校の無料職業紹介業務運営規則です。",
-      "order": 12,
+      "order": 13,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/164syokugyou-unei.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1964,7 +1975,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校職業紹介業務に係る個人情報の管理に関する規則",
       "summary": "和歌山工業高等専門学校の職業紹介業務における個人情報管理規則の概要です。",
-      "order": 13,
+      "order": 14,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/165syokugyou-kojinjouhou.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1974,7 +1985,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校いじめ防止等基本計画",
       "summary": "和歌山工業高等専門学校のいじめ防止基本計画は、いじめの定義・禁止、教職員・学生・保護者・地域との連携を通じた未然防止・早期発見・事案対処を組織的に推進するための方針と具体的な対策を定めたものです",
-      "order": 14,
+      "order": 15,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/05/21041fb527e95d0b2bea828472bc5338.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1984,7 +1995,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校いじめ防止プログラム",
       "summary": "和歌山工業高等専門学校のいじめ防止プログラムは、教職員・学生・保護者・地域を対象に講演・研修・アンケート・相談窓口など多岐にわたる対策を年間を通じて実施し、いじめの予防・早期発見・対応を行うものです。",
-      "order": 15,
+      "order": 16,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/R50401kisokuijimebousiprogram.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1994,7 +2005,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校課外活動ガイドライン",
       "summary": "和歌山工業高等専門学校のクラブ活動に関する運用・管理体制、活動時間・報告書の作成義務、休養日・施設使用制限などを定めた課外活動ガイドラインです。",
-      "order": 16,
+      "order": 17,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/167kagaikatudougaidorainR50801.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -2004,7 +2015,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校学生の懲戒に関する規程",
       "summary": "和歌山工業高等専門学校の学生懲戒規程で、懲戒処分・学生指導の種類・手続き・通知・不服申立て等を定めている。",
-      "order": 17,
+      "order": 18,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/bc9e24131dc59a9872a1b1f0d0dd7da0.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -2014,7 +2025,7 @@
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校いじめ対策委員会等規則",
       "summary": "和歌山工業高等専門学校のいじめ対策委員会の組織・運営と委員会・部会の構成・業務内容を定めた規則です。",
-      "order": 18,
+      "order": 19,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/8bca2906548206670f61670041baee6a.pdf",
       "sourcePage": null,
       "lastUpdated": null
