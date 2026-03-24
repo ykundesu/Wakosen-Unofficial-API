@@ -1,6 +1,6 @@
 {
-  "version": "20260323T172632Z",
-  "generatedAt": "2026-03-23T17:26:32.929941+00:00",
+  "version": "20260324T172915Z",
+  "generatedAt": "2026-03-24T17:29:15.426268+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -218,6 +218,7 @@
         "rule-0161",
         "rule-0162",
         "rule-0163",
+        "rule-0195",
         "rule-0164"
       ]
     },
@@ -2013,7 +2014,7 @@
     {
       "id": "rule-0163",
       "chapterId": "chapter-006",
-      "title": "和歌山工業高等専門学校学生の懲戒に関する規程",
+      "title": "和歌山工業高等専門学校学生の懲戒に関する規程（R8.3.31まで）",
       "summary": "和歌山工業高等専門学校の学生懲戒規程で、懲戒処分・学生指導の種類・手続き・通知・不服申立て等を定めている。",
       "order": 18,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/bc9e24131dc59a9872a1b1f0d0dd7da0.pdf",
@@ -2021,11 +2022,21 @@
       "lastUpdated": null
     },
     {
+      "id": "rule-0195",
+      "chapterId": "chapter-006",
+      "title": "和歌山工業高等専門学校学生の懲戒に関する規程（R8.4.1以降）",
+      "summary": "本規程は和歌山工業高等専門学校における学生の懲戒の種類・手続き等を定めたものです。",
+      "order": 19,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/119b36a9a84b15e2ed88500518aeb537.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-03-24T17:29:15.426268+00:00"
+    },
+    {
       "id": "rule-0164",
       "chapterId": "chapter-006",
       "title": "和歌山工業高等専門学校いじめ対策委員会等規則",
       "summary": "和歌山工業高等専門学校のいじめ対策委員会の組織・運営と委員会・部会の構成・業務内容を定めた規則です。",
-      "order": 19,
+      "order": 20,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/8bca2906548206670f61670041baee6a.pdf",
       "sourcePage": null,
       "lastUpdated": null
