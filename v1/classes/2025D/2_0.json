@@ -76,12 +76,12 @@
         {
           "start": "14:35",
           "end": "15:25",
-          "name": "H.R. (50分)",
-          "teacher": "川崎"
+          "name": "H.R.(50分)",
+          "teacher": null
         },
         {
-          "start": "15:25",
-          "end": "16:05",
+          "start": "16:15",
+          "end": "17:45",
           "name": "わかやま学",
           "teacher": "川崎"
         }
