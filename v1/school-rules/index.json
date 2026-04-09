@@ -1,6 +1,6 @@
 {
-  "version": "20260408T173321Z",
-  "generatedAt": "2026-04-08T17:33:21.022222+00:00",
+  "version": "20260409T182219Z",
+  "generatedAt": "2026-04-09T18:22:19.439063+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -33,7 +33,8 @@
         "rule-0188",
         "rule-0020",
         "rule-0180",
-        "rule-0022",
+        "rule-0186",
+        "rule-0186",
         "rule-0023",
         "rule-0024",
         "rule-0025",
@@ -89,6 +90,7 @@
         "rule-0068",
         "rule-0069",
         "rule-0070",
+        "rule-0197",
         "rule-0071",
         "rule-0072",
         "rule-0073",
@@ -225,8 +227,6 @@
       "title": "第8章 学寮",
       "order": 8,
       "ruleIds": [
-        "rule-0186",
-        "rule-0185",
         "rule-0169",
         "rule-0170",
         "rule-0171",
@@ -439,21 +439,31 @@
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
     },
     {
-      "id": "rule-0022",
+      "id": "rule-0186",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校学寮管理運営規則",
-      "summary": "和歌山工業高等専門学校の学寮管理運営規則で、寮の運営・入寮・退寮・費用・規律・保護者等の手続き等を定めたものです。",
+      "summary": "この規則は、和歌山工業高等専門学校における学寮の管理運営について必要な事項を定め、その円滑かつ適正な運用を図ることを目的とする。",
       "order": 16,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/18gakuryokanrikisoku.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/04/73de98e47979f10f69b713bba75660dc.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-04-08T17:33:21.022222+00:00"
+    },
+    {
+      "id": "rule-0186",
+      "chapterId": "chapter-002",
+      "title": "和歌山工業高等専門学校学寮委員会規則",
+      "summary": "この規則は、和歌山工業高等専門学校における学寮の管理運営について必要な事項を定め、その円滑かつ適正な運用を図ることを目的とする。",
+      "order": 17,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/04/73de98e47979f10f69b713bba75660dc.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-04-08T17:33:21.022222+00:00"
     },
     {
       "id": "rule-0023",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校図書委員会規則",
       "summary": "和歌山工業高等専門学校図書委員会の組織・運営と図書館管理に関する規則です。",
-      "order": 17,
+      "order": 18,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/3a697a1ae715fd663ca56490ea318cf9.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -463,7 +473,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校メディアセンター規則",
       "summary": "和歌山工業高等専門学校のメディアセンター設置と運営に関する規則で、目的・施設・センター長・副センター長・委員会・事務等を定めている。",
-      "order": 18,
+      "order": 19,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/d506bc949a00be3d9ba3845c52f738f8.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -473,7 +483,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校地域共同テクノセンター規則",
       "summary": "和歌山工業高等専門学校の地域共同テクノセンターの設置・組織・運営に関する規則です。",
-      "order": 19,
+      "order": 20,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/6c18261eee78988bfaed9878c244ee17.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
@@ -483,7 +493,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校技術支援室委員会規則",
       "summary": "和歌山工業高等専門学校技術支援室委員会規則は、委員会の組織・運営・審議事項を定め、委員の任期や委員長の役割、専門部会の設置などを規定する。",
-      "order": 20,
+      "order": 21,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/07/c153e1810a0daf638c8832e00fefc774.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -493,7 +503,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校技術支援室規則",
       "summary": "和歌山工業高等専門学校の技術支援室の組織・業務内容・職員任期等を定めた規則です。",
-      "order": 21,
+      "order": 22,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/07/0afe06b66644a6cc55c72442fee06f90.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -503,7 +513,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校 FD・SD 推進委員会規則",
       "summary": "和歌山工業高等専門学校のFD・SD推進委員会設置と運営に関する規則です。",
-      "order": 22,
+      "order": 23,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/fd51cd6696086192fae0ab1873298628.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
@@ -513,7 +523,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校の自己点検・評価等に関する規則",
       "summary": "本規則は、和歌山工業高等専門学校における自己点検・評価等の実施方法等を定めるものです。",
-      "order": 23,
+      "order": 24,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/541f4832078ee2761c127a5088a68c5b.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-03-23T17:26:32.929941+00:00"
@@ -523,7 +533,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校の自己点検・評価委員会規則",
       "summary": "和歌山工業高等専門学校における自己点検・評価委員会の組織・業務・運営を定めた規則です。",
-      "order": 24,
+      "order": 25,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/e892235ca50003f71d310dbdc0472037.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -533,7 +543,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校第三者評価対応作業部会設置要項",
       "summary": "和歌山工業高等専門学校の第三者評価対応作業部会設置要項を定めた規則です",
-      "order": 25,
+      "order": 26,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/01/29f07e39ee016bb0724b6ff350c213ce.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -543,7 +553,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校自己点検・評価等実施要領",
       "summary": "和歌山工業高等専門学校の内部質保証のための自己点検・評価の実施要領を定めた規則です。",
-      "order": 26,
+      "order": 27,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/01/7fb39e949cda083c450a07322bbb1b47.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -553,7 +563,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校における施設マネジメント指針",
       "summary": "施設マネジメント指針は、教育研究環境の維持・向上と地球環境保護を目的に、トップマネジメントの意思決定システムと統括体制を構築し、予防保全・コスト管理等を実施する方針を示す。",
-      "order": 27,
+      "order": 28,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/12/1069160cb098786462c4494d42920d9b.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -563,7 +573,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校施設・設備・環境整備委員会規則",
       "summary": "和歌山工業高等専門学校施設・設備・環境整備委員会規則は、委員会の設置・審議事項・委員構成・運営に関する規定を定めるものです。",
-      "order": 28,
+      "order": 29,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/12/c72ce5bbbbb026c5921862f2aa2d1bf3.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -573,7 +583,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校の環境に関する基本方針",
       "summary": "和歌山工業高等専門学校は、環境負荷低減と地域共生を目指し、教育・研究を通じて環境保全に積極的に取り組む基本方針を定めた。",
-      "order": 29,
+      "order": 30,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/12/c9e7fd687b3d3258597ca59c17c98f82.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -583,7 +593,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校専攻科担当教員基準",
       "summary": "和歌山工業高等専門学校専攻科担当教員の資格・認定・再認定に関する基準を定めた規定です。",
-      "order": 30,
+      "order": 31,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/e1308850bbc745593d607f77681f9328.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -593,7 +603,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校教職員表彰規則",
       "summary": "和歌山工業高等専門学校の教職員表彰規則の制定・改正と、表彰基準・候補者推薦・決定手続きに関する規定です。",
-      "order": 31,
+      "order": 32,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/04/eac9749bbd9a14bd0e139750aea56a81.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -603,7 +613,7 @@
       "chapterId": "chapter-002",
       "title": "長期出張等の手続きに関する申し合わせについて",
       "summary": "長期出張等の承認手続きに関する申し合わせです",
-      "order": 32,
+      "order": 33,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/37tyoukisyuttyou.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -613,7 +623,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校教職員支援機構研修員受入規則",
       "summary": "和歌山工業高等専門学校における教職員支援機構研修員の受入手続き・期間・報酬等を定めた規則です",
-      "order": 33,
+      "order": 34,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/38kyousyokuinsienkikou.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -623,7 +633,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校ロボット教育センター規則",
       "summary": "和歌山工業高等専門学校のロボット教育センターの設置目的、業務内容、組織構成、運営会議・委員長の役割、事務処理等を定めた規則です",
-      "order": 34,
+      "order": 35,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/39robotkyouikusenta.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -633,7 +643,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校国際交流会館管理運営規則",
       "summary": "国際交流会館の管理・運営規則で、利用者の対象・予約手続き・使用時間・料金・利用規範・責任者の権限などを定め、会館の運営と利用者の行動規範を明文化したものです。",
-      "order": 35,
+      "order": 36,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/40kisokukokusaikouryuukaikan2.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -643,7 +653,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業校等専門学校危機管理規則",
       "summary": "和歌山工業高等専門学校の危機管理規則で、危機事象への対処体制・手順を定め、リスク管理室と対策本部の組織・権限を明示しています。",
-      "order": 36,
+      "order": 37,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/e58ad296b73e4cfb316c2ca7cb5ed855.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
@@ -653,7 +663,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校サイバーセキュリティ管理規則",
       "summary": "和歌山工業高等専門学校の情報セキュリティ管理規則で、情報システムの利用・保護・教育・インシデント対応等を詳細に定めるもの。",
-      "order": 37,
+      "order": 38,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/14796a999e4b9f1583712f0c664acb74.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -663,7 +673,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校サイバーセキュリティ利用者規程",
       "summary": "和歌山工業高等専門学校の情報システム利用者に対するサイバーセキュリティ規程です",
-      "order": 38,
+      "order": 39,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/43cybersecurity_riyousha.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -673,7 +683,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校における人を対象とする研究倫理に関する規程",
       "summary": "和歌山工業高等専門学校における人を対象とする研究の倫理規程で、研究者の責務・被験者の同意取得・個人情報保護・研究倫理委員会設置等を定めるものです。",
-      "order": 39,
+      "order": 40,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/39f52f986a773321ce3d37d593e920b9.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -683,7 +693,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校研究倫理委員会規則",
       "summary": "和歌山工業高等専門学校の研究倫理委員会の組織・運営・審査手続きに関する規則です。",
-      "order": 40,
+      "order": 41,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/04/72958101bda0956ebe0ef948107e5160.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -693,7 +703,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校における学生及び教職員の安否確認に関する要項",
       "summary": "和歌山工業高等専門学校の学生・教職員の安否確認手順と責任体制を定めた要項です。",
-      "order": 41,
+      "order": 42,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/04/a70381b51484dcaad7d6bc1c29e638b0.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -703,7 +713,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校ダイバーシティ推進室規則",
       "summary": "和歌山工業高等専門学校ダイバーシティ推進室の設置・業務・組織を定める規則です。",
-      "order": 42,
+      "order": 43,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/dfd86a792631bc7ac510926610f04c74.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -713,7 +723,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校教育研究支援基金規則",
       "summary": "<|end|><|start|>assistant<|channel|>final<|message|>{",
-      "order": 43,
+      "order": 44,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/1a980addc31051c093e11ac220c24efc.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
@@ -723,7 +733,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校におけるハラスメント防止委員会規則",
       "summary": "和歌山工業高等専門学校におけるハラスメント防止委員会の設置・構成・業務と相談・調査体制を定めた規則です",
-      "order": 44,
+      "order": 45,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/49-1harassment.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -733,7 +743,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校ハラスメント防止ガイドライン",
       "summary": "和歌山工業高等専門学校のハラスメント防止ガイドラインは、教職員・学生を対象にハラスメントの定義・種類・予防・相談・対処手続き・教育活動を定め、迅速かつ公正な解決を図るものです。",
-      "order": 45,
+      "order": 46,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/49-2harassment-guideline.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -743,7 +753,7 @@
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校情報管理室規則",
       "summary": "和歌山工業高等専門学校情報管理室の設置・組織・業務内容を定めた規則です",
-      "order": 46,
+      "order": 47,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/7443b721256585eb08e59a6f16ec07bc.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -929,11 +939,21 @@
       "lastUpdated": null
     },
     {
+      "id": "rule-0197",
+      "chapterId": "chapter-003",
+      "title": "和歌山工業高等専門学校高圧ガス管理要項",
+      "summary": "本要項は高圧ガスの適正管理と事故防止を目的とする。",
+      "order": 19,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/04/5ff48cc8c4373bea70ae97f982de9801.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-04-09T18:22:19.439063+00:00"
+    },
+    {
       "id": "rule-0071",
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校感謝状贈呈規則",
       "summary": "和歌山工業高等専門学校の感謝状贈呈規則は、感謝状の贈呈事由、推薦・選考・贈呈手続、事務担当課、施行日等を定めたものです。",
-      "order": 19,
+      "order": 20,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/01/b04846ddd1dc00d4b238028b1ec05f54.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -943,7 +963,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校サイバーセキュリティ教職員規程",
       "summary": "和歌山工業高等専門学校の教職員が情報セキュリティを守るための規程です。",
-      "order": 20,
+      "order": 21,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/70cybersecurity_kyoushokuin.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -953,7 +973,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校サイバーセキュリティ推進規則",
       "summary": "和歌山工業高等専門学校の情報セキュリティ対策に関する規則で、システムライフサイクルやアクセス制御、アカウント管理等を定め、情報保護を目的とする。",
-      "order": 21,
+      "order": 22,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/71cybersecurity_suishin.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -963,7 +983,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校要機密情報の格付け並びに要機密情報及び要機密情報を含む記録媒体の持ち出しに関する要領",
       "summary": "和歌山工業高等専門学校の要機密情報の格付けと、外部へ持ち出す際の手続き・安全管理に関する規定です。",
-      "order": 22,
+      "order": 23,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/71-2yokimitujoho.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -973,7 +993,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校規則の種類及び制定等に関する規則",
       "summary": "和歌山工業高等専門学校における規則の種類、制定手続き、形式等を定めた規則です。",
-      "order": 23,
+      "order": 24,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/72kisoku-syurui.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -983,7 +1003,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校校章、ロゴマーク及びスクールカラー等に関する規則",
       "summary": "和歌山工業高等専門学校の校章・ロゴマーク・スクールカラーの使用に関する規則です。",
-      "order": 24,
+      "order": 25,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/73_rogomarketc.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -993,7 +1013,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校における健康情報等の取扱規程",
       "summary": "和歌山工業高等専門学校の教職員の健康情報の収集・保管・利用・開示等に関する規定です。",
-      "order": 25,
+      "order": 26,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/74kenkoujouhoutoriatukaikitei.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1003,7 +1023,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校個人情報管理規則",
       "summary": "和歌山工業高等専門学校の個人情報管理規則と担当者配置を定めた規則です",
-      "order": 26,
+      "order": 27,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/75kojinjyouhou.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1013,7 +1033,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校の競争的研究費の直接経費からの研究以外の業務代行に係る経費の支出（バイアウト制度）に係る実施要項",
       "summary": "和歌山工業高等専門学校における競争的研究費の直接経費から研究以外の業務代行に係る経費支出（バイアウト制度）の実施要項を定め、申請手続きや条件、上限金額などを規定している。",
-      "order": 27,
+      "order": 28,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/76baiauto.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1023,7 +1043,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校外国人研究員受入規則",
       "summary": "和歌山工業高等専門学校の外国人研究員受入規則の概要です",
-      "order": 28,
+      "order": 29,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/kisoku76-2.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1033,7 +1053,7 @@
       "chapterId": "chapter-003",
       "title": "安全保障輸出管理規程",
       "summary": "和歌山工業高等専門学校の安全保障輸出管理規程で、管理責任者・委員会・管理室の構成と、輸出時の事前確認・取引審査の手順を定めるものです。",
-      "order": 29,
+      "order": 30,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/kisokuanzenhosyouR50330.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1043,7 +1063,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校公式 SNS アカウント運用手順",
       "summary": "公式SNSアカウントの配信手順と管理ルールを定めた運用手順書です。",
-      "order": 30,
+      "order": 31,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/R51020wakayamakousenkousikiSNSunnyoutejun.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1053,7 +1073,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校公式ソーシャルネットワーキングサービス運用要項",
       "summary": "公式公式公式",
-      "order": 31,
+      "order": 32,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/81e16bfb51343ec4111b838fc21f8ead.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"
@@ -1063,7 +1083,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校共催・後援等名義使用規程",
       "summary": "和歌山工業高等専門学校の名義使用に関する規程で、共催・後援等の条件・申請・許可・遵守事項を定めている。",
-      "order": 32,
+      "order": 33,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/06/59d9461257ac2ae0bf77a5e19a6c74f6.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1073,7 +1093,7 @@
       "chapterId": "chapter-003",
       "title": "情報セキュリティインシデントに対応するための情報ネットワークシステムの停止及び再開に関する取扱いについて",
       "summary": "情報セキュリティインシデント発生時に情報ネットワークシステムを停止し、問題解決後に再開する手順を定めた取扱いです。",
-      "order": 33,
+      "order": 34,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/04/c3bebfc2030da7a56d41701cbefaa6d9.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1083,7 +1103,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校スキルサポート講座実施規則",
       "summary": "和歌山工業高等専門学校のスキルサポート講座実施規則の概要を示す。",
-      "order": 34,
+      "order": 35,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/05/fbbe7f50a4a671e9b5181a8e515ee362.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1093,7 +1113,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校における勤務時間外に大規模災害が発生した場合の緊急対応に関する申合せ",
       "summary": "勤務時間外に大規模災害が発生した際の緊急参集体制と対応手順を定めた申合せです。",
-      "order": 35,
+      "order": 36,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/05/d6f6585e2a21d2b6518717cd8ed0c405.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1103,7 +1123,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校情報セキュリティインシデント対応規程",
       "summary": "和歌山工業高等専門学校の情報セキュリティインシデント対応規程で、W‑CSIRTの組織・業務・権限・体制を定め、インシデント発生時の迅速な対応と再発防止を目的とする。",
-      "order": 36,
+      "order": 37,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/05/a2bff7356f514e3cefd1088b6f7d978a.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1113,7 +1133,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校における意見箱の運用方針",
       "summary": "本校の意見箱の運用方針を定め、投書の方法・禁止行為・回答・公開等について規定する。",
-      "order": 37,
+      "order": 38,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/02/5b64c18c767e4d890fb13bb5a15982cd.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-02-18T17:31:32.592264+00:00"
@@ -1123,7 +1143,7 @@
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校身分証明書規程",
       "summary": "和歌山工業高等専門学校の身分証明書の発行・管理・再交付に関する規程です",
-      "order": 38,
+      "order": 39,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/07/1353f8d91e814edd421fe59eb762b9f2.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1939,31 +1959,11 @@
       "lastUpdated": null
     },
     {
-      "id": "rule-0186",
-      "chapterId": "chapter-008",
-      "title": "和歌山工業高等専門学校学寮管理運営規則",
-      "summary": "この規則は、和歌山工業高等専門学校における学寮の管理運営について必要な事項を定め、その円滑かつ適正な運用を図ることを目的とする。",
-      "order": 1,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/04/73de98e47979f10f69b713bba75660dc.pdf",
-      "sourcePage": null,
-      "lastUpdated": "2026-04-08T17:33:21.022222+00:00"
-    },
-    {
-      "id": "rule-0185",
-      "chapterId": "chapter-008",
-      "title": "和歌山工業高等専門学校学寮委員会規則",
-      "summary": "和歌山工業高等専門学校の学寮委員会の組織・任期・職務等を定めた規則です。",
-      "order": 2,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/01/4fb2dda78b772bd73e3c91827a23a217.pdf",
-      "sourcePage": null,
-      "lastUpdated": "2026-01-31T04:50:08.881298+00:00"
-    },
-    {
       "id": "rule-0169",
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮規則",
       "summary": "和歌山工業高等専門学校の学寮に関する管理・運営規則で、寮生の配置・日課・健康・行事・禁止事項・欠食等の詳細を定めたものです。",
-      "order": 3,
+      "order": 1,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/cdbb8c4c5af359e054324c8694325f5d.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1973,7 +1973,7 @@
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮宿日直規則",
       "summary": "和歌山工業高等専門学校の学寮における宿日直の勤務区分・時間・職務内容・割当て方法などを定めた規則です。",
-      "order": 4,
+      "order": 2,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/191kisokuryouR50401.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1983,7 +1983,7 @@
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮宿日直割当に関する取扱要項",
       "summary": "和歌山工業高等専門学校の学寮宿日直の割当方法と免除規定を定めた要項です。",
-      "order": 5,
+      "order": 3,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/192kisokuryouR50401.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1993,7 +1993,7 @@
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校宿直業務要項",
       "summary": "和歌山工業高等専門学校の寮宿直業務要項で、検食・巡回・点呼・トラブル対応などの業務内容と勤務時間・場所を定めたものです。",
-      "order": 6,
+      "order": 4,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/f84d081c6369ebfe7b5bc79afb8432e2.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -2003,7 +2003,7 @@
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校日直業務要項",
       "summary": "和歌山工業高等専門学校の寮日直業務の手順・責務を示した要項です。",
-      "order": 7,
+      "order": 5,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/21bead8bfe657120c5b768b0e9e6ec2f.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -2013,7 +2013,7 @@
       "chapterId": "chapter-008",
       "title": "和歌山工業高等専門学校学寮指導業務要項",
       "summary": "和歌山工業高等専門学校の学寮指導業務の概要と具体的な勤務時間・業務内容を示した要項です。",
-      "order": 8,
+      "order": 6,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/09/919b56fb77ed52ac064de94000b5ed37.pdf",
       "sourcePage": null,
       "lastUpdated": null

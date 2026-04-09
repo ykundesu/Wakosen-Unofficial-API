@@ -2,7 +2,7 @@
   "id": "rule-0085",
   "chapterId": "chapter-003",
   "title": "情報セキュリティインシデントに対応するための情報ネットワークシステムの停止及び再開に関する取扱いについて",
-  "order": 33,
+  "order": 34,
   "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2024/04/c3bebfc2030da7a56d41701cbefaa6d9.pdf",
   "summary": "情報セキュリティインシデント発生時に情報ネットワークシステムを停止し、問題解決後に再開する手順を定めた取扱いです。",
   "sourcePage": null,
