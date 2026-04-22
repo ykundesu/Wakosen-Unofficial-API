@@ -4,7 +4,7 @@
       "day": 0,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "分析化学",
           "teacher": "岸本"
@@ -13,7 +13,7 @@
           "start": "10:35",
           "end": "12:05",
           "name": "日本語",
-          "teacher": "新任教員"
+          "teacher": "李(俊)"
         },
         {
           "start": "14:35",
@@ -27,7 +27,7 @@
       "day": 1,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "生物応用化学概論",
           "teacher": "森田/舟浴/矢野"
@@ -35,7 +35,7 @@
         {
           "start": "10:35",
           "end": "12:05",
-          "name": "数学III β",
+          "name": "数学IIIβ",
           "teacher": "津野"
         },
         {
@@ -50,7 +50,7 @@
       "day": 2,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "物理化学",
           "teacher": "西本"
@@ -70,13 +70,13 @@
         {
           "start": "14:35",
           "end": "15:25",
-          "name": "H. R. (50分)",
-          "teacher": null
+          "name": "H.R.(50分)",
+          "teacher": "楠部"
         },
         {
           "start": "15:25",
           "end": "16:05",
-          "name": "日本事情(40分)",
+          "name": "日本事情",
           "teacher": "庄田"
         }
       ]
@@ -85,7 +85,7 @@
       "day": 3,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "情報処理",
           "teacher": "森田"
@@ -99,7 +99,7 @@
         {
           "start": "12:55",
           "end": "14:25",
-          "name": "数学III α",
+          "name": "数学IIIα",
           "teacher": "濱田"
         },
         {
@@ -114,7 +114,7 @@
       "day": 4,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "有機化学",
           "teacher": "河地"
