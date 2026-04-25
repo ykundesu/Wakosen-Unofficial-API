@@ -41,6 +41,23 @@
       ]
     },
     {
+      "day": 2,
+      "classes": [
+        {
+          "start": "10:35",
+          "end": "12:05",
+          "name": "応用ディジタル回路",
+          "teacher": "岡本"
+        },
+        {
+          "start": "12:55",
+          "end": "14:25",
+          "name": "特別研究",
+          "teacher": null
+        }
+      ]
+    },
+    {
       "day": 3,
       "classes": [
         {
