@@ -511,7 +511,7 @@ paths:
           schema:
             type: integer
           example: 2025
-          description: 学年度（例: 2025）
+          description: "学年度（例: 2025）"
       responses:
         '200':
           description: 寮イベントデータが正常に取得された場合
