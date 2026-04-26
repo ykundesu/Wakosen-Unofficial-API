@@ -1,101 +1,101 @@
 {
   "data": [
     {
-      "day": 0,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "化学反応論",
+          "start": "10:35",
           "teacher": "西本"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "地域環境工学",
+          "start": "12:55",
           "teacher": "平野(廣)"
         },
         {
-          "start": "14:35",
           "end": "16:05",
           "name": "工学特別ゼミナール",
+          "start": "14:35",
           "teacher": null
         }
-      ]
+      ],
+      "day": 0
     },
     {
-      "day": 1,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "社会基盤計画学",
+          "start": "10:35",
           "teacher": "伊勢"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "特別研究",
+          "start": "12:55",
           "teacher": null
         }
-      ]
+      ],
+      "day": 1
     },
     {
-      "day": 2,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "有機機能材料",
+          "start": "10:35",
           "teacher": "舟浴"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "特別研究",
+          "start": "12:55",
           "teacher": null
         }
-      ]
+      ],
+      "day": 2
     },
     {
-      "day": 3,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "生体高分子",
+          "start": "08:55",
           "teacher": "矢野"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "建設設計工学",
+          "start": "10:35",
           "teacher": "林(和)/山田"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "連続体力学",
+          "start": "12:55",
           "teacher": "孝森"
         }
-      ]
+      ],
+      "day": 3
     },
     {
-      "day": 4,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "テクニカルライティング",
+          "start": "10:35",
           "teacher": "Grady"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "現代アジア論",
+          "start": "12:55",
           "teacher": "赤崎"
         }
-      ]
+      ],
+      "day": 4
     }
   ]
 }

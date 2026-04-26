@@ -1,95 +1,95 @@
 {
   "data": [
     {
-      "day": 0,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "材料科学",
+          "start": "08:55",
           "teacher": "樫原"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "環境化学工学",
+          "start": "10:35",
           "teacher": "森田"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "数理工学",
-          "teacher": "新任教員"
+          "start": "12:55",
+          "teacher": "高橋(知)"
         },
         {
-          "start": "14:35",
           "end": "16:05",
           "name": "工学特別ゼミナール",
+          "start": "14:35",
           "teacher": null
         }
-      ]
+      ],
+      "day": 0
     },
     {
-      "day": 1,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "数理統計学",
+          "start": "08:55",
           "teacher": "伊勢"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "英語 I",
+          "start": "10:35",
           "teacher": "志村"
         }
-      ]
+      ],
+      "day": 1
     },
     {
-      "day": 2,
       "classes": [
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "特別研究",
+          "start": "12:55",
           "teacher": null
         }
-      ]
+      ],
+      "day": 2
     },
     {
-      "day": 3,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "ビジネスコミュニケーション",
+          "start": "08:55",
           "teacher": "和田"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "線形代数",
+          "start": "10:35",
           "teacher": "津野"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "現代物理学",
+          "start": "12:55",
           "teacher": "高橋(浩)"
         }
-      ]
+      ],
+      "day": 3
     },
     {
-      "day": 4,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "工学特別実験",
+          "start": "08:55",
           "teacher": "李(政)/神保/竹下/中嶋/西本/舟浴/伊勢/平野(廣)"
         }
-      ]
+      ],
+      "day": 4
     }
   ]
 }

@@ -4,7 +4,7 @@
       "day": 0,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "熱力学",
           "teacher": "神保"
@@ -13,7 +13,7 @@
           "start": "10:35",
           "end": "12:05",
           "name": "日本語",
-          "teacher": "新任教員"
+          "teacher": "李(俊)"
         },
         {
           "start": "12:55",
@@ -70,13 +70,13 @@
         {
           "start": "14:35",
           "end": "15:25",
-          "name": "H. R. (50分)",
-          "teacher": null
+          "name": "H.R.(50分)",
+          "teacher": "長谷川"
         },
         {
           "start": "15:25",
           "end": "16:05",
-          "name": "日本事情(40分)",
+          "name": "日本事情",
           "teacher": "庄田"
         }
       ]
@@ -85,9 +85,9 @@
       "day": 3,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
-          "name": "電子制御 I",
+          "name": "電子制御I",
           "teacher": "溝川"
         },
         {
@@ -114,7 +114,7 @@
       "day": 4,
       "classes": [
         {
-          "start": "8:55",
+          "start": "08:55",
           "end": "10:25",
           "name": "英文法",
           "teacher": "岡村"

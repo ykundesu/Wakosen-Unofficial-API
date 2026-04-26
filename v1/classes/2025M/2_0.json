@@ -1,95 +1,95 @@
 {
   "data": [
     {
-      "day": 0,
       "classes": [
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "電気電子工学特論",
+          "start": "12:55",
           "teacher": "直井"
         },
         {
-          "start": "14:35",
           "end": "16:05",
           "name": "工学特別ゼミナール",
+          "start": "14:35",
           "teacher": null
         }
-      ]
+      ],
+      "day": 0
     },
     {
-      "day": 1,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "信号処理理論",
+          "start": "08:55",
           "teacher": "岩崎"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "創造プログラミング",
+          "start": "10:35",
           "teacher": "岩崎"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "特別研究",
+          "start": "12:55",
           "teacher": null
         }
-      ]
+      ],
+      "day": 1
     },
     {
-      "day": 2,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "応用ディジタル回路",
+          "start": "10:35",
           "teacher": "岡本"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "特別研究",
+          "start": "12:55",
           "teacher": null
         }
-      ]
+      ],
+      "day": 2
     },
     {
-      "day": 3,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "ロボット工学",
+          "start": "10:35",
           "teacher": "村山"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "熱流体工学",
+          "start": "12:55",
           "teacher": "大村"
         }
-      ]
+      ],
+      "day": 3
     },
     {
-      "day": 4,
       "classes": [
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "テクニカルライティング",
+          "start": "10:35",
           "teacher": "Grady"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "現代アジア論",
+          "start": "12:55",
           "teacher": "赤崎"
         }
-      ]
+      ],
+      "day": 4
     }
   ]
 }

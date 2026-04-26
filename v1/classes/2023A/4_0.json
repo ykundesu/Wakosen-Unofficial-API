@@ -1,113 +1,113 @@
 {
   "data": [
     {
-      "day": 0,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
-          "name": "政治·経済(学修単位)",
+          "name": "政治・経済(学修単位)",
+          "start": "08:55",
           "teacher": "藤野"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "電子制御II",
+          "start": "10:35",
           "teacher": "村山"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "英語",
+          "start": "12:55",
           "teacher": "李(クリス)"
         }
-      ]
+      ],
+      "day": 0
     },
     {
-      "day": 1,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "流体力学",
+          "start": "08:55",
           "teacher": "李(政)"
         },
         {
-          "start": "10:35",
           "end": "12:05",
-          "name": "保健·体育",
+          "name": "保健・体育",
+          "start": "10:35",
           "teacher": "芥河/桑原/中出"
         },
         {
-          "start": "12:55",
           "end": "15:15",
           "name": "機械工学実験(140分)",
+          "start": "12:55",
           "teacher": "山東 他"
         }
-      ]
+      ],
+      "day": 1
     },
     {
-      "day": 2,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "工業熱力学",
+          "start": "08:55",
           "teacher": "大村"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "自動制御",
+          "start": "10:35",
           "teacher": "村山"
         },
         {
-          "start": "12:55",
           "end": "14:25",
           "name": "情報処理",
+          "start": "12:55",
           "teacher": "長谷川"
         },
         {
-          "start": "14:35",
           "end": "16:05",
           "name": "企業実践講座(学修単位)",
+          "start": "14:35",
           "teacher": null
         }
-      ]
+      ],
+      "day": 2
     },
     {
-      "day": 3,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "応用数学",
+          "start": "08:55",
           "teacher": "大村"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "第2外国語I",
+          "start": "10:35",
           "teacher": "阿部/志村/Grady"
         }
-      ]
+      ],
+      "day": 3
     },
     {
-      "day": 4,
       "classes": [
         {
-          "start": "08:55",
           "end": "10:25",
           "name": "機械設計法(学修単位)",
+          "start": "08:55",
           "teacher": "原(圭)"
         },
         {
-          "start": "10:35",
           "end": "12:05",
           "name": "材料学(学修単位)",
+          "start": "10:35",
           "teacher": "樫原"
         }
-      ]
+      ],
+      "day": 4
     }
   ]
 }
