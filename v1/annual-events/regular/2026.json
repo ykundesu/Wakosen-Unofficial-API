@@ -1,0 +1,1380 @@
+{
+  "academicYear": 2026,
+  "course": "regular",
+  "source": {
+    "pageUrl": "https://www.wakayama-nct.ac.jp/about/profile/calendar/",
+    "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/04/8f331c2fcb785ce78228d4b466326422.pdf",
+    "pdfHash": "76f9292d64672109b1c27d72c991f2e478a1a09a5d29538c7e75986178d0e846",
+    "generatedAt": "2026-05-12T18:41:33+09:00"
+  },
+  "monthlyEvents": [
+    {
+      "month": 1,
+      "events": [
+        {
+          "name": "高専シンポジウム",
+          "category": "meeting",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "元日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2027-01-01",
+              "endDate": null,
+              "raw": "1/1 元日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "学校長推薦入試（登校禁止）",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2027-01-05",
+              "endDate": null,
+              "raw": "1/5 学校長推薦入試（登校禁止）"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "開寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2027-01-11",
+              "endDate": null,
+              "raw": "1/11"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "成人の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2027-01-11",
+              "endDate": null,
+              "raw": "1/11 成人の日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "体験実習入試（登校禁止）",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2027-01-16",
+              "endDate": null,
+              "raw": "1/16 体験実習入試（登校禁止）"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "月曜授業",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2027-01-21",
+              "endDate": null,
+              "raw": "1/21 月曜授業"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "学生総会",
+          "category": "meeting",
+          "dates": [
+            {
+              "date": "2027-01-21",
+              "endDate": null,
+              "raw": "学生総会(1/21)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "英語プレコン全国大会",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2027-01-23",
+              "endDate": "2027-01-24",
+              "raw": "英語プレコン全国大会(1/23,24)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 2,
+      "events": [
+        {
+          "name": "期末試験",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2027-02-08",
+              "endDate": "2027-02-12",
+              "raw": "2/8-2/12 期末試験"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "建国記念の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2027-02-11",
+              "endDate": null,
+              "raw": "2/11"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "学力検査入試・帰国生徒特別選抜入試（登校禁止）",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2027-02-14",
+              "endDate": null,
+              "raw": "2/14 学力検査入試・帰国生徒特別選抜入試（登校禁止）"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "予備日",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2027-02-15",
+              "endDate": null,
+              "raw": "2/15 予備日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "学力検査入試追試日（登校禁止）",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2027-02-21",
+              "endDate": null,
+              "raw": "2/21 学力検査入試 追試日（登校禁止）"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "天皇誕生日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2027-02-23",
+              "endDate": null,
+              "raw": "2/23"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "終業式",
+          "category": "ceremony",
+          "dates": [
+            {
+              "date": "2027-02-24",
+              "endDate": null,
+              "raw": "2/24 終業式"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "追試・再試日",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2027-02-24",
+              "endDate": "2027-02-26",
+              "raw": "2/24-2/26 追試・再試日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 3,
+      "events": [
+        {
+          "name": "上海電機学院短期留学生入学手続説明会",
+          "category": "international",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "成績判定会",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2027-03-08",
+              "endDate": null,
+              "raw": "3/8 成績判定会"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "春分の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2027-03-21",
+              "endDate": null,
+              "raw": "3/21"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "卒業式・修了式",
+          "category": "ceremony",
+          "dates": [
+            {
+              "date": "2027-03-22",
+              "endDate": null,
+              "raw": "3/22 卒業式・修了式"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "閉寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2027-03-22",
+              "endDate": null,
+              "raw": "3/22"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 4,
+      "events": [
+        {
+          "name": "ウェルカムパーティー",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "寮生避難訓練",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "指導寮生任命式・研修会",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "代議員会",
+          "category": "meeting",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "クラブ紹介",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "スタディーサポート",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "救命救急講習会",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "入学式・入寮式",
+          "category": "ceremony",
+          "dates": [
+            {
+              "date": "2026-04-05",
+              "endDate": null,
+              "raw": "4/5"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "開寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2026-04-05",
+              "endDate": null,
+              "raw": "4/5"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "始業式・健康診断",
+          "category": "ceremony",
+          "dates": [
+            {
+              "date": "2026-04-06",
+              "endDate": null,
+              "raw": "4/6"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "新入生オリエンテーション",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2026-04-17",
+              "endDate": null,
+              "raw": "4/17"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "創立記念日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-04-20",
+              "endDate": null,
+              "raw": "4/20、創立記念日(20日)"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell",
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "昭和の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-04-29",
+              "endDate": null,
+              "raw": "4/29"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 5,
+      "events": [
+        {
+          "name": "消防避難訓練",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "近畿地区高専体育大会",
+          "category": "sports",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "水曜授業",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2026-05-01",
+              "endDate": null,
+              "raw": "5/1 水曜授業"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "閉寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2026-05-01",
+              "endDate": null,
+              "raw": "5/1"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "憲法記念日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-05-03",
+              "endDate": null,
+              "raw": "5/3"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "みどりの日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-05-04",
+              "endDate": null,
+              "raw": "5/4"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "こどもの日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-05-05",
+              "endDate": null,
+              "raw": "5/5"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "開寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2026-05-06",
+              "endDate": null,
+              "raw": "5/6"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "振替休日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-05-06",
+              "endDate": null,
+              "raw": "5/6"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "月曜授業",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2026-05-07",
+              "endDate": null,
+              "raw": "5/7 月曜授業"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "授業参観期間",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2026-05-08",
+              "endDate": "2026-05-15",
+              "raw": "5/8-5/15"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "学生総会",
+          "category": "meeting",
+          "dates": [
+            {
+              "date": "2026-05-14",
+              "endDate": null,
+              "raw": "学生総会(5/14)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "地域産業懇談会",
+          "category": "meeting",
+          "dates": [
+            {
+              "date": "2026-05-16",
+              "endDate": null,
+              "raw": "地域産業懇談会(5/16)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "体育大会",
+          "category": "sports",
+          "dates": [
+            {
+              "date": "2026-05-20",
+              "endDate": null,
+              "raw": "5/20"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 6,
+      "events": [
+        {
+          "name": "学生エレベータ大会",
+          "category": "contest",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "TOEIC IPテスト",
+          "category": "exam",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "高校総体",
+          "category": "sports",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "水曜授業",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2026-06-08",
+              "endDate": null,
+              "raw": "6/8 水曜授業"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "一般科目試験期間",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2026-06-09",
+              "endDate": "2026-06-10",
+              "raw": "6/9-6/10 一般科目試験期間"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 7,
+      "events": [
+        {
+          "name": "科学体験フェア",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "近畿地区高専大会",
+          "category": "sports",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "海の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-07-20",
+              "endDate": null,
+              "raw": "7/20"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "期末試験",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2026-07-27",
+              "endDate": "2026-07-30",
+              "raw": "7/27-7/30 期末試験"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "編入学試験（登校禁止）",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2026-07-31",
+              "endDate": null,
+              "raw": "7/31 編入学試験（登校禁止）"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 8,
+      "events": [
+        {
+          "name": "全学停電（法定点検）",
+          "category": "other",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "オープンキャンパス",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2026-08-08",
+              "endDate": null,
+              "raw": "8/8"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "山の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-08-10",
+              "endDate": null,
+              "raw": "8/10"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "一斉休業日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-08-11",
+              "endDate": "2026-08-14",
+              "raw": "8/11-8/14 一斉休業日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "全国高専大会（ラグビー除く）",
+          "category": "sports",
+          "dates": [
+            {
+              "date": "2026-08-21",
+              "endDate": "2026-09-06",
+              "raw": "全国高専大会（ラグビー除く）(8/21-9/6)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "events": [
+        {
+          "name": "部屋替",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "成績判定会",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2026-09-02",
+              "endDate": null,
+              "raw": "9/2 成績判定会"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "敬老の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-09-21",
+              "endDate": null,
+              "raw": "9/21"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "国民の休日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-09-22",
+              "endDate": null,
+              "raw": "9/22"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "秋分の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-09-23",
+              "endDate": null,
+              "raw": "9/23"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "開寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2026-09-30",
+              "endDate": null,
+              "raw": "9/30"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 10,
+      "events": [
+        {
+          "name": "寮祭",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "指導寮生任命式・研修会",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "学校説明会",
+          "category": "admission",
+          "dates": [
+            {
+              "date": "2026-10-10",
+              "endDate": null,
+              "raw": "10/10 学校説明会"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "ロボコンジョイントコンテスト",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2026-10-10",
+              "endDate": "2026-10-11",
+              "raw": "ロボコンジョイントコンテスト(10/10,11)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "ロボコン近畿地区大会",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2026-10-11",
+              "endDate": null,
+              "raw": "ロボコン近畿地区大会(10/11)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "スポーツの日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-10-12",
+              "endDate": null,
+              "raw": "10/12"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 11,
+      "events": [
+        {
+          "name": "英語プレコン近畿地区大会",
+          "category": "contest",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "入寮説明会",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "指導寮生研修会（他高専訪問）",
+          "category": "dormitory",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "文化の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-11-03",
+              "endDate": null,
+              "raw": "11/3"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "高専祭準備",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2026-11-05",
+              "endDate": null,
+              "raw": "11/5 高専祭準備"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "高専祭",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2026-11-06",
+              "endDate": "2026-11-08",
+              "raw": "11/6-11/8 高専祭"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "デザインコンペティション",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2026-11-07",
+              "endDate": "2026-11-08",
+              "raw": "デザインコンペティション(11/7,8)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "予備日",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2026-11-09",
+              "endDate": null,
+              "raw": "11/9 予備日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "ロボコン全国大会",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2026-11-15",
+              "endDate": null,
+              "raw": "ロボコン全国大会(11/15)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "勤労感謝の日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-11-23",
+              "endDate": null,
+              "raw": "11/23"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "月曜授業",
+          "category": "class",
+          "dates": [
+            {
+              "date": "2026-11-25",
+              "endDate": null,
+              "raw": "11/25 月曜授業"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    },
+    {
+      "month": 12,
+      "events": [
+        {
+          "name": "TOEIC IPテスト",
+          "category": "exam",
+          "dates": [],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "一般科目試験期間",
+          "category": "exam",
+          "dates": [
+            {
+              "date": "2026-12-03",
+              "endDate": "2026-12-04",
+              "raw": "12/3-12/4 一般科目試験期間"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "行事日",
+          "category": "other",
+          "dates": [
+            {
+              "date": "2026-12-07",
+              "endDate": "2026-12-09",
+              "raw": "12/7-12/9 行事日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "ロボットフェスティバル",
+          "category": "contest",
+          "dates": [
+            {
+              "date": "2026-12-20",
+              "endDate": null,
+              "raw": "ロボットフェスティバル(12/20)"
+            }
+          ],
+          "sourceTypes": [
+            "monthly_note"
+          ]
+        },
+        {
+          "name": "閉寮",
+          "category": "dormitory",
+          "dates": [
+            {
+              "date": "2026-12-25",
+              "endDate": null,
+              "raw": "12/25"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        },
+        {
+          "name": "一斉休業日",
+          "category": "holiday",
+          "dates": [
+            {
+              "date": "2026-12-28",
+              "endDate": null,
+              "raw": "12/28 一斉休業日"
+            }
+          ],
+          "sourceTypes": [
+            "day_cell"
+          ]
+        }
+      ]
+    }
+  ],
+  "longVacations": [
+    {
+      "name": "ゴールデンウィーク休業",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-06",
+      "closeDormDate": "2026-05-01",
+      "openDormDate": "2026-05-06",
+      "status": "complete",
+      "sourceEventNames": [
+        "閉寮",
+        "開寮"
+      ]
+    },
+    {
+      "name": "冬季休業",
+      "startDate": "2026-12-25",
+      "endDate": "2027-01-11",
+      "closeDormDate": "2026-12-25",
+      "openDormDate": "2027-01-11",
+      "status": "complete",
+      "sourceEventNames": [
+        "閉寮",
+        "開寮"
+      ]
+    },
+    {
+      "name": "春季休業",
+      "startDate": "2027-03-22",
+      "endDate": null,
+      "closeDormDate": "2027-03-22",
+      "openDormDate": null,
+      "status": "incomplete",
+      "sourceEventNames": [
+        "閉寮"
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "name": "一般科目試験期間",
+      "startDate": "2026-06-09",
+      "endDate": "2026-06-10",
+      "category": "general",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "期末試験",
+      "startDate": "2026-07-27",
+      "endDate": "2026-07-30",
+      "category": "term_end",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "成績判定会",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-02",
+      "category": "grade_decision",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "一般科目試験期間",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "category": "general",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "期末試験",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-12",
+      "category": "term_end",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "追試・再試日",
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-26",
+      "category": "makeup",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "name": "成績判定会",
+      "startDate": "2027-03-08",
+      "endDate": "2027-03-08",
+      "category": "grade_decision",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    }
+  ],
+  "specialClassDays": [
+    {
+      "date": "2026-05-01",
+      "actualWeekday": "fri",
+      "classWeekday": "wed",
+      "label": "水曜授業",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "actualWeekday": "thu",
+      "classWeekday": "mon",
+      "label": "月曜授業",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "actualWeekday": "mon",
+      "classWeekday": "wed",
+      "label": "水曜授業",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "actualWeekday": "wed",
+      "classWeekday": "mon",
+      "label": "月曜授業",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    },
+    {
+      "date": "2027-01-21",
+      "actualWeekday": "thu",
+      "classWeekday": "mon",
+      "label": "月曜授業",
+      "sourceTypes": [
+        "day_cell"
+      ]
+    }
+  ]
+}
