@@ -1,0 +1,205 @@
+{
+  "academic_year": 2026,
+  "events": [
+    {
+      "date": "04/05",
+      "grade": null,
+      "name": "開寮（在校生）"
+    },
+    {
+      "date": "04/05",
+      "grade": 1,
+      "name": "入寮式、生活指導（1年生）"
+    },
+    {
+      "date": "04/09",
+      "grade": null,
+      "name": "寮生避難訓練"
+    },
+    {
+      "date": "04/10",
+      "grade": null,
+      "name": "指導寮生任命式"
+    },
+    {
+      "date": "04/13",
+      "grade": null,
+      "name": "生活指導（2年生以上）"
+    },
+    {
+      "date": "04/18",
+      "grade": null,
+      "name": "ウェルカミングパーティー"
+    },
+    {
+      "date": "04/27",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "05/12",
+      "grade": 1,
+      "name": "生活指導（1年生）"
+    },
+    {
+      "date": "05/14",
+      "grade": null,
+      "name": "寮生総会"
+    },
+    {
+      "date": "05/18",
+      "grade": 2,
+      "name": "生活指導（2年生）"
+    },
+    {
+      "date": "05/25",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "06/10",
+      "grade": null,
+      "name": "部屋替え"
+    },
+    {
+      "date": "06/15",
+      "grade": 1,
+      "name": "生活指導（1年生）"
+    },
+    {
+      "date": "06/22",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "06/29",
+      "grade": 2,
+      "name": "生活指導（2年男子）"
+    },
+    {
+      "date": "07/06",
+      "grade": null,
+      "name": "生活指導（女子）"
+    },
+    {
+      "date": "07/13",
+      "grade": 1,
+      "name": "生活指導（1年男子）"
+    },
+    {
+      "date": "07/21",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "08/06",
+      "grade": null,
+      "name": "閉寮前大掃除"
+    },
+    {
+      "date": "08/07",
+      "grade": null,
+      "name": "閉寮"
+    },
+    {
+      "date": "09/30",
+      "grade": null,
+      "name": "開寮、部屋替え"
+    },
+    {
+      "date": "10/01",
+      "grade": null,
+      "name": "生活指導（全員）"
+    },
+    {
+      "date": "10/02",
+      "grade": null,
+      "name": "指導寮生任命式"
+    },
+    {
+      "date": "10/05",
+      "grade": 2,
+      "name": "生活指導（2年男子）"
+    },
+    {
+      "date": "10/08",
+      "grade": null,
+      "name": "寮生避難訓練"
+    },
+    {
+      "date": "10/19",
+      "grade": 1,
+      "name": "生活指導（1年生）"
+    },
+    {
+      "date": "10/24",
+      "grade": null,
+      "name": "寮祭"
+    },
+    {
+      "date": "10/25",
+      "grade": null,
+      "name": "寮祭"
+    },
+    {
+      "date": "10/26",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "11/02",
+      "grade": null,
+      "name": "入寮説明会"
+    },
+    {
+      "date": "11/30",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "12/24",
+      "grade": null,
+      "name": "閉寮前大掃除"
+    },
+    {
+      "date": "12/25",
+      "grade": null,
+      "name": "閉寮"
+    },
+    {
+      "date": "01/11",
+      "grade": null,
+      "name": "開寮"
+    },
+    {
+      "date": "01/12",
+      "grade": 1,
+      "name": "生活指導（1年生）"
+    },
+    {
+      "date": "01/18",
+      "grade": 2,
+      "name": "生活指導（2年生）"
+    },
+    {
+      "date": "01/21",
+      "grade": null,
+      "name": "寮生総会"
+    },
+    {
+      "date": "01/25",
+      "grade": null,
+      "name": "月例大掃除"
+    },
+    {
+      "date": "01/28",
+      "grade": 3,
+      "name": "生活指導（3年生）"
+    },
+    {
+      "date": "02/24",
+      "grade": null,
+      "name": "閉寮前大掃除、閉寮"
+    }
+  ]
+}
