@@ -1,6 +1,6 @@
 {
-  "version": "20260531T173120Z",
-  "generatedAt": "2026-05-31T17:31:20.895660+00:00",
+  "version": "20260601T190001Z",
+  "generatedAt": "2026-06-01T19:00:01.864209+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -64,7 +64,8 @@
         "rule-0049",
         "rule-0050",
         "rule-0051",
-        "rule-0052"
+        "rule-0052",
+        "rule-0198"
       ]
     },
     {
@@ -757,6 +758,16 @@
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/7443b721256585eb08e59a6f16ec07bc.pdf",
       "sourcePage": null,
       "lastUpdated": null
+    },
+    {
+      "id": "rule-0198",
+      "chapterId": "chapter-002",
+      "title": "和歌山工業高等専門学校保健室設置要項",
+      "summary": "和歌山工業高等専門学校の保健室設置要項です。",
+      "order": 48,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/06/de7b3f727d640aec93c8cb52c8b59e0d.pdf",
+      "sourcePage": null,
+      "lastUpdated": "2026-06-01T19:00:01.864209+00:00"
     },
     {
       "id": "rule-0053",

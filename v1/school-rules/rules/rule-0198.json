@@ -1,0 +1,106 @@
+{
+  "id": "rule-0198",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校保健室設置要項",
+  "summary": "和歌山工業高等専門学校の保健室設置要項です。",
+  "order": 48,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/06/de7b3f727d640aec93c8cb52c8b59e0d.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-06-01T19:00:01.864209+00:00",
+  "sections": [
+    {
+      "id": "rule-0198-section-01",
+      "title": "設置",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0198-article-0001",
+          "label": "第1条",
+          "body": "和歌山工業高等専門学校に、学校教育法施行規則(昭和22年文部省令第11号)第\n1条第1項及び学校保健安全法(昭和33年法律第56号)第7条の規定に基づき、健康診\n断、健康相談、保健指導、救急処置その他の保健に関する措置を行うため、保健室を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0198-section-02",
+      "title": "保健室の業務",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0198-article-0002",
+          "label": "第2条",
+          "body": "保健室は、以下の各号に定める業務を行う。\n\n一 学生の定期及び臨時の健康診断の計画及び実施並びに保健指導に関すること。\n\n二 学生及び教職員等の応急処置及び救急処置に関すること。\n\n三 災害共済給付の申請に関すること。\n\n四 学生及び教職員等からの健康相談に関すること。\n\n五 メンタルヘルスに関する相談及びカウンセリングの予約窓口に関すること。\n\n六 環境衛生及び感染症予防の教育指導に関すること。\n\n七 学生支援センターの業務支援に関すること。\n\n八 その他保健室の運営に係る業務",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0198-section-03",
+      "title": "組織",
+      "order": 3,
+      "articles": [
+        {
+          "id": "rule-0198-article-0003",
+          "label": "第3条",
+          "body": "保健室に、必要な職員を置く。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0198-section-04",
+      "title": "個人情報の取扱い",
+      "order": 4,
+      "articles": [
+        {
+          "id": "rule-0198-article-0004",
+          "label": "第4条",
+          "body": "保健室の業務を行う職員は、業務上取得した個人情報について、独立行政法人国立高\n等専門学校機構個人情報管理規則(規則第65号)及び和歌山工業高等専門学校個人情報管\n理規則(規則第75号)に則り、適切に管理しなければならない。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0198-section-05",
+      "title": "雑則",
+      "order": 5,
+      "articles": [
+        {
+          "id": "rule-0198-article-0005",
+          "label": "第5条",
+          "body": "この要項に定めるもののほか、保健室に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0198-section-06",
+      "title": "附則",
+      "order": 6,
+      "articles": [
+        {
+          "id": "rule-0198-article-0006",
+          "label": null,
+          "body": "この要項は、令和8年5月27日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "rule-0198-article-0007",
+      "label": null,
+      "body": "和歌山工業高等専門学校保健室設置要項",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
+  "relatedIds": null
+}
