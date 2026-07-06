@@ -1,16 +1,13 @@
 {
-  "version": "20260705T181214Z",
-  "generatedAt": "2026-07-05T18:12:14.355722+00:00",
+  "version": "20260706T190246Z",
+  "generatedAt": "2026-07-06T19:02:46.258512+00:00",
   "chapters": [
     {
       "id": "chapter-001",
       "title": "第1章 学則",
       "order": 1,
       "ruleIds": [
-        "rule-0191",
-        "rule-0002",
-        "rule-0192",
-        "rule-0004"
+        "rule-0191"
       ]
     },
     {
@@ -169,17 +166,8 @@
         "rule-0130",
         "rule-0131",
         "rule-0132",
-        "rule-0133",
-        "rule-0134",
         "rule-0135",
-        "rule-0136",
-        "rule-0137",
         "rule-0138",
-        "rule-0139",
-        "rule-0140",
-        "rule-0141",
-        "rule-0142",
-        "rule-0143",
         "rule-0144",
         "rule-0145",
         "rule-0146",
@@ -253,41 +241,11 @@
       "id": "rule-0191",
       "chapterId": "chapter-001",
       "title": "和歌山工業高等専門学校学則",
-      "summary": null,
+      "summary": "和歌山工業高等専門学校の学則です。",
       "order": 1,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/41a8447265d79d7c1ce20155f0353330.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/07/09085643f2fea974e2ad18d30e8418d3.pdf",
       "sourcePage": null,
-      "lastUpdated": "2026-03-17T17:31:00.774184+00:00"
-    },
-    {
-      "id": "rule-0002",
-      "chapterId": "chapter-001",
-      "title": "和歌山工業高等専門学校学則_別表第１",
-      "summary": "和歌山工業高等専門学校の一般科目単位配分表（学年・学科別）を示す。",
-      "order": 2,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/06/90180e97223c4d81d6a09c7b06bf0f7e.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0192",
-      "chapterId": "chapter-001",
-      "title": "和歌山工業高等専門学校学則_別表第２",
-      "summary": null,
-      "order": 3,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/03/75f86e4cf523d5a6038efd31149e34a0-1.pdf",
-      "sourcePage": null,
-      "lastUpdated": "2026-03-17T17:31:00.774184+00:00"
-    },
-    {
-      "id": "rule-0004",
-      "chapterId": "chapter-001",
-      "title": "和歌山工業高等専門学校学則_別表第３",
-      "summary": "メカトロニクス工学専攻とエコシステム工学専攻の授業科目・単位数・必修・選択要件を示した学則別表第３（令和5〜7年度入学）です",
-      "order": 4,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/06/24baba13cbf013390ff32b75655ddcf1.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-06T19:02:46.258512+00:00"
     },
     {
       "id": "rule-0005",
@@ -843,11 +801,11 @@
       "id": "rule-0060",
       "chapterId": "chapter-003",
       "title": "和歌山工業高等専門学校教員採用等取扱手続",
-      "summary": "和歌山工業高等専門学校の教員採用・昇任・異動手続きに関する規定です。",
+      "summary": "教員の採用・昇任・異動等に関する手続きと必要事項を定めた規程です。",
       "order": 8,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/29kyouinsaiyou.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/07/a1fa314421a1e206ef5b2ae204656afe.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-06T19:02:46.258512+00:00"
     },
     {
       "id": "rule-0061",
@@ -1372,7 +1330,7 @@
     {
       "id": "rule-0112",
       "chapterId": "chapter-004",
-      "title": "和歌山工業高等専門学校ICカード交付及び利用に関する規定",
+      "title": "和歌山工業高等専門学校ICカード交付及び利用に関する規程",
       "summary": "和歌山工業高等専門学校のICカード交付・利用に関する規定です",
       "order": 22,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/03/5a6920df22186c7ddea932b54100a3fd.pdf",
@@ -1585,126 +1543,36 @@
       "title": "和歌山工業高等専門学校地域環境デザイン工学教育プログラム履修規則",
       "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムの履修・修了に関する規則です",
       "order": 19,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/072c1eeda49e75eb644a365b13fd3dd9.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/07/267a45d292a336617762eec3f5986bb7.pdf",
       "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0133",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校地域環境デザイン工学教育プログラム履修規則別表1",
-      "summary": "申し訳ありませんが、本文が提示されていないため、内容を要約することができません。\n要約をご希望の場合は、対象の文章（別表1の具体的な内容）を貼り付けていただけますか？",
-      "order": 20,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/129dezainkougaku-risyuukisoku-beppyou1.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0134",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校地域環境デザイン工学教育プログラム履修規則別表2",
-      "summary": "和歌山工業高等専門学校の各学科における学習教育目標と評価方法をまとめた表です。",
-      "order": 21,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/129dezainkougaku-risyuukisoku-beppyou2.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-06T19:02:46.258512+00:00"
     },
     {
       "id": "rule-0135",
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校以外の高等教育機関で修得した単位及び学習の地域環境デザイン工学教育プログラムにおける取扱い",
-      "summary": "和歌山工業高等専門学校の専攻科に入学した者が、他の高等専門学校や大学で取得した単位・学修を本教育プログラムの修了に認定する手続きと基準を定めた規定です。",
-      "order": 22,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/46849ea8ab3cd24941a3ccffa80db217.pdf",
+      "summary": "本取扱いは他校で取得した単位を本教育プログラム修了単位として認定する手続きを定めています。",
+      "order": 20,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/07/33f81f557478b3dd1daaeea2cb9546df.pdf",
       "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0136",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校以外の高等教育機関で修得した単位及び学習の地域環境デザイン工学教育プログラムにおける取扱い様式１",
-      "summary": "他の高等教育機関で取得した単位を、地域環境デザイン工学教育プログラムに認定してもらうための申請書です。",
-      "order": 23,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/16838cff6c2013dad69b98dfe71f59fb.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0137",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校以外の高等教育機関で修得した単位及び学習の地域環境デザイン工学教育プログラムにおける取扱い様式2",
-      "summary": "入学前に取得した単位の認定通知書です。",
-      "order": 24,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/1c2dbe28fbe65de00fa6e9e5bcbd4309.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-06T19:02:46.258512+00:00"
     },
     {
       "id": "rule-0138",
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い",
       "summary": "和歌山工業高等専門学校専攻科における地域環境デザイン工学教育プログラムの水準に達していない科目の取扱いに関する規定です",
-      "order": 25,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun.pdf",
+      "order": 21,
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/07/7b360c8b9bae6b3c7a911f6f3b652ff3.pdf",
       "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0139",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式１",
-      "summary": "学生が履修した科目が地域環境デザイン工学教育プログラムの基準を満たしていることを証明する書類です。",
-      "order": 26,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki1.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0140",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式2",
-      "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムにおける基準未達科目の補習後の達成度を証明する様式2です。",
-      "order": 27,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki2.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0141",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式3",
-      "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムにおける水準未達科目の履修申請書です。",
-      "order": 28,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki3.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0142",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式4",
-      "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムにおける水準未達科目の補習申請書です。",
-      "order": 29,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki4.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
-    },
-    {
-      "id": "rule-0143",
-      "chapterId": "chapter-005",
-      "title": "和歌山工業高等専門学校専攻科学生に係る地域環境デザイン工学教育プログラムの定める水準に達していない科目の取扱い様式5",
-      "summary": "和歌山工業高等専門学校の地域環境デザイン工学教育プログラムにおける水準未達科目の認定・取扱いに関する通知書です。",
-      "order": 30,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/131dezainkougaku-suijun-youshiki5.pdf",
-      "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-06T19:02:46.258512+00:00"
     },
     {
       "id": "rule-0144",
       "chapterId": "chapter-005",
-      "title": "出席停止の取扱要項",
+      "title": "出席停止に関する取扱要項",
       "summary": "学生の出席停止に関する基準・手続きと通知・解除の要項です。",
-      "order": 31,
+      "order": 22,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/132syussekiteisi.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1714,7 +1582,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校学術交流協定校への留学に関する取扱要項",
       "summary": "和歌山工業高等専門学校は、学術交流協定校への留学に関する手続き、許可、単位認定、授業料納付、留学許可取消の条件等を定めた取扱要項を設けている。",
-      "order": 32,
+      "order": 23,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/133gakujutukoryukyotei-toriatukaiyoko.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1724,7 +1592,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校短期外国留学に関する取扱要項",
       "summary": "和歌山工業高等専門学校の10ヶ月未満の短期外国留学に関する許可・手続き・単位認定・授業料等の要項です。",
-      "order": 33,
+      "order": 24,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/134tankiryugakutoriatukaiyoko.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1734,7 +1602,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校教学ＩＲ室規則",
       "summary": "和歌山工業高等専門学校の教学IR室の設置・目的・組織・業務・情報管理等の規則を定めたものです。",
-      "order": 34,
+      "order": 25,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/135kyougakuIRsitukisoku.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1744,7 +1612,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校成績評価に対する異議申立てに関する取扱要項",
       "summary": "和歌山工業高等専門学校の成績評価に対する異議申立て手続きと要件を定めた取扱要項です。",
-      "order": 35,
+      "order": 26,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/10/eff408a4f1bc8b42b55bdcfef4b22157.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1754,7 +1622,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校アンケート実施要項",
       "summary": "和歌山工業高等専門学校の在校生・卒業生等を対象としたアンケート実施要項で、目的・実施内容・時期・報告・情報公開等を定めたものです。",
-      "order": 36,
+      "order": 27,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2025/11/cf77c174bb53e6edbea056c3ac3a7e49.pdf",
       "sourcePage": null,
       "lastUpdated": null
@@ -1764,7 +1632,7 @@
       "chapterId": "chapter-005",
       "title": "和歌山工業高等専門学校科目間連携要領",
       "summary": "本要領は、学科間の科目連携と授業改善のための組織と手続きを定めたものです。",
-      "order": 37,
+      "order": 28,
       "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/01/dbb55e393a3a87db133488b77688a5a5.pdf",
       "sourcePage": null,
       "lastUpdated": "2026-01-30T15:38:23.571156+00:00"

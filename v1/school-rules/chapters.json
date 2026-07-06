@@ -1,16 +1,13 @@
 {
-  "version": "20260705T181214Z",
-  "generatedAt": "2026-07-05T18:12:14.355722+00:00",
+  "version": "20260706T190246Z",
+  "generatedAt": "2026-07-06T19:02:46.258512+00:00",
   "chapters": [
     {
       "id": "chapter-001",
       "title": "第1章 学則",
       "order": 1,
       "ruleIds": [
-        "rule-0191",
-        "rule-0002",
-        "rule-0192",
-        "rule-0004"
+        "rule-0191"
       ]
     },
     {
@@ -169,17 +166,8 @@
         "rule-0130",
         "rule-0131",
         "rule-0132",
-        "rule-0133",
-        "rule-0134",
         "rule-0135",
-        "rule-0136",
-        "rule-0137",
         "rule-0138",
-        "rule-0139",
-        "rule-0140",
-        "rule-0141",
-        "rule-0142",
-        "rule-0143",
         "rule-0144",
         "rule-0145",
         "rule-0146",
