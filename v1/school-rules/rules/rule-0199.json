@@ -1,0 +1,112 @@
+{
+  "id": "rule-0199",
+  "chapterId": "chapter-002",
+  "title": "和歌山工業高等専門学校技術支援室委員会規則（R8.10.1以降）",
+  "summary": "技術支援室委員会の組織・運営と審議事項等を定めた規則です。",
+  "order": 22,
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/08/00231666b7ccf2b4ac52212b5769afd5.pdf",
+  "sourcePage": null,
+  "lastUpdated": "2026-08-07T17:46:08.403455+00:00",
+  "sections": [
+    {
+      "id": "rule-0199-section-01",
+      "title": "和歌山工業高等専門学校技術支援室委員会規則",
+      "order": 1,
+      "articles": [
+        {
+          "id": "rule-0199-article-0001",
+          "label": "第1条",
+          "body": "この規則は、和歌山工業高等専門学校技術支援室規則(規則第26号)第11条第<br>2項の規定に基づき、技術支援室委員会(以下「委員会」という。)の組織及び運営に関<br>し必要な事項を定めるものとする。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    },
+    {
+      "id": "rule-0199-section-02",
+      "title": "(審議事項)",
+      "order": 2,
+      "articles": [
+        {
+          "id": "rule-0199-article-0002",
+          "label": "第2条",
+          "body": "委員会は、次に掲げる事項を審議する。\n\n一 技術支援室の業務計画の策定に関する事項\n\n二 学生の実験·実習、卒業研究等及び課外活動の技術支援に関する事項\n\n三 工作機器·実験設備等の保守に関する事項\n\n四 教員の教育研究活動に伴う技術支援に関する事項\n\n五 地域連携活動に伴う技術支援に関する事項\n\n六 サイバーセキュリティ及び情報ネットワーク等の技術支援に関する事項\n\n七 技術の習得、継承、保存及び研修に関する事項\n\n八 その他教育·研究の支援に関する事項\n\n九 技術支援室の構成員に関する事項\n\n十 前項に掲げるものの他、校長から指示のあった事項",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0003",
+          "label": "第3条",
+          "body": "委員会は、次の各号に掲げる者をもって組織する。\n\n一 技術支援室長\n\n二 教務主事\n\n三 メディアセンター長\n\n四 地域共同テクノセンター長\n\n五 事務部長\n\n六 学科主任及び総合教育科主任\n\n七 技術長\n\n八 その他校長が必要と認めた者",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0004",
+          "label": "第4条",
+          "body": "前条第八号の委員の任期は1年とし、再任は妨げない。ただし、欠員となった場合<br>の後任者の任期は、前任者の残任期間とする。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0005",
+          "label": "第5条",
+          "body": "委員会に委員長を置き、技術支援室長をもって充てる。\n\n2 委員会は、委員長が招集し、その議長となる。\n\n3 委員長に事故が生じた場合は、委員長があらかじめ指名した委員がその職務を代行す<br>る。\n\n1 / 2\n\n4 委員長が必要と認めたときは、委員以外の者を出席させて説明又は意見を求めること<br>ができる。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0006",
+          "label": "第6条",
+          "body": "委員会に専門部会を置くことができる。\n\n2 専門部会に関し必要な事項は、別に定める。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0007",
+          "label": "第7条",
+          "body": "委員会の事務は、技術支援室において処理する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0008",
+          "label": "附 則",
+          "body": "平成17年4月1日に制定された、技術支援室規則は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0009",
+          "label": "附 則",
+          "body": "この規則は、平成21年1月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0010",
+          "label": "附 則",
+          "body": "この規則は、令和6年4月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0011",
+          "label": "附 則",
+          "body": "この規則は、令和7年7月23日から施行し、令和7年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0199-article-0012",
+          "label": "附 則",
+          "body": "この規則は、令和8年10月1日から施行する。",
+          "notes": null,
+          "relatedIds": null
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "relatedIds": null
+}
