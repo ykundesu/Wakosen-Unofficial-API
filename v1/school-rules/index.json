@@ -1,6 +1,6 @@
 {
-  "version": "20261110T220645Z",
-  "generatedAt": "2026-11-10T22:06:45.028981+00:00",
+  "version": "20261111T231530Z",
+  "generatedAt": "2026-11-11T23:15:30.730640+00:00",
   "chapters": [
     {
       "id": "chapter-001",
@@ -300,11 +300,11 @@
       "id": "rule-0010",
       "chapterId": "chapter-002",
       "title": "和歌山工業高等専門学校広報委員会規則",
-      "summary": "和歌山工業高等専門学校の広報委員会設置と運営に関する規則です。",
+      "summary": "和歌山工業高等専門学校の広報委員会の設置・組織・運営に関する規則です。",
       "order": 6,
-      "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/7kouhouiinkai.pdf",
+      "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/11/575d1aee5eb228291e76bc61d1e3d4d2.pdf",
       "sourcePage": null,
-      "lastUpdated": null
+      "lastUpdated": "2026-11-11T23:15:30.730640+00:00"
     },
     {
       "id": "rule-0011",

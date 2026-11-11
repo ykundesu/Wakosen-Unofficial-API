@@ -2,28 +2,21 @@
   "id": "rule-0010",
   "chapterId": "chapter-002",
   "title": "和歌山工業高等専門学校広報委員会規則",
+  "summary": "和歌山工業高等専門学校の広報委員会の設置・組織・運営に関する規則です。",
   "order": 6,
-  "pdfUrl": "https://www.wakayama-nct.ac.jp/media/rules/7kouhouiinkai.pdf",
-  "summary": "和歌山工業高等専門学校の広報委員会設置と運営に関する規則です。",
+  "pdfUrl": "https://www.wakayama-nct.ac.jp/wp-content/uploads/2026/11/575d1aee5eb228291e76bc61d1e3d4d2.pdf",
   "sourcePage": null,
-  "lastUpdated": null,
+  "lastUpdated": "2026-11-11T23:15:30.730640+00:00",
   "sections": [
     {
       "id": "rule-0010-section-01",
-      "title": "(設置)",
+      "title": "和歌山工業高等専門学校広報委員会規則",
       "order": 1,
       "articles": [
         {
           "id": "rule-0010-article-0001",
-          "label": null,
-          "body": "制 定 平成28年10月20日",
-          "notes": null,
-          "relatedIds": null
-        },
-        {
-          "id": "rule-0010-article-0002",
           "label": "第1条",
-          "body": "和歌山工業高等専門学校（以下「本校」という。）に、本校における広報活動の推進および<br>管理運営を円滑適正に行うため、和歌山工業高等専門学校広報委員会（以下「委員会」という。）を置く。",
+          "body": "この規則は、和歌山工業高等専門学校組織規則第12条に基づき、広報委員会\\(以下「委<br>員会」という。\\)の設置並びに組織及び運営等に関し、必要な事項を定めるものとする。",
           "notes": null,
           "relatedIds": null
         }
@@ -35,9 +28,9 @@
       "order": 2,
       "articles": [
         {
-          "id": "rule-0010-article-0003",
+          "id": "rule-0010-article-0002",
           "label": "第2条",
-          "body": "委員会は、次の各号の事項を審議する。\n\n一 広報の基本的方策に関する事項\n\n広報にかかる具体的方策の企画·立案に関する事項\n\n三 z\nホームページの管理運用に関する事項\n\n四\n年報の発行に関する事項\n\n五\n学校要覧の発行に関する事項\n\n学園だよりの発行に関する事項\n\n七 その他広報に関する事項",
+          "body": "委員会は、次の各号の事項を審議する。\n\n一  広報の基本的方策に関する事項\n\n二  広報にかかる具体的方策の企画·立案に関する事項\n\n三  ホームページの管理運用に関する事項\n\n四  公式SNS の管理運用に関する事項\n\n五  広報紙の発行に関する事項\n\n六  その他広報に関する事項",
           "notes": null,
           "relatedIds": null
         }
@@ -49,9 +42,9 @@
       "order": 3,
       "articles": [
         {
-          "id": "rule-0010-article-0004",
+          "id": "rule-0010-article-0003",
           "label": "第3条",
-          "body": "ミ 委員会は、次の各号に掲げる者をもって組織する」\n\n--\n副校長\n\n二\n学科教員各1名\n\n三\n技術支援室職員1名\n\n四\n総務課職員1名\n\n五\n学生課職員1名\n\n六\nその他校長が必要と認めた者",
+          "body": "委員会は、次の各号に掲げる者をもって組織する。\n\n一<br>各学科教員 1名\n\n二<br>総合教育科教員 1名\n\n三  :<br>技術支援室職員 1名\n\n四<br>総務課職員 1名\n\n五<br>学生課職員 1名\n\n六<br>その他校長が必要と認めた者",
           "notes": null,
           "relatedIds": null
         }
@@ -63,7 +56,7 @@
       "order": 4,
       "articles": [
         {
-          "id": "rule-0010-article-0005",
+          "id": "rule-0010-article-0004",
           "label": "第4条",
           "body": "前条第二号から第六号までの委員の任期は、1年とする。ただし、再任を妨げない。\n\n2 前条の委員に欠員が生じた場合の後任者の任期は、前任者の残任期間とする。",
           "notes": null,
@@ -77,9 +70,9 @@
       "order": 5,
       "articles": [
         {
-          "id": "rule-0010-article-0006",
+          "id": "rule-0010-article-0005",
           "label": "第5条",
-          "body": "委員会に委員長を置き、副校長をもって充てる。\n\n2 委員長は、委員会を招集し、その議長となる。\n\n3 委員会に副委員長を2名置き、学科教員をもって充てる。\n\n4 委員長に事故あるときは、あらかじめ委員長が指名した副委員長がその職務を代行する。",
+          "body": "委員会に委員長を置き、本校教職員から校長が指名する。\n\n2 委員長は、第3条に掲げる委員を兼ねることができる。\n\n3 委員長は、委員会を招集し、その議長となる。\n\n4 委員会に副委員長を置き、副委員長は委員長を補佐する。",
           "notes": null,
           "relatedIds": null
         }
@@ -91,9 +84,9 @@
       "order": 6,
       "articles": [
         {
-          "id": "rule-0010-article-0007",
+          "id": "rule-0010-article-0006",
           "label": "第6条",
-          "body": "委員会に関する事務は総務課総務·企画係において処理する。",
+          "body": "委員会の運営に関する事務は総務課において処理する。\n\n2 広報に関する事業に係る事務は総務課および学生課で連携して行う。",
           "notes": null,
           "relatedIds": null
         }
@@ -105,7 +98,7 @@
       "order": 7,
       "articles": [
         {
-          "id": "rule-0010-article-0008",
+          "id": "rule-0010-article-0007",
           "label": "第7条",
           "body": "この規則に定めるもののほか、運営に関して必要な事項は委員会が別に定める。",
           "notes": null,
@@ -115,19 +108,41 @@
     },
     {
       "id": "rule-0010-section-08",
-      "title": "附則",
+      "title": "附 則",
       "order": 8,
       "articles": [
         {
+          "id": "rule-0010-article-0008",
+          "label": null,
+          "body": "1<br>この規則は、平成28年10月20日から施行し、平成28年4月1日から適用する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
           "id": "rule-0010-article-0009",
           "label": null,
-          "body": "1 この規則は、平成28年10月20日から施行し、平成28年4月1日から適用する。\n\n和歌山工業高等専門学校情報企画委員会規則（平成15年4月1日制定）は廃止する。",
+          "body": "2<br>和歌山工業高等専門学校情報企画委員会規則\\(平成15年4月1日制定\\)は廃止する。",
+          "notes": null,
+          "relatedIds": null
+        },
+        {
+          "id": "rule-0010-article-0010",
+          "label": null,
+          "body": "3 この規則は、令和8年4月1日から施行する。",
           "notes": null,
           "relatedIds": null
         }
       ]
     }
   ],
-  "articles": null,
+  "articles": [
+    {
+      "id": "rule-0010-article-0011",
+      "label": null,
+      "body": "(趣旨)",
+      "notes": null,
+      "relatedIds": null
+    }
+  ],
   "relatedIds": null
 }
